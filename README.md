@@ -1,9 +1,10 @@
 # VPN-free项目
+## 一、介绍
 玉桂家园免费VPN提供免费的，随时更新的VPN加速服务，可以免费使用的VPN加速服务。
 
-手动提交+自动搜集，实现完全可用的多节点VPN，请勿滥用。
+注：本项目采用手动提交+自动搜集，实现完全可用的多节点VPN，请勿滥用。
 
-## 推荐工具
+## 二、推荐工具
 ### Android平台
 [SSRRAY](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)/[Clash](https://github.com/Kr328/ClashForAndroid/releases)
 
@@ -22,11 +23,14 @@ Openclash
 ### 节点测速工具
 [LiteSpeedTest](https://github.com/xxf098/LiteSpeedTest/releases)
 
-## 订阅地址(更新中)
+## 三、使用方法
+复制订阅地址到网络工具即可，亦可直接复制节点地址
+
+### 订阅地址(更新中)
 - ``  
 - ``
 
-## 最新节点
+### 节点地址(更新中)
 ```
 
 ```
