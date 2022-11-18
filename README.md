@@ -1,7 +1,7 @@
 # 玉桂家园免费VPN
 玉桂家园免费VPN提供免费的，随时更新的VPN加速服务，可以免费使用的VPN加速服务。
+
 手动提交+自动搜集，实现完全可用的多节点VPN，请勿滥用。
-更新时间 2022-11-17，已运行1天
 
 ## 推荐工具
 ### Android平台
@@ -15,6 +15,9 @@
 
 ### iOS/iPadOS
 Shadowrocket/Quantumult(X)
+
+### Router/Openwrt
+Openclash
 
 ### 节点测速工具
 [LiteSpeedTest](https://github.com/xxf098/LiteSpeedTest/releases)
