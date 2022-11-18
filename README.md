@@ -18,7 +18,7 @@
 Shadowrocket/Quantumult(X)
 
 ### Router/Openwrt
-Openclash
+[Openclash](https://github.com/vernesong/OpenClash/releases)
 
 ### 节点测速工具
 [LiteSpeedTest](https://github.com/xxf098/LiteSpeedTest/releases)
