@@ -31,30 +31,22 @@ Shadowrocket/Quantumult(X)
 #### 默认订阅地址
 - 通用：`https://vpn-free.mojy.xyz/conf/data.txt`
 - Clash：`https://vpn-free.mojy.xyz/conf/clash.conf`
-- Quantumult：`https://vpn-free.mojy.xyz/conf/quantumult.conf`
-- QuantumultX：`https://vpn-free.mojy.xyz/conf/quantumultx.conf`
 
 其它客户端请使用[订阅转换](https://acl4ssr.netlify.app)
 
 #### 玉桂更新服务
 - 通用：`https://update.mojy.xyz/vpn-free/.new/data.txt`
 - Clash：`https://update.mojy.xyz/vpn-free/.new/clash.conf`
-- Quantumult：`https://update.mojy.xyz/vpn-free/.new/quantumult.conf`
-- QuantumultX：`https://update.mojy.xyz/vpn-free/.new/quantumultx.conf`
 
 其它客户端请使用[订阅转换](https://acl4ssr.netlify.app)
 
 #### CDNMOE
 - 通用：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/data.txt`
 - Clash：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/clash.conf`
-- Quantumult：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/quantumult.conf`
-- QuantumultX：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/quantumultx.conf`
 
 #### jsDelivr
 - 通用：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/data.txt`
 - Clash：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/clash.conf`
-- Quantumult：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/quantumult.conf`
-- QuantumultX：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/quantumultx.conf`
 
 ### 第三方订阅地址
 ```
