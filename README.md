@@ -30,6 +30,13 @@ Shadowrocket/Quantumult(X)
 ### 官方订阅地址
 #### 默认订阅地址
 - 通用：`https://vpn-free.mojy.xyz/conf/data.txt`
+- Clash：`https://vpn-free.mojy.xyz/conf/clash.conf`
+- Quantumult：`https://vpn-free.mojy.xyz/conf/quantumult.conf`
+- QuantumultX：`https://vpn-free.mojy.xyz/conf/quantumultx.conf`
+- Surge2：`https://vpn-free.mojy.xyz/conf/surge2.conf`
+- Surge3：`https://vpn-free.mojy.xyz/conf/surge3.conf`
+- Surge4：`https://vpn-free.mojy.xyz/conf/surge4.conf`
+其它客户端请使用[订阅转换](https://acl4ssr.netlify.app)
 
 #### 玉桂更新服务
 - ``  
