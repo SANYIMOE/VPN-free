@@ -29,6 +29,7 @@ Shadowrocket/Quantumult(X)
 ### 订阅地址
 ### 官方订阅地址
 #### 默认订阅地址
+- 通用：`https://vpn-free.mojy.xyz/conf/data.txt`
 
 #### 玉桂更新服务
 - ``  
