@@ -89,4 +89,4 @@ Shadowrocket/Quantumult(X)
 无数据
 
 ### 节点地址
-节点地址
+节点地址请见[节点地址](https://vpn-free.mojy.xyz/conf/data_new.txt)
