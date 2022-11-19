@@ -40,12 +40,33 @@ Shadowrocket/Quantumult(X)
 其它客户端请使用[订阅转换](https://acl4ssr.netlify.app)
 
 #### 玉桂更新服务
-- ``  
-- ``
+- 通用：`https://update.mojy.xyz/vpn-free/.new/data.txt`
+- Clash：`https://update.mojy.xyz/vpn-free/.new/clash.conf`
+- Quantumult：`https://update.mojy.xyz/vpn-free/.new/quantumult.conf`
+- QuantumultX：`https://update.mojy.xyz/vpn-free/.new/quantumultx.conf`
+- Surge2：`https://update.mojy.xyz/vpn-free/.new/surge2.conf`
+- Surge3：`https://update.mojy.xyz/vpn-free/.new/surge3.conf`
+- Surge4：`https://update.mojy.xyz/vpn-free/.new/surge4.conf`
+
+其它客户端请使用[订阅转换](https://acl4ssr.netlify.app)
 
 #### CDNMOE
+- 通用：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/data.txt`
+- Clash：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/clash.conf`
+- Quantumult：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/quantumult.conf`
+- QuantumultX：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/quantumultx.conf`
+- Surge2：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/surge2.conf`
+- Surge3：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/surge3.conf`
+- Surge4：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/surge4.conf`
 
 #### jsDelivr
+- 通用：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/data.txt`
+- Clash：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/clash.conf`
+- Quantumult：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/quantumult.conf`
+- QuantumultX：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/quantumultx.conf`
+- Surge2：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/surge2.conf`
+- Surge3：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/surge3.conf`
+- Surge4：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/surge4.conf`
 
 ### 第三方订阅地址
 ```
