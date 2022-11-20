@@ -22,6 +22,8 @@ vmess://YXV0bzo4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2VANDYuNzJpbWcueHl6
 trojan://3d634a9c-f7a5-3f79-8947-074e69a2454b@zhilianwr2.suyun.live:45024?allowInsecure=1&peer=zhilianwr2.suyun.live#%E7%BE%8E%E5%9B%BD-%E5%85%AC%E7%9B%8A1
 # 美国-公益2
 vmess://YXV0bzoyYTQ5MThkZS1hZGNlLTRjNGUtYWEwMC04OGE0MjI3Y2Y2ZWFAdGFvYmFvLmJhYmF6aHVqaS5jb206NDQz?remarks=%E7%BE%8E%E5%9B%BD-%E5%85%AC%E7%9B%8A2&obfsParam=taobao.babazhuji.com&path=/didi&obfs=websocket&tls=1&alterId=0
+# 美国-公益3
+vmess://YXV0bzo5MTY0NmY5YS1iNGU5LTRhY2EtYmZlMy04ODkyYjNlNThmZTdAMTA0LjI5LjY0LjI1OjQ0Mw?remarks=%E7%BE%8E%E5%9B%BD-%E5%85%AC%E7%9B%8A3&obfsParam=lg30.cfcdn3.xyz&path=/ray&obfs=websocket&tls=1&alterId=0
 # 法国-公益1
 trojan://origin@content-provider12.cdn-delivery.akamaicd.com:443?allowInsecure=1&peer=content-provider12.cdn-delivery.akamaicd.com#%E6%B3%95%E5%9B%BD-%E5%85%AC%E7%9B%8A1
 # 法国-公益2
