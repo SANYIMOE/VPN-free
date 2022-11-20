@@ -31,36 +31,24 @@ Shadowrocket/Quantumult(X)
 #### 默认订阅地址
 - 通用：`https://vpn-free.mojy.xyz/conf/data.txt`
 - Clash：`https://vpn-free.mojy.xyz/conf/clash.conf`
-- 仅ss/ssr：`https://vpn-free.mojy.xyz/conf/data_ss.txt`
-- 仅vmess：`https://vpn-free.mojy.xyz/conf/data_vmess.txt`
-- 仅Trojan：`https://vpn-free.mojy.xyz/conf/data_trojan.txt`
 
 其它客户端请使用[订阅转换](https://acl4ssr.netlify.app)
 
 #### 玉桂更新服务
 - 通用：`https://update.mojy.xyz/vpn-free/.new/data.txt`
 - Clash：`https://update.mojy.xyz/vpn-free/.new/clash.conf`
-- 仅ss/ssr：`https://update.mojy.xyz/vpn-free/.new/data_ss.txt`
-- 仅vmess：`https://update.mojy.xyz/vpn-free/.new/data_vmess.txt`
-- 仅Trojan：`https://update.mojy.xyz/vpn-free/.new/data_trojan.txt`
 
 其它客户端请使用[订阅转换](https://acl4ssr.netlify.app)
 
 #### CDNMOE
 - 通用：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/data.txt`
 - Clash：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/clash.conf`
-- 仅ss/ssr：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/data_ss.txt`
-- 仅vmess：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/data_vmess.txt`
-- 仅Trojan：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/data_trojan.txt`
 
 其它客户端请使用[订阅转换](https://acl4ssr.netlify.app)
 
 #### jsDelivr
 - 通用：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/data.txt`
 - Clash：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/clash.conf`
-- 仅ss/ssr：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/data_ss.txt`
-- 仅vmess：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/data_vmess.txt`
-- 仅Trojan：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/data_trojan.txt`
 
 其它客户端请使用[订阅转换](https://acl4ssr.netlify.app)
 
@@ -85,4 +73,4 @@ Shadowrocket/Quantumult(X)
 无数据
 
 ### 节点地址
-节点地址请见[全部节点](https://vpn-free.mojy.xyz/conf/data_new.txt)、[ss/ssr](https://vpn-free.mojy.xyz/conf/data_ss_new.txt)、[vmess](https://vpn-free.mojy.xyz/conf/data_vmess_new.txt)、[trojan](https://vpn-free.mojy.xyz/conf/data_trojan_new.txt)
+节点地址请见[全部节点](https://vpn-free.mojy.xyz/conf/data_new.txt)
