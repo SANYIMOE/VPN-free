@@ -30,33 +30,25 @@ Shadowrocket/Quantumult(X)
 ### 官方订阅地址
 #### 默认订阅地址
 - 通用：`https://vpn-free.mojy.xyz/conf/data.txt`
-- Trojan：`https://vpn-free.mojy.xyz/conf/trojan.txt`
 - Clash：`https://vpn-free.mojy.xyz/conf/clash.conf`
-- Clash_Trojan：`https://vpn-free.mojy.xyz/conf/clash_trojan.conf`
 
 其它客户端请使用[订阅转换](https://acl4ssr.netlify.app)
 
 #### 玉桂更新服务
 - 通用：`https://update.mojy.xyz/vpn-free/.new/data.txt`
-- Trojan：`https://update.mojy.xyz/vpn-free/.new/trojan.txt`
 - Clash：`https://update.mojy.xyz/vpn-free/.new/clash.conf`
-- Clash_Trojan：`https://update.mojy.xyz/vpn-free/.new/clash_trojan.conf`
 
 其它客户端请使用[订阅转换](https://acl4ssr.netlify.app)
 
 #### CDNMOE
 - 通用：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/data.txt`
-- Trojan：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/trojan.txt`
 - Clash：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/clash.conf`
-- Clash_Trojan：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/clash_trojan.conf`
 
 其它客户端请使用[订阅转换](https://acl4ssr.netlify.app)
 
 #### jsDelivr
 - 通用：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/data.txt`
-- Trojan：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/trojan.txt`
 - Clash：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/clash.conf`
-- Clash_Trojan：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/clash_trojan.conf`
 
 其它客户端请使用[订阅转换](https://acl4ssr.netlify.app)
 
@@ -82,5 +74,3 @@ Shadowrocket/Quantumult(X)
 
 ### 节点地址
 节点地址请见[节点地址](https://vpn-free.mojy.xyz/conf/data_new.txt)
-
-Trojan节点请见[Trojan节点](https://vpn-free.mojy.xyz/conf/trojan_new.txt)
