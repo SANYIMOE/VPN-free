@@ -22,22 +22,21 @@ trojan://Sp3eDVp@51.77.71.131:443?allowInsecure=1#%E6%B3%95%E5%9B%BD-%E5%85%AC%E
 ss://YWVzLTI1Ni1jZmI6MUB3OjQ0Mw#%E2%AC%86%EF%B8%8F%E5%85%AC%E7%9B%8A%E8%8A%82%E7%82%B9%E2%AC%86%EF%B8%8F
 ss://YWVzLTI1Ni1jZmI6MUB3OjQ0Mw#%E2%AC%87%EF%B8%8F%E6%9D%A5%E8%87%AA2220.it%E2%AC%87%EF%B8%8F
 # 来自2220.it Start
-# Us Global x0.1 | 🇨🇳D+ NF Hbo DMF
-vmess://YXV0bzpkYmE3MjU2OC00ZjQ5LTNmZGYtYjY1YS0zZmQ4ZmNjOTdmNWVAMTcxLjIyLjEzMC42NDo2NTUzNA?remarks=%F0%9F%87%BA%F0%9F%87%B8%20%20Us%20Global%20x0.1%20%7C%20%F0%9F%87%A8%F0%9F%87%B3D+%20NF%20Hbo%20DMF&obfsParam=apidu02.aaablog.xyz&path=/xxX2&obfs=websocket&alterId=0
 # Us 01 | x0.5 流媒体
 vmess://YXV0bzpkYmE3MjU2OC00ZjQ5LTNmZGYtYjY1YS0zZmQ4ZmNjOTdmNWVAMTcxLjIyLjEzMC4xNTk6NjU1MzU?remarks=%F0%9F%87%BA%F0%9F%87%B8%20%20Us%2001%20%7C%20x0.5%20%E6%B5%81%E5%AA%92%E4%BD%93&obfsParam=apidu03.aaablog.xyz&path=/xxX1&obfs=websocket&alterId=0
-# Japan 01 | NF🇯🇵
-vmess://YXV0bzpkYmE3MjU2OC00ZjQ5LTNmZGYtYjY1YS0zZmQ4ZmNjOTdmNWVAMTU0LjMxLjExMy45MzozMzM1MQ?remarks=%F0%9F%87%AF%F0%9F%87%B5%20Japan%2001%20%7C%20NF%F0%9F%87%AF%F0%9F%87%B5&obfsParam=jp01.091.se&path=/xxX1&obfs=websocket&alterId=0
-# Singapore 01
-vmess://YXV0bzpkYmE3MjU2OC00ZjQ5LTNmZGYtYjY1YS0zZmQ4ZmNjOTdmNWVAMTAzLjIzMS4xODguMzc6MzMzMjA?remarks=%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2001&obfsParam=apid08.091.se&path=/xxX1&obfs=websocket&alterId=0
-# Singapore 02
-vmess://YXV0bzpkYmE3MjU2OC00ZjQ5LTNmZGYtYjY1YS0zZmQ4ZmNjOTdmNWVAMTAzLjEzNS4yNTAuMTU3OjQ1Njc4?remarks=%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2002&obfsParam=apid13.091.se&path=/xxX1&obfs=websocket&alterId=0
-# Singapore 03
-vmess://YXV0bzpkYmE3MjU2OC00ZjQ5LTNmZGYtYjY1YS0zZmQ4ZmNjOTdmNWVAMTAzLjEzNS4yNTAuMTU3OjQ1Njc5?remarks=%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2003&obfsParam=apid13.091.se&path=/xxX2&obfs=websocket&alterId=0
-# Tw 01 | NF
-vmess://YXV0bzpkYmE3MjU2OC00ZjQ5LTNmZGYtYjY1YS0zZmQ4ZmNjOTdmNWVANDUuMTIxLjUwLjY5OjQ1Njc4?remarks=%F0%9F%87%A8%F0%9F%87%B3%20Tw%2001%20%7C%20NF&obfsParam=mytw2.091.se&path=/xxX1&obfs=websocket&alterId=0
-# UK 01
-vmess://YXV0bzpkYmE3MjU2OC00ZjQ5LTNmZGYtYjY1YS0zZmQ4ZmNjOTdmNWVAOTQuMjI5LjcyLjU2OjE4ODg4?remarks=%F0%9F%87%AC%F0%9F%87%A7%20UK%2001&obfsParam=46.091.se&path=/xxX1&obfs=websocket&alterId=0
+# Us 02 | x0.5 流媒体
+vmess://YXV0bzpkYmE3MjU2OC00ZjQ5LTNmZGYtYjY1YS0zZmQ4ZmNjOTdmNWVAYXBpLmFhYWJsb2cueHl6OjQ0Mw?remarks=%F0%9F%87%BA%F0%9F%87%B8%20%20Us%2002%20%7C%20x0.5%20%E6%B5%81%E5%AA%92%E4%BD%93&obfsParam=apidu03.aaablog.xyz&path=/xxX2&obfs=websocket&tls=1&peer=apidu03.aaablog.xyz&alterId=0
+# Us Global x0.1 | 🇨🇳D+ NF Hbo DMF
+vmess://YXV0bzpkYmE3MjU2OC00ZjQ5LTNmZGYtYjY1YS0zZmQ4ZmNjOTdmNWVAMTcxLjIyLjEzMC42NDo2NTUzNA?remarks=%F0%9F%87%BA%F0%9F%87%B8%20%20Us%20Global%20x0.1%20%7C%20%F0%9F%87%A8%F0%9F%87%B3D+%20NF%20Hbo%20DMF&obfsParam=apidu02.aaablog.xyz&path=/xxX2&obfs=websocket&alterId=0
+# Us | x0 群管理X 提供
+trojan://dba72568-4f49-3fdf-b65a-3fd8fcc97f5e@my2.092.se:65534?peer=my2.092.se&xtls=1#%F0%9F%87%BA%F0%9F%87%B8%20Us%20%7C%20x0%20%E7%BE%A4%E7%AE%A1%E7%90%86X%20%E6%8F%90%E4%BE%9B%20
+# Us搬瓦工 | x0 @GreenToLink提供
+vmess://YXV0bzpkYmE3MjU2OC00ZjQ5LTNmZGYtYjY1YS0zZmQ4ZmNjOTdmNWVAZnJkYXBpLjA5MS5zZTo2NTUzNQ?remarks=%F0%9F%87%BA%F0%9F%87%B8%20Us%E6%90%AC%E7%93%A6%E5%B7%A5%20%7C%20x0%20@GreenToLink%E6%8F%90%E4%BE%9B&obfsParam=frdapi.091.se&path=/xxX1&obfs=websocket&alterId=0
+# US 01 | 0.5x | NF
+trojan://dba72568-4f49-3fdf-b65a-3fd8fcc97f5e@172.64.155.242:443?peer=apiu7.093.se&plugin=obfs-local;obfs=websocket;obfs-host=apiu7.093.se;obfs-uri=/xxX1#%F0%9F%87%BA%F0%9F%87%B8%20US%2001%20%7C%200.5x%20%7C%20NF
+# US 02 | 0.5x | NF
+trojan://dba72568-4f49-3fdf-b65a-3fd8fcc97f5e@172.64.155.200:443?peer=apiu7.093.se&plugin=obfs-local;obfs=websocket;obfs-host=apiu7.093.se;obfs-uri=/xxX1#%F0%9F%87%BA%F0%9F%87%B8%20US%2002%20%7C%200.5x%20%7C%20NF
+
 # 来自2220.it End
 ss://YWVzLTI1Ni1jZmI6MUB3OjQ0Mw#%E2%AC%86%EF%B8%8F%E6%9D%A5%E8%87%AA2220.it%E2%AC%86%EF%B8%8F
 ss://YWVzLTI1Ni1jZmI6MUB3OjQ0Mw#%E2%AC%87%EF%B8%8F%E6%9D%A5%E8%87%AAconsole.catnet.uk%E2%AC%87%EF%B8%8F
