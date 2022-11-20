@@ -44,9 +44,13 @@ Shadowrocket/Quantumult(X)
 - 通用：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/data.txt`
 - Clash：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/clash.conf`
 
+其它客户端请使用[订阅转换](https://acl4ssr.netlify.app)
+
 #### jsDelivr
 - 通用：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/data.txt`
 - Clash：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/clash.conf`
+
+其它客户端请使用[订阅转换](https://acl4ssr.netlify.app)
 
 ### 第三方订阅地址
 ```
