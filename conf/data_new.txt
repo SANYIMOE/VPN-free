@@ -4,6 +4,10 @@ ss://YWVzLTI1Ni1jZmI6MUB3OjQ0Mw#%E2%AC%87%EF%B8%8F%E5%85%AC%E7%9B%8A%E8%8A%82%E7
 ss://YWVzLTI1Ni1nY206YTE0MjI3NTY5MjFAWzJhMDE6NGY4OjEzYToyNjkwOmZhY2U6MTJiMzo1MzM3OjAwMDFdOjQ0Mw#%E5%BE%B7%E5%9B%BD-ipv6-%E9%9D%92%E4%BA%91%E4%BE%9D%E5%85%AE
 # 香港-公益1
 vmess://YXV0bzo2MDkzZWVmYi03YWI2LTQxZGYtYWJhMC1kNWZhNTgxNDdlMTBAMTE5LjI0Ny4xMTkuMjEyOjQ0Mw?remarks=%E9%A6%99%E6%B8%AF-%E5%85%AC%E7%9B%8A1&obfsParam=surongwei.eu.org&path=/reffs7y26g0ua&obfs=websocket&tls=1&alterId=0
+# 日本-公益1
+trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443?peer=stutter.freetrade.link#%E6%97%A5%E6%9C%AC-%E5%85%AC%E7%9B%8A1
+# 日本-公益2
+trojan://ZEIR0qFZau9jOp7x6e8e4y3AaXwS2SzD3llxTyRYKCF8DCD3c5Y3pgNnaSOBAC@45.64.22.55:443?peer=tensely.freetrade.link#%E6%97%A5%E6%9C%AC-%E5%85%AC%E7%9B%8A2
 # 泰国-公益1
 vmess://Y2hhY2hhMjAtcG9seTEzMDU6Y2FkMjNjYTAtMzM2YS0zNDYzLWE0YjQtNDRjMWVjZTk2YjMwQGF6aGswMS5hamRramFsamRqLnh5ejo5MTIy?remarks=%E6%B3%B0%E5%9B%BD-%E5%85%AC%E7%9B%8A1&obfsParam=live.bilibili.com&path=/6&obfs=websocket
 # 泰国-公益2
@@ -18,6 +22,8 @@ trojan://3d634a9c-f7a5-3f79-8947-074e69a2454b@zhilianwr2.suyun.live:45024?allowI
 trojan://origin@content-provider12.cdn-delivery.akamaicd.com:443?allowInsecure=1&peer=content-provider12.cdn-delivery.akamaicd.com#%E6%B3%95%E5%9B%BD-%E5%85%AC%E7%9B%8A1
 # 法国-公益2
 trojan://Sp3eDVp@51.77.71.131:443?allowInsecure=1#%E6%B3%95%E5%9B%BD-%E5%85%AC%E7%9B%8A2
+# 印度-公益1
+vless://YXV0bzoyNWRmYjAyZi0yZWQ2LTQyODgtZGZkMi1iNTJjNzExNzM2NTBAYi5scmEuY246NDQz?remarks=%E5%8D%B0%E5%BA%A6-%E5%85%AC%E7%9B%8A1&obfsParam=cf.clol.ml&path=/xray&obfs=websocket&tls=1
 # 公益节点 End
 ss://YWVzLTI1Ni1jZmI6MUB3OjQ0Mw#%E2%AC%86%EF%B8%8F%E5%85%AC%E7%9B%8A%E8%8A%82%E7%82%B9%E2%AC%86%EF%B8%8F
 ss://YWVzLTI1Ni1jZmI6MUB3OjQ0Mw#%E2%AC%87%EF%B8%8F%E6%9D%A5%E8%87%AA2220.it%E2%AC%87%EF%B8%8F
