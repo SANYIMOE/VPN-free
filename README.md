@@ -85,4 +85,4 @@ Shadowrocket/Quantumult(X)
 无数据
 
 ### 节点地址
-节点地址请见[ss/ssr](https://vpn-free.mojy.xyz/conf/data_ss_new.txt)、[vmess](https://vpn-free.mojy.xyz/conf/data_vmess_new.txt)、[trojan](https://vpn-free.mojy.xyz/conf/data_trojan_new.txt)
+节点地址请见[全部节点](https://vpn-free.mojy.xyz/conf/data_new.txt)、[ss/ssr](https://vpn-free.mojy.xyz/conf/data_ss_new.txt)、[vmess](https://vpn-free.mojy.xyz/conf/data_vmess_new.txt)、[trojan](https://vpn-free.mojy.xyz/conf/data_trojan_new.txt)
