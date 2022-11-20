@@ -32,6 +32,10 @@ trojan://Sp3eDVp@51.77.71.131:443?allowInsecure=1#%E6%B3%95%E5%9B%BD-%E5%85%AC%E
 vless://YXV0bzoyNWRmYjAyZi0yZWQ2LTQyODgtZGZkMi1iNTJjNzExNzM2NTBAYi5scmEuY246NDQz?remarks=%E5%8D%B0%E5%BA%A6-%E5%85%AC%E7%9B%8A1&obfsParam=cf.clol.ml&path=/xray&obfs=websocket&tls=1
 # 公益节点 End
 ss://YWVzLTI1Ni1jZmI6MUB3OjQ0Mw#%E2%AC%86%EF%B8%8F%E5%85%AC%E7%9B%8A%E8%8A%82%E7%82%B9%E2%AC%86%EF%B8%8F
+ss://YWVzLTI1Ni1jZmI6MUB3d3c6NDQz#%E2%AC%87%EF%B8%8F%E6%9D%A5%E8%87%AAyuyan.online%E2%AC%87%EF%B8%8F
+# 来自yuyan.online Start
+# 来自yuyan.online End
+ss://YWVzLTI1Ni1jZmI6MUB3d3c6NDQz#%E2%AC%86%EF%B8%8F%E6%9D%A5%E8%87%AAyuyan.online%E2%AC%86%EF%B8%8F
 ss://YWVzLTI1Ni1jZmI6MUB3OjQ0Mw#%E2%AC%87%EF%B8%8F%E6%9D%A5%E8%87%AA2220.it%E2%AC%87%EF%B8%8F
 # 来自2220.it Start
 # Us 01 | x0.5 流媒体
