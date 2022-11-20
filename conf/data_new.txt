@@ -122,7 +122,14 @@ vmess://YXV0bzpkYmE3MjU2OC00ZjQ5LTNmZGYtYjY1YS0zZmQ4ZmNjOTdmNWVAMTAzLjE5OS4xNi41
 vmess://YXV0bzpkYmE3MjU2OC00ZjQ5LTNmZGYtYjY1YS0zZmQ4ZmNjOTdmNWVAOTQuMjI5LjcyLjU2OjE4ODg4?remarks=%F0%9F%87%AC%F0%9F%87%A7%20UK%2001&obfsParam=46.091.se&path=/xxX1&obfs=websocket&alterId=0
 # Tw 01 | NF
 vmess://YXV0bzpkYmE3MjU2OC00ZjQ5LTNmZGYtYjY1YS0zZmQ4ZmNjOTdmNWVANDUuMTIxLjUwLjY5OjQ1Njc4?remarks=%F0%9F%87%A8%F0%9F%87%B3%20Tw%2001%20%7C%20NF&obfsParam=mytw2.091.se&path=/xxX1&obfs=websocket&alterId=0
-
+# Turkey 01
+vmess://YXV0bzpkYmE3MjU2OC00ZjQ5LTNmZGYtYjY1YS0zZmQ4ZmNjOTdmNWVAMTg1LjY1LjIwNC4yMjQ6NDQ1NTI?remarks=%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2001&obfsParam=to.091.se&path=/xxX1&obfs=websocket&alterId=0
+# Singapore 01
+vmess://YXV0bzpkYmE3MjU2OC00ZjQ5LTNmZGYtYjY1YS0zZmQ4ZmNjOTdmNWVAMTAzLjIzMS4xODguMzc6MzMzMjA?remarks=%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2001&obfsParam=apid08.091.se&path=/xxX1&obfs=websocket&alterId=0
+# Singapore 02
+vmess://YXV0bzpkYmE3MjU2OC00ZjQ5LTNmZGYtYjY1YS0zZmQ4ZmNjOTdmNWVAMTAzLjEzNS4yNTAuMTU3OjQ1Njc4?remarks=%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2002&obfsParam=apid13.091.se&path=/xxX1&obfs=websocket&alterId=0
+# Singapore 03
+vmess://YXV0bzpkYmE3MjU2OC00ZjQ5LTNmZGYtYjY1YS0zZmQ4ZmNjOTdmNWVAMTAzLjEzNS4yNTAuMTU3OjQ1Njc5?remarks=%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2003&obfsParam=apid13.091.se&path=/xxX2&obfs=websocket&alterId=0
 # 来自2220.it End
 ss://YWVzLTI1Ni1jZmI6MUB3OjQ0Mw#%E2%AC%86%EF%B8%8F%E6%9D%A5%E8%87%AA2220.it%E2%AC%86%EF%B8%8F
 ss://YWVzLTI1Ni1jZmI6MUB3OjQ0Mw#%E2%AC%87%EF%B8%8F%E6%9D%A5%E8%87%AAconsole.catnet.uk%E2%AC%87%EF%B8%8F
