@@ -28,6 +28,8 @@ trojan://xSYy8KOpEyOjgaNFCeC3a72DS6wBAcz90pDZRRSXnxquIFZlT5433ClYD38aeA@45.64.22
 trojan://ZEIR0qFZau9jOp7x6e8e4y3AaXwS2SzD3llxTyRYKCF8DCD3c5Y3pgNnaSOBAC@45.64.22.55:443?peer=tensely.freetrade.link#%E6%97%A5%E6%9C%AC-%E5%85%AC%E7%9B%8A4
 # 日本-公益5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGJkZjAzOC1lZjk2LTRiNTEtODM0ZS1hYzdlNWNlOTRmZTJAaDc0NTc2OC53YWlodWl6aGliaWFvd2FuZy5jb206MTU0NDM#%E6%97%A5%E6%9C%AC-%E5%85%AC%E7%9B%8A5
+# 日本-公益6(来自阿伟科技)
+ss://YWVzLTEyOC1nY206MjAyMjExMDAwMDAwMDAwMDAwMDAwMDIw@jp.securevpn.cc:1020?plugin=obfs-local;obfs=http;obfs-host=securevpn.cc;obfs-uri=/#%E6%97%A5%E6%9C%AC-%E5%85%AC%E7%9B%8A6(%E6%9D%A5%E8%87%AA%E9%98%BF%E4%BC%9F%E7%A7%91%E6%8A%80)
 # 加拿大-公益1
 vmess://YXV0bzo4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2VANDUuNzJpbWcueHl6OjQ0Mw?remarks=%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E5%85%AC%E7%9B%8A1&obfs=websocket&tls=1&alterId=0
 # 泰国-公益1
