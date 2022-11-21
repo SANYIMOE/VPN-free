@@ -12,6 +12,10 @@ vmess://YXV0bzo0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjRANDkuMjMyLjE2Ny43
 vmess://YXV0bzo0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjRANDcuMTA0LjIzNy4zMjo1MDAwMg?remarks=%E6%AC%A7%E6%B4%B2-%E5%85%AC%E7%9B%8A3(%E6%9D%A5%E8%87%AA%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%B8%88)&obfs=none&alterId=64
 # 香港-公益1
 vmess://YXV0bzo2MDkzZWVmYi03YWI2LTQxZGYtYWJhMC1kNWZhNTgxNDdlMTBAMTE5LjI0Ny4xMTkuMjEyOjQ0Mw?remarks=%E9%A6%99%E6%B8%AF-%E5%85%AC%E7%9B%8A1&obfsParam=surongwei.eu.org&path=/reffs7y26g0ua&obfs=websocket&tls=1&alterId=0
+# 香港-公益2
+vmess://YXV0bzpmMWQzOWZlMS1iZmEzLTM0ZmYtODZhMi0yOTI1MGFmMDMxODNAMTExLjQ1LjIyLjEzNjoxNjExNA?remarks=%E9%A6%99%E6%B8%AF-%E5%85%AC%E7%9B%8A2&alterId=0
+# 香港->新加坡-公益1
+trojan://ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S@219.76.13.180:443?peer=httah.freetrade.link#%E9%A6%99%E6%B8%AF-%3E%E6%96%B0%E5%8A%A0%E5%9D%A1-%E5%85%AC%E7%9B%8A1
 # 日本-公益1
 trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443?peer=stutter.freetrade.link#%E6%97%A5%E6%9C%AC-%E5%85%AC%E7%9B%8A1
 # 日本-公益2
