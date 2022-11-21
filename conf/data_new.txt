@@ -38,6 +38,10 @@ trojan://origin@content-provider12.cdn-delivery.akamaicd.com:443?allowInsecure=1
 trojan://Sp3eDVp@51.77.71.131:443?allowInsecure=1#%E6%B3%95%E5%9B%BD-%E5%85%AC%E7%9B%8A2
 # 印度-公益1
 vless://YXV0bzoyNWRmYjAyZi0yZWQ2LTQyODgtZGZkMi1iNTJjNzExNzM2NTBAYi5scmEuY246NDQz?remarks=%E5%8D%B0%E5%BA%A6-%E5%85%AC%E7%9B%8A1&obfsParam=cf.clol.ml&path=/xray&obfs=websocket&tls=1
+# 澳门->日本-公益1
+trojan://Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS@45.64.22.55:443?peer=reooec.freetrade.link#%E6%BE%B3%E9%97%A8-%3E%E6%97%A5%E6%9C%AC-%E5%85%AC%E7%9B%8A1
+# 澳门->新加坡-公益1
+trojan://ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S@45.64.22.55:443?peer=httah.freetrade.link#%E6%BE%B3%E9%97%A8-%3E%E6%96%B0%E5%8A%A0%E5%9D%A1-%E5%85%AC%E7%9B%8A1
 # 公益节点 End
 ss://YWVzLTI1Ni1jZmI6MUB3OjQ0Mw#%E2%AC%86%EF%B8%8F%E5%85%AC%E7%9B%8A%E8%8A%82%E7%82%B9%E2%AC%86%EF%B8%8F
 ss://YWVzLTI1Ni1jZmI6MUB3d3c6NDQz#%E2%AC%87%EF%B8%8F%E6%9D%A5%E8%87%AAyuyan.online%E2%AC%87%EF%B8%8F
