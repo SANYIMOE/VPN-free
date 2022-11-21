@@ -16,10 +16,15 @@ vmess://YXV0bzo2MDkzZWVmYi03YWI2LTQxZGYtYWJhMC1kNWZhNTgxNDdlMTBAMTE5LjI0Ny4xMTku
 vmess://YXV0bzpmMWQzOWZlMS1iZmEzLTM0ZmYtODZhMi0yOTI1MGFmMDMxODNAMTExLjQ1LjIyLjEzNjoxNjExNA?remarks=%E9%A6%99%E6%B8%AF-%E5%85%AC%E7%9B%8A2&alterId=0
 # 香港->新加坡-公益1
 trojan://ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S@219.76.13.180:443?peer=httah.freetrade.link#%E9%A6%99%E6%B8%AF-%3E%E6%96%B0%E5%8A%A0%E5%9D%A1-%E5%85%AC%E7%9B%8A1
+# 台湾-公益1
+vmess://YXV0bzpmMWQzOWZlMS1iZmEzLTM0ZmYtODZhMi0yOTI1MGFmMDMxODNAemZkLW1vYmxlLmdhdGtucWguY246MTYxMzE?remarks=%E5%8F%B0%E6%B9%BE-%E5%85%AC%E7%9B%8A1&path=/&alterId=0
 # 日本-公益1
 trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443?peer=stutter.freetrade.link#%E6%97%A5%E6%9C%AC-%E5%85%AC%E7%9B%8A1
 # 日本-公益2
 trojan://ZEIR0qFZau9jOp7x6e8e4y3AaXwS2SzD3llxTyRYKCF8DCD3c5Y3pgNnaSOBAC@45.64.22.55:443?peer=tensely.freetrade.link#%E6%97%A5%E6%9C%AC-%E5%85%AC%E7%9B%8A2
+# 日本-公益3
+# 日本-公益4
+# 日本-公益5
 # 加拿大-公益1
 vmess://YXV0bzo4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2VANDUuNzJpbWcueHl6OjQ0Mw?remarks=%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E5%85%AC%E7%9B%8A1&obfs=websocket&tls=1&alterId=0
 # 泰国-公益1
