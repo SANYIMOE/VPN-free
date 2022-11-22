@@ -68,20 +68,6 @@ vmess://YXV0bzo2NzhkMGQ3ZC1jNjUxLTRhZTEtY2VkMS0zMjA3ODM1NjU3NDlAMTIzLjI1My4zMi41
 vmess://YXV0bzpmMzM5NTdlOC0zNzJlLTRmYmEtOTllZC1mNGRiMzJjY2U5ZTVAMTA0LjI5LjY0LjI6NDQz?remarks=%E5%BE%B7%E5%9B%BD-%E5%85%AC%E7%9B%8A1&obfsParam=fr2.cfcdn4.xyz&path=/ray&obfs=websocket&tls=1&alterId=0
 # 公益节点 End
 ss://YWVzLTI1Ni1jZmI6MUB3OjQ0Mw#%E2%AC%86%EF%B8%8F%E5%85%AC%E7%9B%8A%E8%8A%82%E7%82%B9%E2%AC%86%EF%B8%8F
-ss://YWVzLTI1Ni1jZmI6MUB3d3c6NDQz#%E2%AC%87%EF%B8%8F%E6%9D%A5%E8%87%AAmsclm.pro%E2%AC%87%EF%B8%8F
-# 来自msclm.pro Start
-# 香港A
-vmess://YXV0bzo0YWNjMTFiYi1jMTk2LTRlYTQtYjRlNi0zNjUxMmFhYWQ1MDdAaGthLXpmLmNsbTEwMDg2Lnh5ejoxODg4MQ?remarks=%E9%A6%99%E6%B8%AFA&obfs=none&alterId=0
-# 香港B
-vmess://YXV0bzo0YWNjMTFiYi1jMTk2LTRlYTQtYjRlNi0zNjUxMmFhYWQ1MDdAaGtiLXpmLmNsbTEwMDg2Lnh5ejoxMDk5MQ?remarks=%E9%A6%99%E6%B8%AFB&obfs=none&alterId=0
-# 香港C
-vmess://YXV0bzo0YWNjMTFiYi1jMTk2LTRlYTQtYjRlNi0zNjUxMmFhYWQ1MDdAaGtjLXpmLmNsbTEwMDg2Lnh5ejoxODg4Mw?remarks=%E9%A6%99%E6%B8%AFC&obfs=none&alterId=0
-# 香港D
-vmess://YXV0bzo0YWNjMTFiYi1jMTk2LTRlYTQtYjRlNi0zNjUxMmFhYWQ1MDdAaGtkLXpmLmNsbTEwMDg2Lnh5ejoxODg4NA?remarks=%E9%A6%99%E6%B8%AFD&obfs=none&alterId=0
-# 香港E
-vmess://YXV0bzo0YWNjMTFiYi1jMTk2LTRlYTQtYjRlNi0zNjUxMmFhYWQ1MDdAaGtlLXpmLmNsbTEwMDg2Lnh5ejo0NTg4MA?remarks=%E9%A6%99%E6%B8%AFE&obfs=none&alterId=0
-# 来自msclm.pro End
-ss://YWVzLTI1Ni1jZmI6MUB3d3c6NDQz#%E2%AC%86%EF%B8%8F%E6%9D%A5%E8%87%AAmsclm.pro%E2%AC%86%EF%B8%8F
 ss://YWVzLTI1Ni1jZmI6MUB3OjQ0Mw#%E2%AC%87%EF%B8%8F%E6%9D%A5%E8%87%AAconsole.catnet.uk%E2%AC%87%EF%B8%8F
 # 来自console.catnet.uk Start
 # 香港 01 | IPV6解锁
