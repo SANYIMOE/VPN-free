@@ -70,6 +70,16 @@ vmess://YXV0bzpmMzM5NTdlOC0zNzJlLTRmYmEtOTllZC1mNGRiMzJjY2U5ZTVAMTA0LjI5LjY0LjI6
 ss://YWVzLTI1Ni1jZmI6MUB3OjQ0Mw#%E2%AC%86%EF%B8%8F%E5%85%AC%E7%9B%8A%E8%8A%82%E7%82%B9%E2%AC%86%EF%B8%8F
 ss://YWVzLTI1Ni1jZmI6MUB3d3c6NDQz#%E2%AC%87%EF%B8%8F%E6%9D%A5%E8%87%AAlgm22.com%E2%AC%87%EF%B8%8F
 # 来自lgm22.com Start
+# 香港01
+trojan://4fdbd80c-cbe4-4df6-a8c5-939e6758d2c8@hk0101.lgm88.top:11195?allowInsecure=1&peer=hk01.lgm88.top&tfo=1#%E9%A6%99%E6%B8%AF01
+# 香港02
+trojan://4fdbd80c-cbe4-4df6-a8c5-939e6758d2c8@hk02.lgm88.top:36427?allowInsecure=1&peer=hk0202.lgm88.top&tfo=1#%E9%A6%99%E6%B8%AF02
+# 美国01
+trojan://4fdbd80c-cbe4-4df6-a8c5-939e6758d2c8@us0101.lgm88.top:10661?allowInsecure=1&peer=us01.lgm88.top&tfo=1#%E7%BE%8E%E5%9B%BD01
+# 美国02
+trojan://4fdbd80c-cbe4-4df6-a8c5-939e6758d2c8@us02.lgm88.top:36845?allowInsecure=1&peer=us02.lgm88.top&tfo=1#%E7%BE%8E%E5%9B%BD02
+# 新加坡01
+trojan://4fdbd80c-cbe4-4df6-a8c5-939e6758d2c8@sgp01.lgm88.top:36248?allowInsecure=1&peer=sgp01.lgm88.top&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A101
 # 来自lgm22.com End
 ss://YWVzLTI1Ni1jZmI6MUB3d3c6NDQz#%E2%AC%86%EF%B8%8F%E6%9D%A5%E8%87%AAlgm22.com%E2%AC%86%EF%B8%8F
 ss://YWVzLTI1Ni1jZmI6MUB3OjQ0Mw#%E2%AC%87%EF%B8%8F%E6%9D%A5%E8%87%AAconsole.catnet.uk%E2%AC%87%EF%B8%8F
