@@ -2,8 +2,8 @@ ss://YWVzLTI1Ni1jZmI6MUB3OjQ0Mw#%E2%AC%87%EF%B8%8F%E5%85%AC%E7%9B%8A%E8%8A%82%E7
 # 公益节点 Start
 # 德国-ipv6-青云依兮
 ss://YWVzLTI1Ni1nY206YTE0MjI3NTY5MjFAWzJhMDE6NGY4OjEzYToyNjkwOmZhY2U6MTJiMzo1MzM3OjAwMDFdOjQ0Mw#%E5%BE%B7%E5%9B%BD-ipv6-%E9%9D%92%E4%BA%91%E4%BE%9D%E5%85%AE
-# 香港-公益1
-vmess://YXV0bzo2MDkzZWVmYi03YWI2LTQxZGYtYWJhMC1kNWZhNTgxNDdlMTBAMTE5LjI0Ny4xMTkuMjEyOjQ0Mw?remarks=%E9%A6%99%E6%B8%AF-%E5%85%AC%E7%9B%8A1&obfsParam=surongwei.eu.org&path=/reffs7y26g0ua&obfs=websocket&tls=1&alterId=0
+# 香港-公益1|18.48Mb
+trojan://51c44c4e-f8c2-4419-a52b-b4b7bd915078@jp.liangyuandian.top:443?allowInsecure=1#%E9%A6%99%E6%B8%AF-%E5%85%AC%E7%9B%8A1%20%7C18.48Mb
 # 香港-公益2
 vmess://YXV0bzpmMWQzOWZlMS1iZmEzLTM0ZmYtODZhMi0yOTI1MGFmMDMxODNAMTExLjQ1LjIyLjEzNjoxNjExNA?remarks=%E9%A6%99%E6%B8%AF-%E5%85%AC%E7%9B%8A2&alterId=0
 # 香港->新加坡-公益1
