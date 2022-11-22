@@ -43,9 +43,15 @@ vmess://YXV0bzpkNDE4YzllOS0xODkzLTQ4MzgtYjQwNS1mMjFmN2RiZjllMjZAMTA0LjI5LjY0LjIy
 # 美国-公益5
 trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?peer=arbettp.freetrade.link#%E7%BE%8E%E5%9B%BD-%E5%85%AC%E7%9B%8A5
 # 法国-公益1
-trojan://origin@content-provider12.cdn-delivery.akamaicd.com:443?allowInsecure=1&peer=content-provider12.cdn-delivery.akamaicd.com#%E6%B3%95%E5%9B%BD-%E5%85%AC%E7%9B%8A1
+trojan://origin@content-provider26.cdn-delivery.akamaicd.com:443?allowInsecure=1#%E6%B3%95%E5%9B%BD-%E5%85%AC%E7%9B%8A1
 # 法国-公益2
-trojan://Sp3eDVp@51.77.71.131:443?allowInsecure=1#%E6%B3%95%E5%9B%BD-%E5%85%AC%E7%9B%8A2
+trojan://origin@51.77.71.134:443?allowInsecure=1#%E6%B3%95%E5%9B%BD-%E5%85%AC%E7%9B%8A2
+# 法国-公益3
+trojan://Sp3eDVp@51.77.71.131:443?allowInsecure=1#%E6%B3%95%E5%9B%BD-%E5%85%AC%E7%9B%8A3
+# 法国-公益4
+trojan://origin@176.31.83.90:443?allowInsecure=1#%E6%B3%95%E5%9B%BD-%E5%85%AC%E7%9B%8A4
+# 法国-公益5
+trojan://origin@content-provider12.cdn-delivery.akamaicd.com:443?allowInsecure=1#%E6%B3%95%E5%9B%BD-%E5%85%AC%E7%9B%8A5
 # 印度-公益1
 vless://YXV0bzoyNWRmYjAyZi0yZWQ2LTQyODgtZGZkMi1iNTJjNzExNzM2NTBAYi5scmEuY246NDQz?remarks=%E5%8D%B0%E5%BA%A6-%E5%85%AC%E7%9B%8A1&obfsParam=cf.clol.ml&path=/xray&obfs=websocket&tls=1
 # 澳门->日本-公益1
