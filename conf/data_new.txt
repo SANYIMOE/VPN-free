@@ -68,8 +68,10 @@ trojan://ZCRe0IlTyApFDO73qeaSlyDEaXwSOYCZ9B3j6ca3Anxg84CDKF2SxpzuNY58R3@45.64.22
 trojan://TaSXwOxORaZ7pD8DlzCE3yNFS5C38eeCuDng03FcA4BSpjK96YaZRIAlx2yqY3@45.64.22.55:443?peer=mhkla.freetrade.link#%E6%96%B0%E5%8A%A0%E5%9D%A1-%E5%85%AC%E7%9B%8A2
 # 新加坡-公益3(来自阿伟科技)
 ss://YWVzLTEyOC1nY206MjAyMjExMDAwMDAwMDAwMDAwMDAwMDIw@sg.securevpn.cc:1020?plugin=obfs-local;obfs=http;obfs-host=securevpn.cc;obfs-uri=/#%E6%96%B0%E5%8A%A0%E5%9D%A1-%E5%85%AC%E7%9B%8A3(%E6%9D%A5%E8%87%AA%E9%98%BF%E4%BC%9F%E7%A7%91%E6%8A%80)
-#
-#
+# 新加坡-公益4|11.03Mb
+trojan://192a5fc9-2baa-4043-8655-d840d370cb86@ap.liangyuandian.top:443?allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A1-%E5%85%AC%E7%9B%8A4%7C11.03Mb
+# 新加坡-公益5|12.17Mb
+trojan://192a5fc9-2baa-4043-8655-d840d370cb86@jp.liangyuandian.top:443?allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A1-%E5%85%AC%E7%9B%8A5%7C12.17Mb
 # 马来西亚-公益1
 vmess://YXV0bzo2NzhkMGQ3ZC1jNjUxLTRhZTEtY2VkMS0zMjA3ODM1NjU3NDlAMTIzLjI1My4zMi41MDozMTM3Mg?remarks=%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A-%E5%85%AC%E7%9B%8A1&path=/&alterId=0
 # 马来西亚-公益2
