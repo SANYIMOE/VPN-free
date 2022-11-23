@@ -18,6 +18,8 @@ trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.1
 vmess://YXV0bzo4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2VAMTcyLjY2LjQwLjEwOjQ0Mw?remarks=%E7%BE%8E%E5%9B%BD-%E5%85%AC%E7%9B%8A2%7C4.41MB/s(%E6%9D%A5%E8%87%AA%E4%B8%8D%E8%89%AF%E6%9E%97)&obfsParam=38.72img.xyz&path=/&obfs=websocket&tls=1&alterId=0
 # 印度-公益1
 vless://YXV0bzoyNWRmYjAyZi0yZWQ2LTQyODgtZGZkMi1iNTJjNzExNzM2NTBAYi5scmEuY246NDQz?remarks=%E5%8D%B0%E5%BA%A6-%E5%85%AC%E7%9B%8A1&obfsParam=cf.clol.ml&path=/xray&obfs=websocket&tls=1
+# 印度-公益2|2.21MB/s(来自不良林)
+vmess://YXV0bzo4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2VAMTU1LjI0OC4yNDEuNTI6NDQz?remarks=%E5%8D%B0%E5%BA%A6-%E5%85%AC%E7%9B%8A2%7C2.21MB/s(%E6%9D%A5%E8%87%AA%E4%B8%8D%E8%89%AF%E6%9E%97)&path=/&obfs=websocket&tls=1&alterId=0
 # 澳门->日本-公益1
 trojan://Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS@45.64.22.55:443?peer=reooec.freetrade.link#%E6%BE%B3%E9%97%A8-%3E%E6%97%A5%E6%9C%AC-%E5%85%AC%E7%9B%8A1
 # 澳门->新加坡-公益1
