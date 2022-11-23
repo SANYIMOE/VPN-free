@@ -16,6 +16,8 @@ ss://YWVzLTEyOC1nY206MjAyMjExMDAwMDAwMDAwMDAwMDAwMDIw@jp.securevpn.cc:1020?plugi
 trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?peer=arbettp.freetrade.link#%E7%BE%8E%E5%9B%BD-%E5%85%AC%E7%9B%8A1
 # 美国-公益2
 vmess://YXV0bzo4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2VAMTcyLjY2LjQwLjEwOjQ0Mw?remarks=%E7%BE%8E%E5%9B%BD-%E5%85%AC%E7%9B%8A2%7C4.41MB/s(%E6%9D%A5%E8%87%AA%E4%B8%8D%E8%89%AF%E6%9E%97)&obfsParam=38.72img.xyz&path=/&obfs=websocket&tls=1&alterId=0
+# 韩国-公益1
+trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?allowInsecure=1#%E9%9F%A9%E5%9B%BD-%E5%85%AC%E7%9B%8A1%7C4.34MB/s(%E6%9D%A5%E8%87%AA%E4%B8%8D%E8%89%AF%E6%9E%97)
 # 印度-公益1
 vless://YXV0bzoyNWRmYjAyZi0yZWQ2LTQyODgtZGZkMi1iNTJjNzExNzM2NTBAYi5scmEuY246NDQz?remarks=%E5%8D%B0%E5%BA%A6-%E5%85%AC%E7%9B%8A1&obfsParam=cf.clol.ml&path=/xray&obfs=websocket&tls=1
 # 印度-公益2|2.21MB/s(来自不良林)
