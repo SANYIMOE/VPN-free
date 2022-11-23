@@ -12,9 +12,10 @@ trojan://ZEIR0qFZau9jOp7x6e8e4y3AaXwS2SzD3llxTyRYKCF8DCD3c5Y3pgNnaSOBAC@45.64.22
 trojan://ZEIR0qFZau9jOp7x6e8e4y3AaXwS2SzD3llxTyRYKCF8DCD3c5Y3pgNnaSOBAC@45.64.22.55:443?peer=tensely.freetrade.link#%E6%97%A5%E6%9C%AC-%E5%85%AC%E7%9B%8A2
 # 日本-公益3
 ss://YWVzLTEyOC1nY206MjAyMjExMDAwMDAwMDAwMDAwMDAwMDIw@jp.securevpn.cc:1020?plugin=obfs-local;obfs=http;obfs-host=securevpn.cc;obfs-uri=/#%E6%97%A5%E6%9C%AC-%E5%85%AC%E7%9B%8A3(%E6%9D%A5%E8%87%AA%E9%98%BF%E4%BC%9F%E7%A7%91%E6%8A%80)
-# 美国-公益5
-trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?peer=arbettp.freetrade.link#%E7%BE%8E%E5%9B%BD-%E5%85%AC%E7%9B%8A5
-
+# 美国-公益1
+trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?peer=arbettp.freetrade.link#%E7%BE%8E%E5%9B%BD-%E5%85%AC%E7%9B%8A1
+# 美国-公益2
+vmess://YXV0bzo4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2VAMTcyLjY2LjQwLjEwOjQ0Mw?remarks=%E7%BE%8E%E5%9B%BD-%E5%85%AC%E7%9B%8A2%7C4.41MB/s(%E6%9D%A5%E8%87%AA%E4%B8%8D%E8%89%AF%E6%9E%97)&obfsParam=38.72img.xyz&path=/&obfs=websocket&tls=1&alterId=0
 # 印度-公益1
 vless://YXV0bzoyNWRmYjAyZi0yZWQ2LTQyODgtZGZkMi1iNTJjNzExNzM2NTBAYi5scmEuY246NDQz?remarks=%E5%8D%B0%E5%BA%A6-%E5%85%AC%E7%9B%8A1&obfsParam=cf.clol.ml&path=/xray&obfs=websocket&tls=1
 # 澳门->日本-公益1
@@ -53,6 +54,10 @@ ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51WkAxMDMuMTcyLjExNi43OjkwMjQ#%E6%96%B0%E
 vmess://YXV0bzo0YWY2ZmQ5YS1lOGI0LTQ2ZjItZGEzYS0yMDdmNDU3NzY1NmNAMTY4LjEzOC4xNzEuNjU6NDQz?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1-%E5%85%AC%E7%9B%8A14%7C628.3KB/s(%E6%9D%A5%E8%87%AA%E4%B8%8D%E8%89%AF%E6%9E%97)&path=/&obfs=none&tls=1&alterId=0
 # 新加坡-公益15|2.98MB/s(来自不良林)
 vmess://YXV0bzo4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2VAMTM4LjIuNzAuMjEzOjQ0Mw?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1-%E5%85%AC%E7%9B%8A15%7C2.98MB/s(%E6%9D%A5%E8%87%AA%E4%B8%8D%E8%89%AF%E6%9E%97)&obfsParam=tgunivstar.168-138-94-194.sslip.io&path=/&obfs=websocket&tls=1&alterId=0
+# 加拿大-公益1|2.21MB/s(来自不良林)
+trojan://HdsUZmsHQW@148.113.141.99:443?allowInsecure=1#%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E5%85%AC%E7%9B%8A1%7C2.21MB/s(%E6%9D%A5%E8%87%AA%E4%B8%8D%E8%89%AF%E6%9E%97)
+# 加拿大-公益2|2.92MB/s(来自不良林)
+trojan://HdsUZmsHQW@148.113.141.99:443?allowInsecure=1#%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E5%85%AC%E7%9B%8A2%7C2.92MB/s(%E6%9D%A5%E8%87%AA%E4%B8%8D%E8%89%AF%E6%9E%97)
 # 德国-公益1
 vmess://YXV0bzpmMzM5NTdlOC0zNzJlLTRmYmEtOTllZC1mNGRiMzJjY2U5ZTVAMTA0LjI5LjY0LjI6NDQz?remarks=%E5%BE%B7%E5%9B%BD-%E5%85%AC%E7%9B%8A1&obfsParam=fr2.cfcdn4.xyz&path=/ray&obfs=websocket&tls=1&alterId=0
 # 公益节点 End
