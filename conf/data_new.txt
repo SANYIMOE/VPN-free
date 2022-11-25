@@ -4,6 +4,8 @@ ss://YWVzLTI1Ni1jZmI6MUB3OjQ0Mw#%E2%AC%87%EF%B8%8F%E5%85%AC%E7%9B%8A%E8%8A%82%E7
 ss://YWVzLTI1Ni1nY206YTE0MjI3NTY5MjFAWzJhMDE6NGY4OjEzYToyNjkwOmZhY2U6MTJiMzo1MzM3OjAwMDFdOjQ0Mw#%E5%BE%B7%E5%9B%BD-ipv6-%E9%9D%92%E4%BA%91%E4%BE%9D%E5%85%AE
 # 香港-公益1|20.70Mb
 vmess://YXV0bzpkN2YyYjU5Mi0yZTU2LTRhMTItOGYyNC0yMGY1NWI0MjJlZjJAdGd1bml2c3Rhci0xMTktMjM3LTQzLTk2LnNzbGlwLmlvOjgw?remarks=%E9%A6%99%E6%B8%AF-%E5%85%AC%E7%9B%8A1%7C20.70Mb&obfsParam=%7B%22HOST%22:%22vn3.thanhhaivpn.name.vn%22,%22Host%22:%22vn3.thanhhaivpn.name.vn%22%7D&path=/&obfs=websocket&alterId=64
+# 香港-公益2|7.18Mb
+vmess://YXV0bzpkN2YyYjU5Mi0yZTU2LTRhMTItOGYyNC0yMGY1NWI0MjJlZjJAdGd1bml2c3Rhci0xMTktMjM3LTQzLTk2LnNzbGlwLmlvOjgw?remarks=%E9%A6%99%E6%B8%AF-%E5%85%AC%E7%9B%8A2%7C%207.18Mb&obfsParam=%7B%22HOST%22:%22vn3.thanhhaivpn.name.vn%22,%22Host%22:%22vn3.thanhhaivpn.name.vn%22%7D&path=/&obfs=websocket&alterId=64
 # 香港->新加坡-公益1
 trojan://ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S@219.76.13.180:443?peer=httah.freetrade.link#%E9%A6%99%E6%B8%AF-%3E%E6%96%B0%E5%8A%A0%E5%9D%A1-%E5%85%AC%E7%9B%8A1
 # 台湾-公益1
