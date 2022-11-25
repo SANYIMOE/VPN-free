@@ -17,7 +17,9 @@ trojan://ZEIR0qFZau9jOp7x6e8e4y3AaXwS2SzD3llxTyRYKCF8DCD3c5Y3pgNnaSOBAC@45.64.22
 # 日本-公益3
 ss://YWVzLTEyOC1nY206MjAyMjExMDAwMDAwMDAwMDAwMDAwMDIw@jp.securevpn.cc:1020?plugin=obfs-local;obfs=http;obfs-host=securevpn.cc;obfs-uri=/#%E6%97%A5%E6%9C%AC-%E5%85%AC%E7%9B%8A3(%E6%9D%A5%E8%87%AA%E9%98%BF%E4%BC%9F%E7%A7%91%E6%8A%80)
 # 日本-公益4
+trojan://98a68cfb-42c6-4498-ac6e-7e5c203924a7@kr1.api-aws.com:443?allowInsecure=1#%E6%97%A5%E6%9C%AC-%E5%85%AC%E7%9B%8A4
 # 日本-公益5
+trojan://80b07539-c253-4526-8a80-424708ff2ced@kr1.api-aws.com:443?allowInsecure=1#%E6%97%A5%E6%9C%AC-%E5%85%AC%E7%9B%8A5
 # 美国-公益1
 trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?peer=arbettp.freetrade.link#%E7%BE%8E%E5%9B%BD-%E5%85%AC%E7%9B%8A1
 # 美国-公益2
