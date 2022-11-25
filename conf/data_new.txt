@@ -21,10 +21,15 @@ trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.1
 # 美国-公益2
 vmess://YXV0bzo4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2VAMTcyLjY2LjQwLjEwOjQ0Mw?remarks=%E7%BE%8E%E5%9B%BD-%E5%85%AC%E7%9B%8A2%7C4.41MB/s(%E6%9D%A5%E8%87%AA%E4%B8%8D%E8%89%AF%E6%9E%97)&obfsParam=38.72img.xyz&path=/&obfs=websocket&tls=1&alterId=0
 # 法国-公益1|50.87Mb
+vmess://YXV0bzo4M2E0MjRkOC00YmNiLTRjZWUtYjAxNi0yYzhmMWRiNGE5MjFANTEuODkuMTAwLjEwOjQ0Mw?remarks=%E6%B3%95%E5%9B%BD-%E5%85%AC%E7%9B%8A1%7C50.87Mb&path=/path/243535322906&obfs=websocket&tls=1&allowInsecure=1&alterId=64
 # 法国-公益2
+trojan://Sp3eDVp@content-provider5.cdn-delivery.akamaicd.com:443?allowInsecure=1#%E6%B3%95%E5%9B%BD-%E5%85%AC%E7%9B%8A2
 # 法国-公益3
+trojan://origin@content-provider12.cdn-delivery.akamaicd.com:443?allowInsecure=1#%E6%B3%95%E5%9B%BD-%E5%85%AC%E7%9B%8A3
 # 法国-公益4
+trojan://Sp3eDVp@51.77.71.131:443?allowInsecure=1#%E6%B3%95%E5%9B%BD-%E5%85%AC%E7%9B%8A4
 # 法国-公益5
+trojan://origin@51.77.71.134:443?allowInsecure=1#%E6%B3%95%E5%9B%BD-%E5%85%AC%E7%9B%8A5
 # 韩国-公益1
 trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?allowInsecure=1#%E9%9F%A9%E5%9B%BD-%E5%85%AC%E7%9B%8A1%7C4.34MB/s(%E6%9D%A5%E8%87%AA%E4%B8%8D%E8%89%AF%E6%9E%97)
 # 印度-公益1
