@@ -20,6 +20,8 @@ ss://YWVzLTEyOC1nY206MjAyMjExMDAwMDAwMDAwMDAwMDAwMDIw@jp.securevpn.cc:1020?plugi
 trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?peer=arbettp.freetrade.link#%E7%BE%8E%E5%9B%BD-%E5%85%AC%E7%9B%8A1
 # 美国-公益2
 vmess://YXV0bzo4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2VAMTcyLjY2LjQwLjEwOjQ0Mw?remarks=%E7%BE%8E%E5%9B%BD-%E5%85%AC%E7%9B%8A2%7C4.41MB/s(%E6%9D%A5%E8%87%AA%E4%B8%8D%E8%89%AF%E6%9E%97)&obfsParam=38.72img.xyz&path=/&obfs=websocket&tls=1&alterId=0
+# 英国-公益1|6.41Mb
+trojan://7118b5f4-0ea4-4c11-be7f-11471cb91e4a@144.24.72.126:443?allowInsecure=1#%E8%8B%B1%E5%9B%BD-%E5%85%AC%E7%9B%8A1%7C6.41Mb
 # 法国-公益1|50.87Mb
 vmess://YXV0bzo4M2E0MjRkOC00YmNiLTRjZWUtYjAxNi0yYzhmMWRiNGE5MjFANTEuODkuMTAwLjEwOjQ0Mw?remarks=%E6%B3%95%E5%9B%BD-%E5%85%AC%E7%9B%8A1%7C50.87Mb&path=/path/243535322906&obfs=websocket&tls=1&allowInsecure=1&alterId=64
 # 法国-公益2
