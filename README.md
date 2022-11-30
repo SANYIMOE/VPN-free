@@ -1,6 +1,6 @@
 # VPN-free项目
 ## 玉桂家园VPN-free项目暂时停止运行，目前将清除所有节点。
-## 一、介绍
+<!-- ## 一、介绍
 本项目提供免费的，随时更新的VPN加速服务，可以免费使用的VPN加速服务。
 
 注：本项目采用手动提交+自动搜集，实现完全可用的多节点VPN，请勿滥用。发现新的免费节点可提交 [issues](https://github.com/SANYIMOE/VPN-free/issues) ，我们会在测试可用后添加。
@@ -86,4 +86,4 @@ Shadowrocket/Quantumult(X)
 无数据
 
 ### 节点地址
-节点地址请见[全部节点](https://vpn-free.mojy.xyz/conf/data_new.txt)
+节点地址请见[全部节点](https://vpn-free.mojy.xyz/conf/data_new.txt) -->
