@@ -86,55 +86,55 @@
 							"magnify" == t ? h.size(s, null, null, t) : "shrink" == t && h.size(s, u, f, t)
 						}, w && (e.onclick = function () {
 							h.hide()
-            }), null == m && o.parentNode.removeChild(o), o.onmousedown = function () {
-                h.dollybox(s, o)
-            }, c ? h.addClass(s, "mobileStyle") : h.removeClass(s, "mobileStyle"), window.onresize = function () {
-                h.resize(s, h)
-            }, y || p ? (n.style.display = "none", s.style.cssText = "width:200px;height:200px") : (s.style.width = u ? u + "px" : "auto", s.style.height = f ? f + "px" : "auto", s.style.backgroundImage = "none", n.innerHTML = v), h.mask(b, e), h.alpha(s, 1, 100, g, s, 3), null != C && setTimeout(function () {
-                h.hide()
-            }, 1e3 * C), this.structure = {
-                sysmask: e,
-                sysbox: s,
-                syscontent: n,
-                systitle: o,
-                sysmove: i,
-                systitname: l,
-                sysoper: a,
-                sysclose: r,
-                sysmagnify: d,
-                sysshrink: void 0
-            }, g && h.btnoper(x, this.structure), i = BOXLAYER$("div"), i.id = "sys-move-event", s.appendChild(i), s.onmouseover = function () {
-                h.windowsize(event, u, f, i)
-            }
-        }
-    }, isMobile: function (t) {
-        for (var e = navigator.userAgent, s = ["Android", "iPhone", "SymbianOS", "Windows Phone", "iPad", "iPod"], t = !1, n = 0; n < s.length; n++)
-            if (e.indexOf(s[n]) > 0) {
-                t = !0;
-                break
-            }
-        var o = window.screen.width,
-            i = window.screen.height;
-        return o < 500 && i < 800 && (t = !0), t
-    }, fill: function (t, e, s, n, o, i, l, a, r) {
-        var d = this;
-        if (e) {
-            a.style.backgroundColor = "#ffffff";
-            var h = window.XMLHttpRequest ? new XMLHttpRequest : new ActiveXObject("Microsoft.XMLHTTP");
-            h.onreadystatechange = function () {
-                4 == h.readyState && 200 == h.status && d.psh(h.responseText, s, n, o, i, l, a)
-            }, h.open("GET", t, 1), h.send(null)
-        } else this.psh(t, s, n, o, i, l, a); if (null != i) {
-            if (1 == o && 1 != e) {
-                var c = d.structure.sysmagnify;
-                c.parentNode.removeChild(c)
-            }
-            var u = d.structure.systitname;
-            r.appendChild(u).innerHTML = i
-        }
-    }, psh: function (t, e, s, n, o, i, l) {
-        var a = this,
-            r = 0,
+						}), null == m && o.parentNode.removeChild(o), o.onmousedown = function () {
+							h.dollybox(s, o)
+						}, c ? h.addClass(s, "mobileStyle") : h.removeClass(s, "mobileStyle"), window.onresize = function () {
+							h.resize(s, h)
+						}, y || p ? (n.style.display = "none", s.style.cssText = "width:200px;height:200px") : (s.style.width = u ? u + "px" : "auto", s.style.height = f ? f + "px" : "auto", s.style.backgroundImage = "none", n.innerHTML = v), h.mask(b, e), h.alpha(s, 1, 100, g, s, 3), null != C && setTimeout(function () {
+							h.hide()
+						}, 1e3 * C), this.structure = {
+							sysmask: e,
+							sysbox: s,
+							syscontent: n,
+							systitle: o,
+							sysmove: i,
+							systitname: l,
+							sysoper: a,
+							sysclose: r,
+							sysmagnify: d,
+							sysshrink: void 0
+						}, g && h.btnoper(x, this.structure), i = BOXLAYER$("div"), i.id = "sys-move-event", s.appendChild(i), s.onmouseover = function () {
+							h.windowsize(event, u, f, i)
+						}
+					}
+				}, isMobile: function (t) {
+					for (var e = navigator.userAgent, s = ["Android", "iPhone", "SymbianOS", "Windows Phone", "iPad", "iPod"], t = !1, n = 0; n < s.length; n++)
+						if (e.indexOf(s[n]) > 0) {
+							t = !0;
+							break
+						}
+					var o = window.screen.width,
+					    i = window.screen.height;
+					return o < 500 && i < 800 && (t = !0), t
+				}, fill: function (t, e, s, n, o, i, l, a, r) {
+					var d = this;
+					if (e) {
+						a.style.backgroundColor = "#ffffff";
+						var h = window.XMLHttpRequest ? new XMLHttpRequest : new ActiveXObject("Microsoft.XMLHTTP");
+						h.onreadystatechange = function () {
+							4 == h.readyState && 200 == h.status && d.psh(h.responseText, s, n, o, i, l, a)
+						}, h.open("GET", t, 1), h.send(null)
+					} else this.psh(t, s, n, o, i, l, a); if (null != i) {
+						if (1 == o && 1 != e) {
+							var c = d.structure.sysmagnify;
+							c.parentNode.removeChild(c)
+						}
+						var u = d.structure.systitname;
+						r.appendChild(u).innerHTML = i
+					}
+				}, psh: function (t, e, s, n, o, i, l) {
+					var a = this,
+					    r = 0,
             d = 0;
         if (n) {
             var h = a.structure.syscontent;
