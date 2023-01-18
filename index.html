@@ -10,9 +10,339 @@
 		<meta http-equiv="Cache-Control" content="no-siteapp">
 		<meta name="theme-color" content="#3c48b5">
 		<meta name="msapplication-TileColor" content="#3c48b5">
-		<script type="text/javascript" src="/static/js/box.min.js"></script>
-		<script type="text/javascript" src="/static/js/fq.js"></script>
 		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+		<script>
+			"use strict";
+
+function BOX$(t) {
+    return document.getElementById(t)
+}
+
+function BOXLAYER$(t) {
+    return document.createElement(t)
+}
+
+function extend(t, e, s) {
+    for (var n in e)!e.hasOwnProperty(n) || t.hasOwnProperty(n) && !s || (t[n] = e[n]);
+    return t
+}
+
+function Mysysbox(t) {
+    this._initial(t)
+}
+var _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function (t) {
+        return typeof t
+    } : function (t) {
+        return t && "function" == typeof Symbol && t.constructor === Symbol && t !== Symbol.prototype ? "symbol" : typeof t
+    },
+    _global;
+Mysysbox.prototype = {
+    constructor: void 0,
+    _initial: function (t) {
+        var e = {
+            ieventmask: !0,
+            mask: !0,
+            lock: !0,
+            btn: [],
+            title: null,
+            mode: 0,
+            tm: 0,
+            time: null,
+            width: 0,
+            height: 0,
+            content: "",
+            confirm: function (t) {}, close: function () {}
+        };
+        this.par = extend(e, t, !0), this.hasDom = !1, this.listeners = [], this.hasClsss = function (t, e) {
+            return !!t.className.match(new RegExp("(\\s|^)" + e + "(\\s|$)"))
+        }, this.addClass = function (t, e) {
+            this.hasClsss(t, e) || (t.className += " " + e)
+        }, this.removeClass = function (t, e) {
+            this.hasClsss(t, e) && (t.className = t.className.replace(new RegExp("(\\s|^)" + e + "(\\s|$)"), " "))
+        }, this.handlers = {}, this.show(this.par)
+    }, show: function (t) {
+        var e, s, n, o, i, l, a, r, d, h = this,
+            c = h.isMobile(),
+            u = t.width,
+            f = t.height,
+            y = t.mode,
+            p = t.tm,
+            m = t.title,
+            v = t.content,
+            g = t.lock,
+            b = t.mask,
+            x = t.btn,
+            w = t.ieventmask,
+            C = t.time;
+        if (!this.hasDom) {
+            s = BOXLAYER$("div"), s.id = "sysbox", h.addClass(s, "sys-box"), n = BOXLAYER$("div"), n.id = "syscontent", document.body.appendChild(s), o = BOXLAYER$("div"), o.id = "systitle", b && (e = BOXLAYER$("div"), e.id = "sysmask", document.body.appendChild(e)), l = BOXLAYER$("span"), h.addClass(l, "sys-title-name"), a = BOXLAYER$("span"), h.addClass(a, "sys-oper-box"), d = BOXLAYER$("a"), h.addClass(d, "sys-magnify-oper sys-oper"), r = BOXLAYER$("a"), h.addClass(r, "sys-close-oper sys-oper"), h.addClass(s.appendChild(o), "sys-title"), o.appendChild(l).innerHTML = m, o.appendChild(a);
+            var M = document.createAttribute("data-name");
+            M.nodeValue = "magnify", a.appendChild(d).setAttributeNode(M), h.addClass(s.appendChild(n), "sys-content"), a.appendChild(d).href = "javascript:;", a.appendChild(r).href = "javascript:;", a.appendChild(r).onclick = function () {
+                h.hide()
+            }, d.onclick = function () {
+                var t = d.getAttribute("data-name");
+                "magnify" == t ? h.size(s, null, null, t) : "shrink" == t && h.size(s, u, f, t)
+            }, w && (e.onclick = function () {
+                h.hide()
+            }), null == m && o.parentNode.removeChild(o), o.onmousedown = function () {
+                h.dollybox(s, o)
+            }, c ? h.addClass(s, "mobileStyle") : h.removeClass(s, "mobileStyle"), window.onresize = function () {
+                h.resize(s, h)
+            }, y || p ? (n.style.display = "none", s.style.cssText = "width:200px;height:200px") : (s.style.width = u ? u + "px" : "auto", s.style.height = f ? f + "px" : "auto", s.style.backgroundImage = "none", n.innerHTML = v), h.mask(b, e), h.alpha(s, 1, 100, g, s, 3), null != C && setTimeout(function () {
+                h.hide()
+            }, 1e3 * C), this.structure = {
+                sysmask: e,
+                sysbox: s,
+                syscontent: n,
+                systitle: o,
+                sysmove: i,
+                systitname: l,
+                sysoper: a,
+                sysclose: r,
+                sysmagnify: d,
+                sysshrink: void 0
+            }, g && h.btnoper(x, this.structure), i = BOXLAYER$("div"), i.id = "sys-move-event", s.appendChild(i), s.onmouseover = function () {
+                h.windowsize(event, u, f, i)
+            }
+        }
+    }, isMobile: function (t) {
+        for (var e = navigator.userAgent, s = ["Android", "iPhone", "SymbianOS", "Windows Phone", "iPad", "iPod"], t = !1, n = 0; n < s.length; n++)
+            if (e.indexOf(s[n]) > 0) {
+                t = !0;
+                break
+            }
+        var o = window.screen.width,
+            i = window.screen.height;
+        return o < 500 && i < 800 && (t = !0), t
+    }, fill: function (t, e, s, n, o, i, l, a, r) {
+        var d = this;
+        if (e) {
+            a.style.backgroundColor = "#ffffff";
+            var h = window.XMLHttpRequest ? new XMLHttpRequest : new ActiveXObject("Microsoft.XMLHTTP");
+            h.onreadystatechange = function () {
+                4 == h.readyState && 200 == h.status && d.psh(h.responseText, s, n, o, i, l, a)
+            }, h.open("GET", t, 1), h.send(null)
+        } else this.psh(t, s, n, o, i, l, a); if (null != i) {
+            if (1 == o && 1 != e) {
+                var c = d.structure.sysmagnify;
+                c.parentNode.removeChild(c)
+            }
+            var u = d.structure.systitname;
+            r.appendChild(u).innerHTML = i
+        }
+    }, psh: function (t, e, s, n, o, i, l) {
+        var a = this,
+            r = 0,
+            d = 0;
+        if (n) {
+            var h = a.structure.syscontent;
+            if (e && s) h.innerHTML = t;
+            else {
+                var c = l.style.width,
+                    u = l.style.height;
+                h.innerHTML = t, l.style.width = e ? e + "px" : "", l.style.height = s ? s + "px" : "", h.style.display = "", r = BOX$("sys-btn-operate") ? BOX$("sys-btn-operate").offsetHeight : 0, d = a.par.title ? a.structure.systitle.offsetHeight : 0, e = parseInt(h.offsetWidth), s = parseInt(h.offsetHeight) + r + d, h.style.display = "none", l.style.width = c, l.style.height = u
+            }
+            a.size(l, e, s)
+        } else l.style.backgroundImage = "none", a.addClass(l, "Prompt")
+    }, btnoper: function (t, e) {
+        var s = this,
+            n = [],
+            o = BOXLAYER$("div");
+        o.id = "sys-btn-operate", s.addClass(e.sysbox.appendChild(o), "sys-btn-operate");
+        for (var i = 0; i < t.length; i++) {
+            var l = {
+                    id: i,
+                    name: t[i]
+                },
+                a = BOXLAYER$("button");
+            s.addClass(o.appendChild(a), "sys-btnstyle-operate"), o.appendChild(a).innerHTML = t[i], n.push(l);
+            for (var r = 0; r < n.length; r++) 0 == n[r].id ? a.id = "sys-btn-event" : 1 == n[r].id ? a.id = "sys-btn-close" : n[r].id >= 2 && (a.id = "sys-btn-extend" + i);
+            1 == t.length ? a.style.cssText = "width:100%" : 2 == t.length && (a.style.cssText = "width:50%")
+        }
+        var d = BOX$("sys-btn-event"),
+            h = BOX$("sys-btn-close");
+        d && (BOX$("sys-btn-event").onclick = function (t) {
+            s.par.confirm(s)
+        }), h && (BOX$("sys-btn-close").onclick = function () {
+            s.par.close(s)
+        })
+    }, resize: function (t, e) {
+        e.isMobile() ? e.addClass(sysbox, "mobileStyle") : e.removeClass(sysbox, "mobileStyle"), e.pos(t, e);
+        var s = t.offsetWidth,
+            n = t.offsetHeight;
+        e.size(t, s, n)
+    }, hide: function () {
+        var t = this,
+            e = t.structure.sysbox,
+            s = t.structure.sysmask,
+            n = t.par.lock;
+        e.parentNode.removeChild(e), s && s.parentNode.removeChild(s), t.alpha(e, -1, 0, n, e, 3)
+    }, pos: function (t, e) {
+        var s = e.height() / 2 - t.offsetHeight / 2;
+        s = s < 10 ? 10 : s, t.style.top = s + e.top() + "px", t.style.left = parseInt(e.width() / 2 - t.offsetWidth / 2) + "px"
+    }, alpha: function (t, e, s, n, o) {
+        var i = this;
+        clearInterval(t.ai), 1 == e && (t.style.opacity = 0, t.style.filter = "alpha(opacity=0)", t.style.display = "block", i.pos(t, i)), t.ai = setInterval(function () {
+            i.ta(t, e, s, n, o, i)
+        }, 20)
+    }, ta: function (t, e, s, n, o, i) {
+        var l = Math.round(100 * t.style.opacity),
+            a = i.structure.sysmask,
+            r = i.structure.syscontent,
+            d = i.structure.systitle,
+            h = i.par.width,
+            c = i.par.height,
+            u = i.par.mode,
+            f = (i.par.tm, i.par.title),
+            y = i.par.content,
+            n = i.par.lock;
+        if (l == s) {
+            if (i.alpha(o, -1, 0, n, o, 2), clearInterval(t.ai), -1 == e) t.style.display = "none", t == o || (r.innerHTML = o.style.backgroundColor = "");
+            else {
+                var s = i.par.tm;
+                t == a ? this.alpha(o, 1, 100, n, o) : i.fill(y, u, h, c, s, f, n, o, d)
+            }
+        } else {
+            var p = Math.ceil(l + .5 * (s - l));
+            p = 1 == p ? 0 : p, t.style.opacity = p / 100, t.style.filter = "alpha(opacity=" + p + ")"
+        }
+    }, size: function (t, e, s, n) {
+        var o = this,
+            i = document.createAttribute("data-name"),
+            l = o.structure.sysmagnify;
+        t = "object" == (void 0 === t ? "undefined" : _typeof(t)) ? t : BOX$(t), clearInterval(t.si), "shrink" == n ? (i.nodeValue = "magnify", l.setAttributeNode(i), o.removeClass(l, "sys-shrink-oper sys-oper"), o.addClass(l, "sys-magnify-oper sys-oper")) : "magnify" == n && (i.nodeValue = "shrink", l.setAttributeNode(i), o.removeClass(l, "sys-magnify-oper sys-oper"), o.addClass(l, "sys-shrink-oper sys-oper"));
+        var a = t.offsetWidth,
+            r = t.offsetHeight,
+            d = a - parseInt(t.style.width),
+            h = r - parseInt(t.style.height),
+            c = a - d > e ? 0 : 1,
+            u = r - h > s ? 0 : 1;
+        n ? o.ts(t, e, d, c, s, h, u) : t.si = setInterval(function () {
+            o.ts(t, e, d, c, s, h, u)
+        }, 20)
+    }, ts: function (t, e, s, n, o, i, l) {
+        var a = this,
+            r = 0,
+            d = a.isMobile(d),
+            h = a.structure.syscontent,
+            c = a.structure.sysbox,
+            u = a.par.lock;
+        null != a.par.title && (r = a.structure.systitle.offsetHeight);
+        var f = t.offsetWidth - s,
+            y = t.offsetHeight - i;
+        if (null == e || null == o) {
+            if (f != e) var p = t.style.width = "100%";
+            if (y != o) {
+                var o = t.style.height = "100%";
+                a.contentheight(h, u, c, r)
+            }
+            return c.style.top = "0px", c.style.left = "0px", !1
+        }
+        if (f == e && y == o) clearInterval(t.si), c.style.backgroundImage = "none", h.style.display = "block", d && (t.style.width = n ? Math.ceil("90") + "%" : Math.floor("90") + "%", t.style.height = l ? Math.ceil("90") + "%" : Math.floor("90") + "%", c.style.top = a.height() / 2 - c.offsetHeight / 2 + "px", c.style.left = parseInt(a.width() / 2 - c.offsetWidth / 2) + "px", a.contentheight(h, u, c, r));
+        else {
+            if (d) {
+                if (f != e)
+                    if (null != a.par.title) t.style.width = n ? Math.ceil("90") + "%" : Math.floor("90") + "%";
+                    else {
+                        var p = f + .5 * (e - f);
+                        t.style.width = n ? Math.ceil(p) + "px" : Math.floor(p) + "px"
+                    }
+                if (y != o)
+                    if (null != a.par.title) t.style.height = l ? Math.ceil("90") + "%" : Math.floor("90") + "%";
+                    else {
+                        var p = f + .5 * (o - f);
+                        t.style.height = n ? Math.ceil(p) + "px" : Math.floor(p) + "px"
+                    }
+            } else f != e && (t.style.width = n ? Math.ceil(e) + "px" : Math.floor(e) + "px"), y != o && (t.style.height = l ? Math.ceil(o) + "px" : Math.floor(o) + "px");
+            a.contentheight(h, u, c, r), a.pos(t, a)
+        }
+    }, contentheight: function (t, e, s, n) {
+        var o = 0,
+            i = s.offsetHeight;
+        e ? (BOX$("sys-btn-operate") && (o = BOX$("sys-btn-operate").offsetHeight), t.style.cssText = "height:" + (i - n - o) + "px;position: relative;overflow: auto;") : t.style.cssText = "height:" + (i - n) + "px;position: relative;overflow: auto;"
+    }, mask: function (t, e) {
+        var s = this;
+        t && (e.style.height = s.total(1) + "px", e.style.width = "", e.style.width = s.total(0) + "px")
+    }, dollybox: function (t, e) {
+        var s = 0,
+            n = 0;
+        e.style.cursor = "move";
+        var o = o || window.event;
+        return s = o.clientX - t.offsetLeft, n = o.clientY - t.offsetTop, document.onmousemove = function (e) {
+            var e = e || window.event,
+                o = e.clientX - s,
+                i = e.clientY - n,
+                l = document.documentElement.clientWidth - t.offsetWidth,
+                a = document.documentElement.clientHeight - t.offsetHeight;
+            return o <= 0 && (o = 0), i <= 0 && (i = 0), o >= l && (o = l), i >= a && (i = a), t.style.left = o + "px", t.style.top = i + "px", !1
+        }, document.onmouseup = function () {
+            document.onmousemove = null, document.onmouseup = null, this.releaseCapture && this.releaseCapture()
+        }, this.setCapture && this.setCapture(), !1
+    }, windowsize: function (t, e, s, n) {
+        var o = this,
+            i = o.structure.sysbox,
+            l = o.structure.syscontent;
+        i.onmousemove = function (t) {
+            var t = t || window.event,
+                e = t.clientX - i.offsetLeft,
+                s = (t.clientY, i.offsetTop, i.offsetWidth);
+            e >= s - 10 ? (n.style.cursor = "nw-resize", n.onmousedown = function (t) {
+                var t = t || window.event,
+                    e = t.clientX - n.offsetLeft,
+                    s = t.clientY - n.offsetTop;
+                i.offsetTop, i.offsetLeft;
+                document.onmousemove = function (t) {
+                    var t = t || window.event,
+                        o = t.clientX - e,
+                        a = t.clientY - s,
+                        r = document.documentElement.clientWidth - i.offsetLeft - 2,
+                        d = document.documentElement.clientHeight - i.offsetTop - 2,
+                        h = n.offsetWidth + o,
+                        c = n.offsetHeight + a;
+                    h < 400 && (h = 400), h > r && (h = r), i.style.width = h + "px", c < 400 && (c = 400), c > d && (c = d), i.style.height = c + "px";
+                    var u = BOX$("systitle").offsetHeight;
+                    return l.style.cssText = "height:" + (c - u) + "px;position: relative;overflow: auto;", !1
+                }, document.onmouseup = function () {
+                    document.onmousemove = null, document.onmouseup = null
+                }
+            }) : this.style.cursor = "auto"
+        }
+    }, total: function (t) {
+        var e = document.body,
+            s = document.documentElement;
+        return t ? Math.max(Math.max(e.scrollHeight, s.scrollHeight), Math.max(e.clientHeight, s.clientHeight)) : Math.max(Math.max(e.scrollWidth, s.scrollWidth), Math.max(e.clientWidth, s.clientWidth))
+    }, top: function () {
+        return document.documentElement.scrollTop || document.body.scrollTop
+    }, width: function () {
+        return self.innerWidth || document.documentElement.clientWidth || document.body.clientWidth
+    }, height: function () {
+        return self.innerHeight || document.documentElement.clientHeight || document.body.clientHeight
+    }
+}, _global = function () {
+    return this || (0, eval)("this")
+}(), "undefined" != typeof module && module.exports ? module.exports = Mysysbox : "function" == typeof define && define.amd ? define(function () {
+    return Mysysbox
+}) : !("Mysysbox" in _global) && (_global.Mysysbox = Mysysbox);
+			
+function openShutManager(oSourceObj,oTargetObj,shutAble,oOpenTip,oShutTip){
+var sourceObj = typeof oSourceObj == "string" ? document.getElementById(oSourceObj) : oSourceObj;
+var targetObj = typeof oTargetObj == "string" ? document.getElementById(oTargetObj) : oTargetObj;
+var openTip = oOpenTip || "";
+var shutTip = oShutTip || "";
+if(targetObj.style.display!="none"){
+   if(shutAble) return;
+   targetObj.style.display="none";
+   if(openTip  &&  shutTip){
+    sourceObj.innerHTML = shutTip; 
+   }
+} else {
+   targetObj.style.display="block";
+   if(openTip  &&  shutTip){
+    sourceObj.innerHTML = openTip; 
+   }
+}
+}
+		</script>
 		<style>
 			html {
 				font-family: sans-serif;
@@ -95,13 +425,12 @@
 			}
 			button,input,optgroup,select,textarea {
 				color: inherit;
-	font: inherit;
-	margin: 0
-}
-
-button {
-	overflow: visible
-}
+				font: inherit;
+				margin: 0
+			}
+			button {
+				overflow: visible
+			}
 
 button,select {
 	text-transform: none
