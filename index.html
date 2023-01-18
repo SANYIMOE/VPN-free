@@ -226,59 +226,59 @@
 					var a = this,
 					    r = 0,
 					    d = a.isMobile(d),
-            h = a.structure.syscontent,
-            c = a.structure.sysbox,
-            u = a.par.lock;
-        null != a.par.title && (r = a.structure.systitle.offsetHeight);
-        var f = t.offsetWidth - s,
-            y = t.offsetHeight - i;
-        if (null == e || null == o) {
-            if (f != e) var p = t.style.width = "100%";
-            if (y != o) {
-                var o = t.style.height = "100%";
-                a.contentheight(h, u, c, r)
-            }
-            return c.style.top = "0px", c.style.left = "0px", !1
-        }
-        if (f == e && y == o) clearInterval(t.si), c.style.backgroundImage = "none", h.style.display = "block", d && (t.style.width = n ? Math.ceil("90") + "%" : Math.floor("90") + "%", t.style.height = l ? Math.ceil("90") + "%" : Math.floor("90") + "%", c.style.top = a.height() / 2 - c.offsetHeight / 2 + "px", c.style.left = parseInt(a.width() / 2 - c.offsetWidth / 2) + "px", a.contentheight(h, u, c, r));
-        else {
-            if (d) {
-                if (f != e)
-                    if (null != a.par.title) t.style.width = n ? Math.ceil("90") + "%" : Math.floor("90") + "%";
-                    else {
-                        var p = f + .5 * (e - f);
-                        t.style.width = n ? Math.ceil(p) + "px" : Math.floor(p) + "px"
-                    }
-                if (y != o)
-                    if (null != a.par.title) t.style.height = l ? Math.ceil("90") + "%" : Math.floor("90") + "%";
-                    else {
-                        var p = f + .5 * (o - f);
-                        t.style.height = n ? Math.ceil(p) + "px" : Math.floor(p) + "px"
-                    }
-            } else f != e && (t.style.width = n ? Math.ceil(e) + "px" : Math.floor(e) + "px"), y != o && (t.style.height = l ? Math.ceil(o) + "px" : Math.floor(o) + "px");
-            a.contentheight(h, u, c, r), a.pos(t, a)
-        }
-    }, contentheight: function (t, e, s, n) {
-        var o = 0,
-            i = s.offsetHeight;
-        e ? (BOX$("sys-btn-operate") && (o = BOX$("sys-btn-operate").offsetHeight), t.style.cssText = "height:" + (i - n - o) + "px;position: relative;overflow: auto;") : t.style.cssText = "height:" + (i - n) + "px;position: relative;overflow: auto;"
-    }, mask: function (t, e) {
-        var s = this;
-        t && (e.style.height = s.total(1) + "px", e.style.width = "", e.style.width = s.total(0) + "px")
-    }, dollybox: function (t, e) {
-        var s = 0,
-            n = 0;
-        e.style.cursor = "move";
-        var o = o || window.event;
-        return s = o.clientX - t.offsetLeft, n = o.clientY - t.offsetTop, document.onmousemove = function (e) {
-            var e = e || window.event,
-                o = e.clientX - s,
-                i = e.clientY - n,
-                l = document.documentElement.clientWidth - t.offsetWidth,
-                a = document.documentElement.clientHeight - t.offsetHeight;
-            return o <= 0 && (o = 0), i <= 0 && (i = 0), o >= l && (o = l), i >= a && (i = a), t.style.left = o + "px", t.style.top = i + "px", !1
-        }, document.onmouseup = function () {
-            document.onmousemove = null, document.onmouseup = null, this.releaseCapture && this.releaseCapture()
+					    h = a.structure.syscontent,
+					    c = a.structure.sysbox,
+					    u = a.par.lock;
+					null != a.par.title && (r = a.structure.systitle.offsetHeight);
+					var f = t.offsetWidth - s,
+					    y = t.offsetHeight - i;
+					if (null == e || null == o) {
+						if (f != e) var p = t.style.width = "100%";
+						if (y != o) {
+							var o = t.style.height = "100%";
+							a.contentheight(h, u, c, r)
+						}
+						return c.style.top = "0px", c.style.left = "0px", !1
+					}
+					if (f == e && y == o) clearInterval(t.si), c.style.backgroundImage = "none", h.style.display = "block", d && (t.style.width = n ? Math.ceil("90") + "%" : Math.floor("90") + "%", t.style.height = l ? Math.ceil("90") + "%" : Math.floor("90") + "%", c.style.top = a.height() / 2 - c.offsetHeight / 2 + "px", c.style.left = parseInt(a.width() / 2 - c.offsetWidth / 2) + "px", a.contentheight(h, u, c, r));
+					else {
+						if (d) {
+							if (f != e)
+								if (null != a.par.title) t.style.width = n ? Math.ceil("90") + "%" : Math.floor("90") + "%";
+								else {
+									var p = f + .5 * (e - f);
+									t.style.width = n ? Math.ceil(p) + "px" : Math.floor(p) + "px"
+								}
+							if (y != o)
+								if (null != a.par.title) t.style.height = l ? Math.ceil("90") + "%" : Math.floor("90") + "%";
+								else {
+									var p = f + .5 * (o - f);
+									t.style.height = n ? Math.ceil(p) + "px" : Math.floor(p) + "px"
+								}
+						} else f != e && (t.style.width = n ? Math.ceil(e) + "px" : Math.floor(e) + "px"), y != o && (t.style.height = l ? Math.ceil(o) + "px" : Math.floor(o) + "px");
+						a.contentheight(h, u, c, r), a.pos(t, a)
+					}
+				}, contentheight: function (t, e, s, n) {
+					var o = 0,
+					    i = s.offsetHeight;
+					e ? (BOX$("sys-btn-operate") && (o = BOX$("sys-btn-operate").offsetHeight), t.style.cssText = "height:" + (i - n - o) + "px;position: relative;overflow: auto;") : t.style.cssText = "height:" + (i - n) + "px;position: relative;overflow: auto;"
+				}, mask: function (t, e) {
+					var s = this;
+					t && (e.style.height = s.total(1) + "px", e.style.width = "", e.style.width = s.total(0) + "px")
+				}, dollybox: function (t, e) {
+					var s = 0,
+					    n = 0;
+					e.style.cursor = "move";
+					var o = o || window.event;
+					return s = o.clientX - t.offsetLeft, n = o.clientY - t.offsetTop, document.onmousemove = function (e) {
+						var e = e || window.event,
+						    o = e.clientX - s,
+						    i = e.clientY - n,
+						    l = document.documentElement.clientWidth - t.offsetWidth,
+						    a = document.documentElement.clientHeight - t.offsetHeight;
+						return o <= 0 && (o = 0), i <= 0 && (i = 0), o >= l && (o = l), i >= a && (i = a), t.style.left = o + "px", t.style.top = i + "px", !1
+					}, document.onmouseup = function () {
+						document.onmousemove = null, document.onmouseup = null, this.releaseCapture && this.releaseCapture()
         }, this.setCapture && this.setCapture(), !1
     }, windowsize: function (t, e, s, n) {
         var o = this,
