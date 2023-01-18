@@ -62,28 +62,29 @@
 					}, this.handlers = {}, this.show(this.par)
 				}, show: function (t) {
 					var e, s, n, o, i, l, a, r, d, h = this,
-            c = h.isMobile(),
-            u = t.width,
-            f = t.height,
-            y = t.mode,
-            p = t.tm,
-            m = t.title,
-            v = t.content,
-            g = t.lock,
-            b = t.mask,
-            x = t.btn,
-            w = t.ieventmask,
-            C = t.time;
-        if (!this.hasDom) {
-            s = BOXLAYER$("div"), s.id = "sysbox", h.addClass(s, "sys-box"), n = BOXLAYER$("div"), n.id = "syscontent", document.body.appendChild(s), o = BOXLAYER$("div"), o.id = "systitle", b && (e = BOXLAYER$("div"), e.id = "sysmask", document.body.appendChild(e)), l = BOXLAYER$("span"), h.addClass(l, "sys-title-name"), a = BOXLAYER$("span"), h.addClass(a, "sys-oper-box"), d = BOXLAYER$("a"), h.addClass(d, "sys-magnify-oper sys-oper"), r = BOXLAYER$("a"), h.addClass(r, "sys-close-oper sys-oper"), h.addClass(s.appendChild(o), "sys-title"), o.appendChild(l).innerHTML = m, o.appendChild(a);
-            var M = document.createAttribute("data-name");
-            M.nodeValue = "magnify", a.appendChild(d).setAttributeNode(M), h.addClass(s.appendChild(n), "sys-content"), a.appendChild(d).href = "javascript:;", a.appendChild(r).href = "javascript:;", a.appendChild(r).onclick = function () {
-                h.hide()
-            }, d.onclick = function () {
-                var t = d.getAttribute("data-name");
-                "magnify" == t ? h.size(s, null, null, t) : "shrink" == t && h.size(s, u, f, t)
-            }, w && (e.onclick = function () {
-                h.hide()
+					    c = h.isMobile(),
+					    u = t.width,
+					    f = t.height,
+					    y = t.mode,
+					    p = t.tm,
+					    m = t.title,
+					    v = t.content,
+					    g = t.lock,
+					    b = t.mask,
+					    x = t.btn,
+					    w = t.ieventmask,
+					    C = t.time;
+					
+					if (!this.hasDom) {
+						s = BOXLAYER$("div"), s.id = "sysbox", h.addClass(s, "sys-box"), n = BOXLAYER$("div"), n.id = "syscontent", document.body.appendChild(s), o = BOXLAYER$("div"), o.id = "systitle", b && (e = BOXLAYER$("div"), e.id = "sysmask", document.body.appendChild(e)), l = BOXLAYER$("span"), h.addClass(l, "sys-title-name"), a = BOXLAYER$("span"), h.addClass(a, "sys-oper-box"), d = BOXLAYER$("a"), h.addClass(d, "sys-magnify-oper sys-oper"), r = BOXLAYER$("a"), h.addClass(r, "sys-close-oper sys-oper"), h.addClass(s.appendChild(o), "sys-title"), o.appendChild(l).innerHTML = m, o.appendChild(a);
+						var M = document.createAttribute("data-name");
+						M.nodeValue = "magnify", a.appendChild(d).setAttributeNode(M), h.addClass(s.appendChild(n), "sys-content"), a.appendChild(d).href = "javascript:;", a.appendChild(r).href = "javascript:;", a.appendChild(r).onclick = function () {
+							h.hide()
+						}, d.onclick = function () {
+							var t = d.getAttribute("data-name");
+							"magnify" == t ? h.size(s, null, null, t) : "shrink" == t && h.size(s, u, f, t)
+						}, w && (e.onclick = function () {
+							h.hide()
             }), null == m && o.parentNode.removeChild(o), o.onmousedown = function () {
                 h.dollybox(s, o)
             }, c ? h.addClass(s, "mobileStyle") : h.removeClass(s, "mobileStyle"), window.onresize = function () {
@@ -1300,9 +1301,9 @@ a:hover {
 	<section class="main-content-head">
 <hr>
 <div>
-<center>玉桂文件服务主要提供文件上传、文件下载。</center><br>
-<center>它部署在github，实现了文件的高速上传、下载需求，操作简单。</center><br>
-<center>上传文件请上传到/files，否则将不会被成功审核。</center>
+<center></center><br>
+<center></center><br>
+<center></center>
 </div>
 <hr>
 <!-- <h1><a name="mianze"></a>旗下网站</h1>
