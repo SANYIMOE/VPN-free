@@ -30,11 +30,11 @@ Shadowrocket/Quantumult(X)
 ### 订阅地址
 ### 官方订阅地址
 #### 默认订阅地址
-- 通用：`https://vpn-free.mojy.xyz/conf/data.txt`
-- Clash：`https://vpn-free.mojy.xyz/conf/clash.conf`
-- Quantumult：`https://vpn-free.mojy.xyz/conf/quantumult.conf`
-- QuantumultX：`https://vpn-free.mojy.xyz/conf/quantumultx.conf`
-- Surge：`https://vpn-free.mojy.xyz/conf/surge.conf`
+- 通用：`https://vpn-free.sn-m.xyz/conf/data.txt`
+- Clash：`https://vpn-free.sn-m.xyz/conf/clash.conf`
+- Quantumult：`https://vpn-free.sn-m.xyz/conf/quantumult.conf`
+- QuantumultX：`https://vpn-free.sn-m.xyz/conf/quantumultx.conf`
+- Surge：`https://vpn-free.sn-m.xyz/conf/surge.conf`
 
 其它客户端请使用[订阅转换](https://aclsub.mojy.xyz)
 
