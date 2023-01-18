@@ -279,71 +279,71 @@
 						return o <= 0 && (o = 0), i <= 0 && (i = 0), o >= l && (o = l), i >= a && (i = a), t.style.left = o + "px", t.style.top = i + "px", !1
 					}, document.onmouseup = function () {
 						document.onmousemove = null, document.onmouseup = null, this.releaseCapture && this.releaseCapture()
-        }, this.setCapture && this.setCapture(), !1
-    }, windowsize: function (t, e, s, n) {
-        var o = this,
-            i = o.structure.sysbox,
-            l = o.structure.syscontent;
-        i.onmousemove = function (t) {
-            var t = t || window.event,
-                e = t.clientX - i.offsetLeft,
-                s = (t.clientY, i.offsetTop, i.offsetWidth);
-            e >= s - 10 ? (n.style.cursor = "nw-resize", n.onmousedown = function (t) {
-                var t = t || window.event,
-                    e = t.clientX - n.offsetLeft,
-                    s = t.clientY - n.offsetTop;
-                i.offsetTop, i.offsetLeft;
-                document.onmousemove = function (t) {
-                    var t = t || window.event,
-                        o = t.clientX - e,
-                        a = t.clientY - s,
-                        r = document.documentElement.clientWidth - i.offsetLeft - 2,
-                        d = document.documentElement.clientHeight - i.offsetTop - 2,
-                        h = n.offsetWidth + o,
-                        c = n.offsetHeight + a;
-                    h < 400 && (h = 400), h > r && (h = r), i.style.width = h + "px", c < 400 && (c = 400), c > d && (c = d), i.style.height = c + "px";
-                    var u = BOX$("systitle").offsetHeight;
-                    return l.style.cssText = "height:" + (c - u) + "px;position: relative;overflow: auto;", !1
-                }, document.onmouseup = function () {
-                    document.onmousemove = null, document.onmouseup = null
-                }
-            }) : this.style.cursor = "auto"
-        }
-    }, total: function (t) {
-        var e = document.body,
-            s = document.documentElement;
-        return t ? Math.max(Math.max(e.scrollHeight, s.scrollHeight), Math.max(e.clientHeight, s.clientHeight)) : Math.max(Math.max(e.scrollWidth, s.scrollWidth), Math.max(e.clientWidth, s.clientWidth))
-    }, top: function () {
-        return document.documentElement.scrollTop || document.body.scrollTop
-    }, width: function () {
-        return self.innerWidth || document.documentElement.clientWidth || document.body.clientWidth
-    }, height: function () {
-        return self.innerHeight || document.documentElement.clientHeight || document.body.clientHeight
-    }
-}, _global = function () {
-    return this || (0, eval)("this")
-}(), "undefined" != typeof module && module.exports ? module.exports = Mysysbox : "function" == typeof define && define.amd ? define(function () {
-    return Mysysbox
-}) : !("Mysysbox" in _global) && (_global.Mysysbox = Mysysbox);
+					}, this.setCapture && this.setCapture(), !1
+				}, windowsize: function (t, e, s, n) {
+					var o = this,
+					    i = o.structure.sysbox,
+					    l = o.structure.syscontent;
+					i.onmousemove = function (t) {
+						var t = t || window.event,
+						    e = t.clientX - i.offsetLeft,
+						    s = (t.clientY, i.offsetTop, i.offsetWidth);
+						e >= s - 10 ? (n.style.cursor = "nw-resize", n.onmousedown = function (t) {
+							var t = t || window.event,
+							    e = t.clientX - n.offsetLeft,
+							    s = t.clientY - n.offsetTop;
+							i.offsetTop, i.offsetLeft;
+							document.onmousemove = function (t) {
+								var t = t || window.event,
+								    o = t.clientX - e,
+								    a = t.clientY - s,
+								    r = document.documentElement.clientWidth - i.offsetLeft - 2,
+								    d = document.documentElement.clientHeight - i.offsetTop - 2,
+								    h = n.offsetWidth + o,
+								    c = n.offsetHeight + a;
+								h < 400 && (h = 400), h > r && (h = r), i.style.width = h + "px", c < 400 && (c = 400), c > d && (c = d), i.style.height = c + "px";
+								var u = BOX$("systitle").offsetHeight;
+								return l.style.cssText = "height:" + (c - u) + "px;position: relative;overflow: auto;", !1
+							}, document.onmouseup = function () {
+								document.onmousemove = null, document.onmouseup = null
+							}
+						}) : this.style.cursor = "auto"
+					}
+				}, total: function (t) {
+					var e = document.body,
+					    s = document.documentElement;
+					return t ? Math.max(Math.max(e.scrollHeight, s.scrollHeight), Math.max(e.clientHeight, s.clientHeight)) : Math.max(Math.max(e.scrollWidth, s.scrollWidth), Math.max(e.clientWidth, s.clientWidth))
+				}, top: function () {
+					return document.documentElement.scrollTop || document.body.scrollTop
+				}, width: function () {
+					return self.innerWidth || document.documentElement.clientWidth || document.body.clientWidth
+				}, height: function () {
+					return self.innerHeight || document.documentElement.clientHeight || document.body.clientHeight
+				}
+			}, _global = function () {
+				return this || (0, eval)("this")
+			}(), "undefined" != typeof module && module.exports ? module.exports = Mysysbox : "function" == typeof define && define.amd ? define(function () {
+				return Mysysbox
+			}) : !("Mysysbox" in _global) && (_global.Mysysbox = Mysysbox);
 			
-function openShutManager(oSourceObj,oTargetObj,shutAble,oOpenTip,oShutTip){
-var sourceObj = typeof oSourceObj == "string" ? document.getElementById(oSourceObj) : oSourceObj;
-var targetObj = typeof oTargetObj == "string" ? document.getElementById(oTargetObj) : oTargetObj;
-var openTip = oOpenTip || "";
-var shutTip = oShutTip || "";
-if(targetObj.style.display!="none"){
-   if(shutAble) return;
-   targetObj.style.display="none";
-   if(openTip  &&  shutTip){
-    sourceObj.innerHTML = shutTip; 
-   }
-} else {
-   targetObj.style.display="block";
-   if(openTip  &&  shutTip){
-    sourceObj.innerHTML = openTip; 
-   }
-}
-}
+			function openShutManager(oSourceObj,oTargetObj,shutAble,oOpenTip,oShutTip){
+				var sourceObj = typeof oSourceObj == "string" ? document.getElementById(oSourceObj) : oSourceObj;
+				var targetObj = typeof oTargetObj == "string" ? document.getElementById(oTargetObj) : oTargetObj;
+				var openTip = oOpenTip || "";
+				var shutTip = oShutTip || "";
+				if(targetObj.style.display!="none"){
+					if(shutAble) return;
+					targetObj.style.display="none";
+					if(openTip  &&  shutTip){
+						sourceObj.innerHTML = shutTip; 
+					}
+				} else {
+					targetObj.style.display="block";
+					if(openTip  &&  shutTip){
+						sourceObj.innerHTML = openTip; 
+					}
+				}
+			}
 		</script>
 		<style>
 			html {
