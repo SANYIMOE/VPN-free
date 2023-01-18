@@ -1,6 +1,6 @@
 # VPN-free项目
-## 玉桂家园VPN-free项目暂时停止运行，目前将清除所有节点。
-<!-- ## 一、介绍
+<!-- ## 玉桂家园VPN-free项目暂时停止运行，目前将清除所有节点。 -->
+## 一、介绍
 本项目提供免费的，随时更新的VPN加速服务，可以免费使用的VPN加速服务。
 
 注：本项目采用手动提交+自动搜集，实现完全可用的多节点VPN，请勿滥用。发现新的免费节点可提交 [issues](https://github.com/SANYIMOE/VPN-free/issues) ，我们会在测试可用后添加。
@@ -36,16 +36,7 @@ Shadowrocket/Quantumult(X)
 - QuantumultX：`https://vpn-free.mojy.xyz/conf/quantumultx.conf`
 - Surge：`https://vpn-free.mojy.xyz/conf/surge.conf`
 
-其它客户端请使用[订阅转换](https://acl4ssr.netlify.app)
-
-#### 玉桂更新服务
-- 通用：`https://update.mojy.xyz/vpn-free/.new/data.txt`
-- Clash：`https://update.mojy.xyz/vpn-free/.new/clash.conf`
-- Quantumult：`https://update.mojy.xyz/vpn-free/.new/quantumult.conf`
-- QuantumultX：`https://update.mojy.xyz/vpn-free/.new/quantumultx.conf`
-- Surge：`https://update.mojy.xyz/vpn-free/.new/surge.conf`
-
-其它客户端请使用[订阅转换](https://acl4ssr.netlify.app)
+其它客户端请使用[订阅转换](https://aclsub.mojy.xyz)
 
 #### CDNMOE
 - 通用：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/data.txt`
@@ -54,7 +45,7 @@ Shadowrocket/Quantumult(X)
 - QuantumultX：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/quantumultx.conf`
 - Surge：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/surge.conf`
 
-其它客户端请使用[订阅转换](https://acl4ssr.netlify.app)
+其它客户端请使用[订阅转换](https://aclsub.mojy.xyz)
 
 #### jsDelivr
 - 通用：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/data.txt`
@@ -63,7 +54,7 @@ Shadowrocket/Quantumult(X)
 - QuantumultX：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/quantumultx.conf`
 - Surge：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/surge.conf`
 
-其它客户端请使用[订阅转换](https://acl4ssr.netlify.app)
+其它客户端请使用[订阅转换](https://aclsub.mojy.xyz)
 
 ### 第三方订阅地址
 ```
@@ -86,4 +77,4 @@ Shadowrocket/Quantumult(X)
 无数据
 
 ### 节点地址
-节点地址请见[全部节点](https://vpn-free.mojy.xyz/conf/data_new.txt) -->
+节点地址请见[全部节点](https://vpn-free.sn-m.xyz/conf/data_new.txt)
