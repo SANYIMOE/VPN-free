@@ -13,55 +13,55 @@
 		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 		<script>
 			"use strict";
-
-function BOX$(t) {
-    return document.getElementById(t)
-}
-
-function BOXLAYER$(t) {
-    return document.createElement(t)
-}
-
-function extend(t, e, s) {
-    for (var n in e)!e.hasOwnProperty(n) || t.hasOwnProperty(n) && !s || (t[n] = e[n]);
-    return t
-}
-
-function Mysysbox(t) {
-    this._initial(t)
-}
-var _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function (t) {
-        return typeof t
-    } : function (t) {
-        return t && "function" == typeof Symbol && t.constructor === Symbol && t !== Symbol.prototype ? "symbol" : typeof t
-    },
-    _global;
-Mysysbox.prototype = {
-    constructor: void 0,
-    _initial: function (t) {
-        var e = {
-            ieventmask: !0,
-            mask: !0,
-            lock: !0,
-            btn: [],
-            title: null,
-            mode: 0,
-            tm: 0,
-            time: null,
-            width: 0,
-            height: 0,
-            content: "",
-            confirm: function (t) {}, close: function () {}
-        };
-        this.par = extend(e, t, !0), this.hasDom = !1, this.listeners = [], this.hasClsss = function (t, e) {
-            return !!t.className.match(new RegExp("(\\s|^)" + e + "(\\s|$)"))
-        }, this.addClass = function (t, e) {
-            this.hasClsss(t, e) || (t.className += " " + e)
-        }, this.removeClass = function (t, e) {
-            this.hasClsss(t, e) && (t.className = t.className.replace(new RegExp("(\\s|^)" + e + "(\\s|$)"), " "))
-        }, this.handlers = {}, this.show(this.par)
-    }, show: function (t) {
-        var e, s, n, o, i, l, a, r, d, h = this,
+			
+			function BOX$(t) {
+				return document.getElementById(t)
+			}
+			
+			function BOXLAYER$(t) {
+				return document.createElement(t)
+			}
+			
+			function extend(t, e, s) {
+				for (var n in e)!e.hasOwnProperty(n) || t.hasOwnProperty(n) && !s || (t[n] = e[n]);
+				return t
+			}
+			
+			function Mysysbox(t) {
+				this._initial(t)
+			}
+			var _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function (t) {
+				return typeof t
+			} : function (t) {
+				return t && "function" == typeof Symbol && t.constructor === Symbol && t !== Symbol.prototype ? "symbol" : typeof t
+			},
+			    _global;
+			Mysysbox.prototype = {
+				constructor: void 0,
+				_initial: function (t) {
+					var e = {
+						ieventmask: !0,
+						mask: !0,
+						lock: !0,
+						btn: [],
+						title: null,
+						mode: 0,
+						tm: 0,
+						time: null,
+						width: 0,
+						height: 0,
+						content: "",
+						confirm: function (t) {}, close: function () {}
+					};
+					this.par = extend(e, t, !0), this.hasDom = !1, this.listeners = [], this.hasClsss = function (t, e) {
+						return !!t.className.match(new RegExp("(\\s|^)" + e + "(\\s|$)"))
+					}, this.addClass = function (t, e) {
+						this.hasClsss(t, e) || (t.className += " " + e)
+					}, this.removeClass = function (t, e) {
+						this.hasClsss(t, e) && (t.className = t.className.replace(new RegExp("(\\s|^)" + e + "(\\s|$)"), " "))
+					}, this.handlers = {}, this.show(this.par)
+				}, show: function (t) {
+					var e, s, n, o, i, l, a, r, d, h = this,
             c = h.isMobile(),
             u = t.width,
             f = t.height,
