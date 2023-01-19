@@ -6,16 +6,16 @@
 
 ## 二、推荐工具
 ### Android平台
-[SSRRAY](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)/[Clash](https://github.com/Kr328/ClashForAndroid/releases)
+[SSRRAY](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)/[Clash](https://github.com/Kr328/ClashForAndroid/releases)/[Surfboard](https://github.com/getsurfboard/surfboard/releases)
 
 ### Windows平台
 [Clash](https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases)/[v2rayN](https://github.com/2dust/v2rayN/releases)
 
 ### Mac平台
-[Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)/[ClashX](https://github.com/yichengchen/clashX/releases)/[ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)
+[Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)/[ClashX](https://github.com/yichengchen/clashX/releases)/[ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)/Stash
 
 ### iOS/iPadOS
-Shadowrocket/Quantumult(X)
+Shadowrocket/Quantumult/Quantumult(X)/Loon/Stash
 
 ### Router/Openwrt
 [Openclash](https://github.com/vernesong/OpenClash/releases)
