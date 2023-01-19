@@ -15,7 +15,7 @@
 [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)/[ClashX](https://github.com/yichengchen/clashX/releases)/[ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)/Stash
 
 ### iOS/iPadOS
-Shadowrocket/Quantumult/Quantumult(X)/Loon/Stash
+Shadowrocket/Quantumult(X)/Loon/Stash
 
 ### Router/Openwrt
 [Openclash](https://github.com/vernesong/OpenClash/releases)
