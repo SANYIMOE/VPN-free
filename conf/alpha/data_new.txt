@@ -1,8 +1,3 @@
-trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-156-10-33.ipv4.rush.ml:8443?security=tls&type=tcp&headerType=none#Relay_%F0%9F%87%A6%F0%9F%87%BAAU-%F0%9F%87%A6%F0%9F%87%BAAU_02%20%7C%207.17Mb72d3@43-154-228-196.ipv4.rush.ml:8443?security=tls&type=tcp&headerType=none#Relay_%F0%9F%87%A6%F0%9F%87%BAAU-%F0%9F%87%A6%F0%9F%87%BAAU_03%20%7C11.33Mb
-trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-153-34-170.ipv4.rush.ml:8443?security=tls&type=tcp&headerType=none#Relay_%F0%9F%87%A6%F0%9F%87%BAAU-%F0%9F%87%A6%F0%9F%87%BAAU_04%20%7C%204.31Mb
-trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-153-30-20.ipv4.rush.ml:8443?security=tls&type=tcp&headerType=none#Relay_%F0%9F%87%A6%F0%9F%87%BAAU-%F0%9F%87%A6%F0%9F%87%BAAU_05%20%7C10.57Mb
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp08a.roc-taiwan.org.ua:65018?security=tls&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3CN_08
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3CN_09
 trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@upload.soft98.download:443?security=tls&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7FR_54
 trojan://b44579e1-f803-4981-86bc-aa8c783daa04@uk1.trojanvh.xyz:80?security=tls&type=tcp&headerType=none#Relay_%F0%9F%87%AC%F0%9F%87%A7GB-%F0%9F%87%AC%F0%9F%87%A7GB_66%20%7C%201.75Mb
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?security=tls&type=tcp&headerType=none#Relay_%F0%9F%87%AC%F0%9F%87%A7GB-%F0%9F%87%AC%F0%9F%87%A7GB_67%20%7C%205.87Mb
