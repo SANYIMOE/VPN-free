@@ -73,6 +73,8 @@ trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-154-228-196.ipv4.rush.ml:84
 # Japan
 vmess://YXV0bzpjMWFjMzU3ZC0zNjE5LTQzYWUtZGJmNS1kMjAxYTVhODJiMjdAanAyMy5jY3R2dmlwLm1sOjE5MDQ4?remarks=%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC1&alterId=0
 vmess://YXV0bzpiZWQyZDE4NS1mZTE2LTQzODktYjhkMS1kYjY5NmY5ZDcwYzhAanA1LmpzdGN4LmNvbTo4MA?remarks=%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC2&obfsParam=tlu.dl.delivery.mp.microsoft.com&path=/filestreamingservice/files/20f813e2-036a-42a8-92e2-a3a55a0b239b&obfs=websocket&alterId=0
+# Luxembourg
+vmess://YXV0bzo4NDY3YTkzOS1iMGMyLTQ0NDQtY2Q3Mi1hZWQxNjJlYThjMDlAc3QuM3djZG4ueHl6OjQ0Mw?remarks=%F0%9F%87%B1%F0%9F%87%BA%E5%8D%A2%E6%A3%AE%E5%A0%A11&obfsParam=st.3wcdn.xyz&path=/gogo&obfs=websocket&tls=1&alterId=0
 # Romania
 vmess://YXV0bzowODlkZWMyYS1iMGU2LTMyNTktYTkwNC00MzBhNTZiYWEwZWJAcm8ucmllbXVub2RlLmdhOjg0NDM?remarks=%F0%9F%87%B7%F0%9F%87%B4%20%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A1&obfsParam=%7B%22Host%22:%22ro.riemunode.ga%22%7D&path=/microsoft?ed=2048&obfs=websocket&tls=1&peer=ro.riemunode.ga&alterId=0
 # Russia
