@@ -76,4 +76,7 @@ Shadowrocket/Quantumult(X)/Loon/Stash/Surge
 无数据
 
 ### 节点地址
-节点地址请见[全部节点](https://vpn-free.sn-m.xyz/conf/data_new.txt)
+<iframe src ="/conf/data_new.txt" width="100%" height="500" frameborder="0" scrolling="auto">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+若上方地址无法显示请点击<a href="https://vpn-free.sn-m.xyz/conf/data_new.txt" target="_blank">这里</a>
