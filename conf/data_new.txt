@@ -40,5 +40,9 @@ vmess://YXV0bzpjMWFjMzU3ZC0zNjE5LTQzYWUtZGJmNS1kMjAxYTVhODJiMjdAanAyMy5jY3R2dmlw
 vmess://YXV0bzowODlkZWMyYS1iMGU2LTMyNTktYTkwNC00MzBhNTZiYWEwZWJAcm8ucmllbXVub2RlLmdhOjg0NDM?remarks=%F0%9F%87%B7%F0%9F%87%B4%20%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A1&obfsParam=%7B%22Host%22:%22ro.riemunode.ga%22%7D&path=/microsoft?ed=2048&obfs=websocket&tls=1&peer=ro.riemunode.ga&alterId=0
 # Russia
 vmess://YXV0bzphMjU4ODFmMy05NjdmLTMyNjUtYmM3Zi05ZTY2ODU3YjAxNmJAdjEwYS50b2RkbnMudGs6ODA?remarks=%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF1&obfsParam=v10a.toddns.tk&path=/fr-unlimitxxx&obfs=websocket&alterId=0
+# Singapore
+trojan://0c6a3341e8d5ab17@f5465c4.pg.gladns.com:3389#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A11
+vmess://YXV0bzo2ZmVhMTY0OS00MjViLTQwOTItYmY1My0yOTc5MjE1MmM5MjVAc2ctbGIudmhheC5uZXQ6ODA?remarks=%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A12&obfsParam=zoom.us&path=/sshkit/Ertusg86/635014638c264/&obfs=websocket&alterId=0
+vmess://YXV0bzo2ZmVhMTY0OS00MjViLTQwOTItYmY1My0yOTc5MjE1MmM5MjVAc2ctbGIudmhheC5uZXQ6ODA?remarks=%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A13&obfsParam=sg-lb.vhax.net&path=/sshkit/Ertusg86/635014638c264/&obfs=websocket&alterId=0
 # South Korea
 vmess://YXV0bzphNzQ2ZTUyMS1mMzhhLTQ0NzUtOWJmYy1lNWU3MTk3MmE4MjVAMzQuNjQuMjQ4LjE1MDo0NDM?remarks=%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD1&path=/&obfs=websocket&alterId=0
