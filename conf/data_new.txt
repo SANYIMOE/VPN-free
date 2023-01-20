@@ -50,6 +50,9 @@ vmess://YXV0bzo0MGQ0OTZhNi1jZWViLTQwOTYtYmFlYi00Y2M1MmIyMDU2MjFAMjAzLjI0LjEwOC44
 # China
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@111.6.85.221:36872#%F0%9F%87%A8%F0%9F%87%B3%E4%B8%AD%E5%9B%BD1
 vmess://YXV0bzo5NTE2ZDQwZi1lMDBhLTRhYzEtYjg5ZS1kMGJkNzdmZDNmOWZAemouemh1YW5mYS50azozMzM5Ng?remarks=%F0%9F%87%A8%F0%9F%87%B3%E4%B8%AD%E5%9B%BD2&alterId=0
+# Costa Rica
+vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMTkwLjkzLjI0Ni40OjQ0Mw?remarks=%F0%9F%87%A8%F0%9F%87%B7%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A01&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMTkwLjkzLjI0NS40OjQ0Mw?remarks=%F0%9F%87%A8%F0%9F%87%B7%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A02&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
 # Cyprus
 vmess://YXV0bzo1NmEyMTg4Yi0yYWI3LTQwMmMtYjliOC0zNDg0N2ZkZjA5NThAMjAzLjI0LjEwOC45OjQ0Mw?remarks=%F0%9F%87%A8%F0%9F%87%BE%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF1&obfsParam=oplg1.zhujicn2.com&path=/5QNROSRV&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMjAzLjI0LjEwOC4xMDo0NDM?remarks=%F0%9F%87%A8%F0%9F%87%BE%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF2&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
