@@ -33,6 +33,7 @@ Shadowrocket/Quantumult(X)/Loon/Stash/Surge
 - Clash：`https://vpn-free.sn-m.xyz/conf/clash.conf`
 - Quantumult：`https://vpn-free.sn-m.xyz/conf/quantumult.conf`
 - QuantumultX：`https://vpn-free.sn-m.xyz/conf/quantumultx.conf`
+- Surfboard：`https://vpn-free.sn-m.xyz/conf/surfboard.conf`
 - Surge：`https://vpn-free.sn-m.xyz/conf/surge.conf`
 
 其它客户端请使用[订阅转换](https://aclsub.mojy.xyz)
@@ -42,6 +43,7 @@ Shadowrocket/Quantumult(X)/Loon/Stash/Surge
 - Clash：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/clash.conf`
 - Quantumult：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/quantumult.conf`
 - QuantumultX：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/quantumultx.conf`
+- Surfboard：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/surfboard.conf`
 - Surge：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/surge.conf`
 
 其它客户端请使用[订阅转换](https://aclsub.mojy.xyz)
@@ -51,6 +53,7 @@ Shadowrocket/Quantumult(X)/Loon/Stash/Surge
 - Clash：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/clash.conf`
 - Quantumult：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/quantumult.conf`
 - QuantumultX：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/quantumultx.conf`
+- Surfboard：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/surfboard.conf`
 - Surge：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/surge.conf`
 
 其它客户端请使用[订阅转换](https://aclsub.mojy.xyz)
