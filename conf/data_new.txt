@@ -41,6 +41,7 @@ vmess://YXV0bzoyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjlAY2YtbHQuc2hhcmVj
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFANjYuMjM1LjIwMC4yMjo0NDM?remarks=%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD38&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzo1NmEyMTg4Yi0yYWI3LTQwMmMtYjliOC0zNDg0N2ZkZjA5NThAMTcyLjY3LjE5OS4zNDo0NDM?remarks=%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD39&obfsParam=oplg1.zhujicn2.com&path=/5QNROSRV&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMTcyLjY3LjE5OS4zNDo0NDM?remarks=%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD40&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzpiN2I2MDRlNC01MGU3LTNhOGItODRmNi0yMDM1ZmNkMjRlM2ZANDcuODcuMTQ0LjI0Mjo0NDM?remarks=%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD41&path=/v2ray&obfs=websocket&alterId=2
 # Armenia
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMTg1LjE2Mi4yMjguMjMwOjQ0Mw?remarks=%F0%9F%87%A6%F0%9F%87%B2%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A1&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
 # Belize
@@ -74,6 +75,8 @@ vmess://YXV0bzo0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWFAMTQxLjEwMS4xMTUu
 vmess://YXV0bzpmNjg2YWJmZS0yMzg3LTRiODEtZjU1ZS0xY2FiMzZiNjMzN2RAMTY3LjIzNS4xMjkuMTMwOjE4MzI0?remarks=%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD1&obfsParam=moi.ir&path=/&obfs=http&alterId=0
 # Hong Kong
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-154-228-196.ipv4.rush.ml:8443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF1
+# Japan
+vmess://YXV0bzplMDU3M2U0Yy0yY2QzLTRjYjEtODFkNS04ZTdjZjRkOGU3OTlAMTQxLjE0Ny4xODIuMjUyOjQ2MDE4?remarks=%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC1%7C(youtube%E9%98%BF%E4%BC%9F%E7%A7%91%E6%8A%80)&path=/
 # Luxembourg
 vmess://YXV0bzo4NDY3YTkzOS1iMGMyLTQ0NDQtY2Q3Mi1hZWQxNjJlYThjMDlAc3QuM3djZG4ueHl6OjQ0Mw?remarks=%F0%9F%87%B1%F0%9F%87%BA%E5%8D%A2%E6%A3%AE%E5%A0%A11&obfsParam=st.3wcdn.xyz&path=/gogo&obfs=websocket&tls=1&alterId=0
 # Netherlands
