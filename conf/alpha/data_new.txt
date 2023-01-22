@@ -92,3 +92,4 @@ trojan://fEDTdp8Sy1@95.85.76.136:56810?allowInsecure=1&peer=tr1.digisport.shop#%
 # Singapore
 trojan://0c6a3341e8d5ab17@f5465c4.pg.gladns.com:3389#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A11
 vmess://YXV0bzo2ZmVhMTY0OS00MjViLTQwOTItYmY1My0yOTc5MjE1MmM5MjVAc2ctbGIudmhheC5uZXQ6ODA?remarks=%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A12&obfsParam=zoom.us&path=/sshkit/Ertusg86/635014638c264/&obfs=websocket&alterId=0
+vmess://YXV0bzpjNjc0N2RhNC1mYjJlLTRhMmEtYmRiNy04NjE0YmRkNmIwYjNAMTYyLjE1OS4xMjguNzo0NDM?remarks=%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A13&obfsParam=sg2-v2ray.sshkit.org&path=/sshkit/1350195536/63a625eb069d5/&obfs=websocket&tls=1&alterId=0
