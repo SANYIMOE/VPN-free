@@ -52,6 +52,8 @@ vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMTkwLjkzLjI0NS40
 # Cyprus
 vmess://YXV0bzo1NmEyMTg4Yi0yYWI3LTQwMmMtYjliOC0zNDg0N2ZkZjA5NThAMjAzLjI0LjEwOC45OjQ0Mw?remarks=%F0%9F%87%A8%F0%9F%87%BE%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF1&obfsParam=oplg1.zhujicn2.com&path=/5QNROSRV&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMjAzLjI0LjEwOC4xMDo0NDM?remarks=%F0%9F%87%A8%F0%9F%87%BE%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF2&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
+# Denmark
+vmess://YXV0bzo0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWFAMTg1LjE2Mi4yMjguMjI5OjQ0Mw?remarks=%F0%9F%87%A9%F0%9F%87%B0%E4%B8%B9%E9%BA%A61&obfsParam=opfr1.v2rayfree1.xyz&path=/IYKLD53M&obfs=websocket&tls=1&alterId=0
 # England
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-154-228-196.ipv4.rush.ml:8443#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD1%7C11.01Mb
 trojan://shefelnak@content-provider4.cdn-delivery.akamaicd.com:443#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD2%7C224.01Mb
