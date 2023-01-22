@@ -5,6 +5,7 @@ trojan://jKRJgS7uvI@155.248.193.254:31853?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%
 vmess://YXV0bzo5ZjhiNmMyMS00ODQzLTRhZWItYWNlZC02ZGJlMDFhNGYxMGVAMzQuMTI4LjExMy4yMTE6NDQz?remarks=%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD2&path=/ziqinssh&obfs=websocket&tls=1&allowInsecure=1&alterId=0
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@170-187-134-190.ipv4.rush.ml:8443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD3%7C11.25Mb
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@170-187-134-190.ipv4.rush.ml:8443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD4%7C45.82Mb
+vmess://YXV0bzo1ZjY0ZmE2NS03YjE0LTQ5YzUtOTU0ZC1hYTE1YzZiZmNhY2RAMTQxLjEwMS4xMTQuMTc6NDQz?remarks=%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD5&obfsParam=clash6.ssr-free.xyz&path=/dongtaiwang.com&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzo2ZmVhMTY0OS00MjViLTQwOTItYmY1My0yOTc5MjE1MmM5MjVAMTcyLjY3LjIyMi40Njo4MA?remarks=%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD6&obfsParam=us-lb.sshkit.org&path=/sshkit/fdfadsfa/63848bfe228fd/&obfs=websocket&alterId=0
 vmess://YXV0bzoyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUZAdjJyYXkub25saW5lOjQ0Mw?remarks=%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD8&obfsParam=Phoenix.v2ray.online&path=/speedtest&obfs=websocket&tls=1&peer=Phoenix.v2ray.online&alterId=0
 vmess://YXV0bzoyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjlAY2YtbHQuc2hhcmVjZW50cmUub25saW5lOjQ0Mw?remarks=%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD10&obfsParam=buyvm-lv.sharecentre.online&path=/shirker&obfs=websocket&tls=1&alterId=0
