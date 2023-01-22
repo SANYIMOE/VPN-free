@@ -45,6 +45,7 @@ vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMTg1LjE2Mi4yMjgu
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMjAzLjMwLjE5MS4xOTM6NDQz?remarks=%F0%9F%87%A7%F0%9F%87%BF%E4%BC%AF%E5%88%A9%E5%85%B91&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMjAzLjMwLjE4OC4xOTA6NDQz?remarks=%F0%9F%87%A7%F0%9F%87%BF%E4%BC%AF%E5%88%A9%E5%85%B92&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMjAzLjMwLjE4OS4xOTE6NDQz?remarks=%F0%9F%87%A7%F0%9F%87%BF%E4%BC%AF%E5%88%A9%E5%85%B93&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzo1NmEyMTg4Yi0yYWI3LTQwMmMtYjliOC0zNDg0N2ZkZjA5NThAMjAzLjMwLjE4OC4xODk6NDQz?remarks=%F0%9F%87%A7%F0%9F%87%BF%E4%BC%AF%E5%88%A9%E5%85%B94&obfsParam=oplg1.zhujicn2.com&path=/5QNROSRV&obfs=websocket&tls=1&peer=oplg1.zhujicn2.com&alterId=0
 # China
 vmess://YXV0bzo5YmY0Y2JhNC05ZTllLTRkYTQtOGU2NS1mN2M0ODdjNTM5ZGZAMTA2LjEyLjE2OC4xMzoxMzE1Ng?remarks=%F0%9F%87%A8%F0%9F%87%B3%E4%B8%AD%E5%9B%BD1&obfsParam=a.189.cn&path=/&obfs=websocket&alterId=0
 # Costa Rica
@@ -73,6 +74,8 @@ trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-154-228-196.ipv4.rush.ml:84
 vmess://YXV0bzo4NDY3YTkzOS1iMGMyLTQ0NDQtY2Q3Mi1hZWQxNjJlYThjMDlAc3QuM3djZG4ueHl6OjQ0Mw?remarks=%F0%9F%87%B1%F0%9F%87%BA%E5%8D%A2%E6%A3%AE%E5%A0%A11&obfsParam=st.3wcdn.xyz&path=/gogo&obfs=websocket&tls=1&alterId=0
 # Netherlands
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMTg4LjExNC45OS4xMTo0NDM?remarks=%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B01&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzo0MGQ0OTZhNi1jZWViLTQwOTYtYmFlYi00Y2M1MmIyMDU2MjFAMTg4LjExNC45OS45OjQ0Mw?remarks=%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B02&obfsParam=lg1.trump2023.us&path=/ECTCJ0DF&obfs=websocket&tls=1&peer=lg1.trump2023.us&alterId=0
+vmess://YXV0bzo1NmEyMTg4Yi0yYWI3LTQwMmMtYjliOC0zNDg0N2ZkZjA5NThAMTkwLjkzLjI0Ni4zOjQ0Mw?remarks=%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B03&obfsParam=oplg1.zhujicn2.com&path=/5QNROSRV&obfs=websocket&tls=1
 # Russia
 vmess://YXV0bzphMjU4ODFmMy05NjdmLTMyNjUtYmM3Zi05ZTY2ODU3YjAxNmJAdjEwYS50b2RkbnMudGs6ODA?remarks=%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF1&obfsParam=v10a.toddns.tk&path=/fr-unlimitxxx&obfs=websocket&alterId=0
 # Singapore
