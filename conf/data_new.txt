@@ -121,6 +121,10 @@ vmess://YXV0bzo4Yjc3MGEzYS03YWQ5LTQ1NzMtYmZkNi0yYjE0NmJmOTNhZjdAMTcyLjEwNC4xNjcu
 vmess://YXV0bzplNmRhZDU5YS00NTU3LTRmZTItZWIyMS1iYTI3MGY5Nzc4ZmNAamRvc2cubm1zbC5waWNzOjg0NDM?remarks=🇸🇬新加坡10|(youtube阿伟科技)&obfsParam=jdosg.nmsl.pics&path=/&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzo5YzUyNzc2Yi00YjAxLTRhZTYtOWY3ZC0yNWNkNDcyNWUxM2NAMTcyLjEwNC4xNjcuMjQwOjcyMDQ?remarks=🇸🇬新加坡11|(youtube阿伟科技)&obfsParam=172.104.167.240&path=/sg1&obfs=websocket&alterId=0
 vmess://YXV0bzo5YzUyNzc2Yi00YjAxLTRhZTYtOWY3ZC0yNWNkNDcyNWUxM2NAMTcyLjEwNC4xNjcuMjQwOjcyMDQ?remarks=🇸🇬新加坡12|(youtube阿伟科技)&obfsParam=sg1.535eb521-9fe0-4478-b090-2a5cee4bb04a.nbvpn.org&path=/sg1&obfs=websocket&alterId=0
+vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAc2cxLnNhbmZlbjAwMS5waWNzOjIwMDM?remarks=🇸🇬新加坡13&obfsParam=aws.amazon.com&path=/cn&obfs=websocket&tls=1&peer=sg1.sanfen001.pics&alterId=0
+vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAc2cyLnNhbmZlbjAwMS5waWNzOjIwMDI?remarks=🇸🇬新加坡14&obfsParam=aws.amazon.com&path=/cn&obfs=websocket&tls=1&peer=sg1.sanfen001.pics&alterId=0
+vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAc2czLnNhbmZlbjAwMS5waWNzOjIwMDI?remarks=🇸🇬新加坡15&obfsParam=aws.amazon.com&path=/cn&obfs=websocket&tls=1&peer=sg1.sanfen001.pics&alterId=0
+vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAc2c0LnNhbmZlbjAwMS5waWNzOjIwMDI?remarks=🇸🇬新加坡16&obfsParam=aws.amazon.com&path=/cn&obfs=websocket&tls=1&peer=sg1.sanfen001.pics&alterId=0
 # South Korea
 vless://YXV0bzozZDk0M2E1MS1hMzE1LTRiOWQtOGYxMy02Y2QzYTlhZGFmNmFAdjJyYXkyLnYycmF5ZnJlZTIueHl6OjQ0Mw?remarks=🇰🇷韩国1|(youtube阿伟科技)&path=/ray&obfs=websocket&tls=1
 # Taiwan
