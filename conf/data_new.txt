@@ -14,6 +14,7 @@ https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NTAxOTYud2FpaHVpemhpYmlhb3dhbmcuY29tOjEx
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg3NDU3Njgud2FpaHVpemhpYmlhb3dhbmcuY29tOjExMjQz?peer=h745768.waihuizhibiaowang.com&remark=🇺🇸美国13#🇺🇸美国13
 # Australia
 vmess://YXV0bzo3NmY2ZWQ1NC03ZjYxLTQ0MDctZjQ5ZC1kZDMzZDA3ZWJkOGZAYXUueWFuZ29uLmNsdWI6NDQz?remarks=🇦🇺澳大利亚1&tls=1&alterId=0
+vmess://YXV0bzoyYWI1NmY3MC0zOWUzLTQ0MjItYmIyZS1kYmZlNTljYjAxZjhANDUuMzIuMTkwLjExNDo0NDM?remarks=🇦🇺澳大利亚2&path=/&obfs=websocket&alterId=0
 # Austria
 vmess://YXV0bzoyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUZAdjJyYXkub25saW5lOjQ0Mw?remarks=🇦🇹奥地利1&obfsParam=Vienna.v2ray.online&path=/speedtest&obfs=websocket&tls=1&alterId=0
 # Belize
@@ -57,6 +58,7 @@ vmess://YXV0bzplMDU3M2U0Yy0yY2QzLTRjYjEtODFkNS04ZTdjZjRkOGU3OTlAMTQxLjE0Ny4xODIu
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg5NjEzNTkud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h961359.waihuizhibiaowang.com&remark=🇯🇵日本2#🇯🇵日本2
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NDk5NjAud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h649960.waihuizhibiaowang.com&remark=🇯🇵日本3#🇯🇵日本3
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg3NDU3Njgud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h745768.waihuizhibiaowang.com&remark=🇯🇵日本4#🇯🇵日本4
+vmess://YXV0bzozMTc3MjJkMy1iYWY1LTQ5MzItYmQwZC1hYWVhY2I1MmUwYjBAMzguNTQuNTYuMTE3Ojgw?remarks=🇯🇵日本5&path=/sshocean&obfs=websocket&alterId=0
 # Singapore
 vmess://YXV0bzo2ZmVhMTY0OS00MjViLTQwOTItYmY1My0yOTc5MjE1MmM5MjVAc2ctbGIudmhheC5uZXQ6ODA?remarks=🇸🇬新加坡1&obfsParam=zoom.us&path=/sshkit/Ertusg86/635014638c264/&obfs=websocket&alterId=0
 vmess://YXV0bzo4MmQ1ZWE3My04MDAyLTQzMTktY2QzYy0yOWQxNTYwYmQyOTBAeGpwNGgubWF5YWEubWw6NDQz?remarks=🇸🇬新加坡2&obfsParam=xjp4h.mayaa.ml&path=/dsadsa1dsadsa33434&obfs=websocket&tls=1&alterId=0
