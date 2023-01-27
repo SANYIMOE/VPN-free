@@ -33,6 +33,10 @@ vmess://YXV0bzpjNWEyZDdiOC1iZjg0LTRmOTctODU3Ny1iOWI4N2YyYmFhZjdAMTcyLjY3LjcwLjIy
 # Australia
 vmess://YXV0bzo3NmY2ZWQ1NC03ZjYxLTQ0MDctZjQ5ZC1kZDMzZDA3ZWJkOGZAYXUueWFuZ29uLmNsdWI6NDQz?remarks=🇦🇺澳大利亚1&tls=1&alterId=0
 vmess://YXV0bzoyYWI1NmY3MC0zOWUzLTQ0MjItYmIyZS1kYmZlNTljYjAxZjhANDUuMzIuMTkwLjExNDo0NDM?remarks=🇦🇺澳大利亚2&path=/&obfs=websocket&alterId=0
+vmess://YXV0bzo3NmY2ZWQ1NC03ZjYxLTQ0MDctZjQ5ZC1kZDMzZDA3ZWJkOGZAYXUueWFuZ29uLmNsdWI6NDQz?remarks=🇦🇺澳大利亚3|(youtube阿伟科技)&path=/chcara&tls=1&alterId=0
+vmess://YXV0bzo3NmY2ZWQ1NC03ZjYxLTQ0MDctZjQ5ZC1kZDMzZDA3ZWJkOGZAYXUueWFuZ29uLmNsdWI6NDQz?remarks=🇦🇺澳大利亚4|(youtube阿伟科技)&path=/6e9EtZ2dL&tls=1&alterId=0
+vmess://YXV0bzo5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODdAdmF1MS4wYmFkLmNvbTo0NDM?remarks=🇦🇺澳大利亚5|(youtube阿伟科技)&path=/chat&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzo3NmY2ZWQ1NC03ZjYxLTQ0MDctZjQ5ZC1kZDMzZDA3ZWJkOGZAYXUueWFuZ29uLmNsdWI6NDQz?remarks=🇦🇺澳大利亚6|(youtube阿伟科技)&path=/ws&tls=1&alterId=0
 # Austria
 vmess://YXV0bzoyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUZAdjJyYXkub25saW5lOjQ0Mw?remarks=🇦🇹奥地利1&obfsParam=Vienna.v2ray.online&path=/speedtest&obfs=websocket&tls=1&alterId=0
 # Belize
