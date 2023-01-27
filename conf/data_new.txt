@@ -83,6 +83,7 @@ vmess://YXV0bzowYjVlOTJkZi01YThkLTQ5YmEtOTkwZC00YWUwYzhmY2Y3Y2ZAY2YuNTE1MTg4Lnh5
 trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@login.casperco.online:443/?allowInsecure=1&peer=login.casperco.online#🇩🇪德国5|(youtube阿伟科技)
 trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@stream.varzeshtv.live:554/?allowInsecure=1&peer=stream.varzeshtv.live#🇩🇪德国6|(youtube阿伟科技)
 vmess://YXV0bzpjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTRAZGUtbHMwMy5uYjEuZnI6NjQ0NDM?remarks=🇩🇪德国7|(youtube阿伟科技)&obfsParam=de-ls03.nb1.fr&path=/clientarea&obfs=websocket&tls=1&peer=de-ls03.nb1.fr&alterId=0
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE5My4xMDguMTE4LjM0OjIzNzU#🇩🇪德国8|16.67Mb
 # Hong Kong
 vmess://YXV0bzpjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTRAc2hjbjItMjAwbTAyLmlwbGMxODguY29tOjEwMDAx?remarks=🇭🇰香港1|(youtube阿伟科技)&obfs=none&alterId=0
 vmess://YXV0bzoyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjlAY2YtbHQuc2hhcmVjZW50cmUub25saW5lOjQ0Mw?remarks=🇭🇰香港2&obfsParam=hk-gcore.sharecentre.online&path=/shirker&obfs=websocket&tls=1&alterId=0
