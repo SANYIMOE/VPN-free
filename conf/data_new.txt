@@ -49,6 +49,8 @@ vmess://YXV0bzo0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWFAMTg1LjE2Mi4yMjgu
 # England
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-154-228-196.ipv4.rush.ml:8443#🇬🇧英国1|11.01Mb
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NTAxOTYud2FpaHVpemhpYmlhb3dhbmcuY29tOjExMTQz?peer=h650196.waihuizhibiaowang.com&remark=🇬🇧英国2#🇬🇧英国2
+# Finland
+vmess://YXV0bzo5NzYxNjY5ZS1mZTgzLTRmOGQtZjk2ZS0wYzdhYjI3MzcwODdAOTUuMjE2LjE4Mi4yMDoyOTU2Mw?remarks=🇫🇮芬兰1|(youtube阿伟科技)&obfsParam=arvancdn.ir&path=/&obfs=http&alterId=0
 # France
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFANjYuMjM1LjIwMC4yMjo0NDM?remarks=🇫🇷法国1|🇺🇸美国->🇫🇷法国&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzo0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWFAMTQxLjEwMS4xMTUuMTM0OjQ0Mw?remarks=🇫🇷法国2&obfsParam=opfr1.v2rayfree1.xyz&path=/IYKLD53M&obfs=websocket&tls=1&alterId=0
@@ -61,7 +63,11 @@ vmess://YXV0bzoyYjIxNDEyMi0xOTA2LTQyOGEtYmJiNy1hMDM5Y2JiN2NkNWNAMTk4LjQxLjIxMi4x
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMTQxLjEwMS4xMTQuMzI6NDQz?remarks=🇫🇷法国9&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzo0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWFAMTkwLjkzLjI0NC4yMDA6NDQz?remarks=🇫🇷法国10&obfsParam=opfr1.v2rayfree1.xyz&path=/IYKLD53M&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzo0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWFAbWFpbi5taWxsaW9uYWlyZWFpc2xlLmNvbTo0NDM?remarks=🇫🇷法国11&obfsParam=opfr1.v2rayfree1.xyz&path=/IYKLD53M&obfs=websocket&tls=1&alterId=0
-vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFANjYuMjM1LjIwMC4yMjo0NDM?remarks=🇫🇷法国12&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzo0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjRAMTExLjQ1LjIyLjIzOTo1MDAwMg?remarks=🇫🇷法国12|(youtube阿伟科技)&alterId=64
+trojan://rpMVmvNuUp@sr-2.sourcekade.pw:45967/?allowInsecure=1#🇫🇷法国13|(youtube阿伟科技)
+vmess://YXV0bzo0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWFAaG9obS5taWNyb3NvZnQuY29tOjQ0Mw?remarks=🇫🇷法国14|(youtube阿伟科技)&obfsParam=opfr1.v2rayfree1.xyz&path=/IYKLD53M&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzphMjU4ODFmMy05NjdmLTMyNjUtYmM3Zi05ZTY2ODU3YjAxNmJAMTc2LjMyLjM1LjIyOjgw?remarks=🇫🇷法国15|(youtube阿伟科技)&obfsParam=176.32.35.22&path=/fr-unlimitxxx&obfs=websocket&alterId=0
+vmess://YXV0bzpmMjhlMzU0ZS1jMmQxLTQ5ODMtOWIwNy01YWNhZjFiM2IzZTVAMTg1LjE0My4yMjAuMjU6NDQz?remarks=🇫🇷法国16|(youtube阿伟科技)&obfsParam=dengxin.one&path=/6e9EtZ2dL&obfs=websocket&tls=1&alterId=0
 # Germany
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NTAxOTYud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNzQz?peer=h650196.waihuizhibiaowang.com&remark=🇩🇪德国1#🇩🇪德国1
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg5NjEzNTkud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNzQz?peer=h961359.waihuizhibiaowang.com&remark=🇩🇪德国2#🇩🇪德国2
