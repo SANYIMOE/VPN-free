@@ -12,8 +12,13 @@ vmess://YXV0bzoyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjlAY2YtbHQuc2hhcmVj
 vmess://YXV0bzo1ZjY0ZmE2NS03YjE0LTQ5YzUtOTU0ZC1hYTE1YzZiZmNhY2RAMTcyLjY0LjE1NC4xNTU6NDQz?remarks=🇺🇸美国11&obfsParam=clash6.ssr-free.xyz&path=/dongtaiwang.com&obfs=websocket&tls=1&alterId=0
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NTAxOTYud2FpaHVpemhpYmlhb3dhbmcuY29tOjExMjQz?peer=h650196.waihuizhibiaowang.com&remark=🇺🇸美国12#🇺🇸美国12
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg3NDU3Njgud2FpaHVpemhpYmlhb3dhbmcuY29tOjExMjQz?peer=h745768.waihuizhibiaowang.com&remark=🇺🇸美国13#🇺🇸美国13
+# Australia
+vmess://YXV0bzo3NmY2ZWQ1NC03ZjYxLTQ0MDctZjQ5ZC1kZDMzZDA3ZWJkOGZAYXUueWFuZ29uLmNsdWI6NDQz?remarks=🇦🇺澳大利亚1&tls=1&alterId=0
 # Austria
 vmess://YXV0bzoyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUZAdjJyYXkub25saW5lOjQ0Mw?remarks=🇦🇹奥地利1&obfsParam=Vienna.v2ray.online&path=/speedtest&obfs=websocket&tls=1&alterId=0
+# Belize
+vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMjAzLjMwLjE5MS4xOTM6NDQz?remarks=🇧🇿伯利兹1&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzo0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWFAMjAzLjMwLjE4OC4xMjA6NDQz?remarks=🇧🇿伯利兹2&obfsParam=opfr1.v2rayfree1.xyz&path=/IYKLD53M&obfs=websocket&tls=1&alterId=0
 # China
 vmess://YXV0bzo5YmY0Y2JhNC05ZTllLTRkYTQtOGU2NS1mN2M0ODdjNTM5ZGZAMTA2LjEyLjE2OC4xMzoxMzE1Ng?remarks=🇨🇳中国1&obfsParam=a.189.cn&path=/&obfs=websocket&alterId=0
 # Costa Rica
