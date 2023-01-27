@@ -77,6 +77,12 @@ https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg5NjEzNTkud2FpaHVpemhpYmlhb3dhbmcuY29tOjEx
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NDk5NjAud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h649960.waihuizhibiaowang.com&remark=🇯🇵日本3#🇯🇵日本3
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg3NDU3Njgud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h745768.waihuizhibiaowang.com&remark=🇯🇵日本4#🇯🇵日本4
 vmess://YXV0bzozMTc3MjJkMy1iYWY1LTQ5MzItYmQwZC1hYWVhY2I1MmUwYjBAMzguNTQuNTYuMTE3Ojgw?remarks=🇯🇵日本5&path=/sshocean&obfs=websocket&alterId=0
+trojan://7812e7af-a2de-49a1-a034-8bc23f3f3b62@jp1.v2pn.live:443/?allowInsecure=1&peer=139-177-186-17.nhost.00cdn.com#🇯🇵日本6|(youtube阿伟科技)
+trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@hn.xiaohouzi.club:48431/?allowInsecure=1&peer=ajpn01.xiaohouzi.club#🇯🇵日本7|(youtube阿伟科技)
+trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@hn.xiaohouzi.club:18433/?allowInsecure=1&peer=ajpn03.xiaohouzi.club#🇯🇵日本8|(youtube阿伟科技)
+vmess://YXV0bzoyMzgwZjA3ZS1lNTRjLTQ2NDUtOGFiZS01MDU3NWIzMWY0NWZAY2NqcC5jdXRjbG91ZGpkLnNpdGU6NDUx?remarks=🇯🇵日本9|(youtube阿伟科技)&obfsParam=ccjp.cutcloudjd.site&path=/jp&obfs=websocket&tls=1&alterId=0
+trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@hn.xiaohouzi.club:18432/?allowInsecure=1&peer=ajpn02.xiaohouzi.club#🇯🇵日本10|(youtube阿伟科技)
+vmess://YXV0bzozZDgxZTZmYi1jN2YwLTQ3OTEtYWYyZS04MmM5M2QxNDk0ODNANjY2Lmh0dnZpcnUudG9wOjM2NzQ?remarks=🇯🇵日本11|(youtube阿伟科技)&obfsParam=666.htvviru.top&path=/cctv13/hd.m3u8&obfs=websocket&alterId=0
 # Singapore
 vmess://YXV0bzo2ZmVhMTY0OS00MjViLTQwOTItYmY1My0yOTc5MjE1MmM5MjVAc2ctbGIudmhheC5uZXQ6ODA?remarks=🇸🇬新加坡1&obfsParam=zoom.us&path=/sshkit/Ertusg86/635014638c264/&obfs=websocket&alterId=0
 vmess://YXV0bzo4MmQ1ZWE3My04MDAyLTQzMTktY2QzYy0yOWQxNTYwYmQyOTBAeGpwNGgubWF5YWEubWw6NDQz?remarks=🇸🇬新加坡2&obfsParam=xjp4h.mayaa.ml&path=/dsadsa1dsadsa33434&obfs=websocket&tls=1&alterId=0
@@ -90,6 +96,8 @@ vmess://YXV0bzo4Yjc3MGEzYS03YWQ5LTQ1NzMtYmZkNi0yYjE0NmJmOTNhZjdAMTcyLjEwNC4xNjcu
 vmess://YXV0bzplNmRhZDU5YS00NTU3LTRmZTItZWIyMS1iYTI3MGY5Nzc4ZmNAamRvc2cubm1zbC5waWNzOjg0NDM?remarks=🇸🇬新加坡10|(youtube阿伟科技)&obfsParam=jdosg.nmsl.pics&path=/&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzo5YzUyNzc2Yi00YjAxLTRhZTYtOWY3ZC0yNWNkNDcyNWUxM2NAMTcyLjEwNC4xNjcuMjQwOjcyMDQ?remarks=🇸🇬新加坡11|(youtube阿伟科技)&obfsParam=172.104.167.240&path=/sg1&obfs=websocket&alterId=0
 vmess://YXV0bzo5YzUyNzc2Yi00YjAxLTRhZTYtOWY3ZC0yNWNkNDcyNWUxM2NAMTcyLjEwNC4xNjcuMjQwOjcyMDQ?remarks=🇸🇬新加坡12|(youtube阿伟科技)&obfsParam=sg1.535eb521-9fe0-4478-b090-2a5cee4bb04a.nbvpn.org&path=/sg1&obfs=websocket&alterId=0
+# South Korea
+vless://YXV0bzozZDk0M2E1MS1hMzE1LTRiOWQtOGYxMy02Y2QzYTlhZGFmNmFAdjJyYXkyLnYycmF5ZnJlZTIueHl6OjQ0Mw?remarks=🇰🇷韩国1|(youtube阿伟科技)&path=/ray&obfs=websocket&tls=1
 # Taiwan
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg3NDU3Njgud2FpaHVpemhpYmlhb3dhbmcuY29tOjExMzQz?peer=h745768.waihuizhibiaowang.com&remark=🇹🇼台湾1#🇹🇼台湾1
 # Turkey
