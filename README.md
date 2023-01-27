@@ -1,4 +1,10 @@
 # 免费网络代理项目
+## 推荐机场
+[雨燕云](https://vpn-free.sn-m.xyz/yuyan.html)，高速稳定的新兴机场，我们目前正在使用它。
+
+[Magic School](https://vpn-free.sn-m.xyz/school.html)，老牌机场，高速稳定好用。
+
+[快银](https://vpn-free.sn-m.xyz/ky.html)，老牌机场，高速稳定。
 ## 一、介绍
 本项目提供免费的，随时更新的网络加速服务，可以免费使用的网络加速服务。
 
