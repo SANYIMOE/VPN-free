@@ -81,6 +81,15 @@ vmess://YXV0bzozMTc3MjJkMy1iYWY1LTQ5MzItYmQwZC1hYWVhY2I1MmUwYjBAMzguNTQuNTYuMTE3
 vmess://YXV0bzo2ZmVhMTY0OS00MjViLTQwOTItYmY1My0yOTc5MjE1MmM5MjVAc2ctbGIudmhheC5uZXQ6ODA?remarks=🇸🇬新加坡1&obfsParam=zoom.us&path=/sshkit/Ertusg86/635014638c264/&obfs=websocket&alterId=0
 vmess://YXV0bzo4MmQ1ZWE3My04MDAyLTQzMTktY2QzYy0yOWQxNTYwYmQyOTBAeGpwNGgubWF5YWEubWw6NDQz?remarks=🇸🇬新加坡2&obfsParam=xjp4h.mayaa.ml&path=/dsadsa1dsadsa33434&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzpjNjc0N2RhNC1mYjJlLTRhMmEtYmRiNy04NjE0YmRkNmIwYjNAdWljZG4uY2Y6ODA?remarks=🇸🇬新加坡3&obfsParam=sg3-v2ray.sshkit.org&path=/sshkit/1736960111/63b1af7a5f43f/&obfs=websocket&alterId=0
+vmess://YXV0bzo5YzUyNzc2Yi00YjAxLTRhZTYtOWY3ZC0yNWNkNDcyNWUxM2NAMTcyLjEwNC4xNjcuMjQwOjcyMDM?remarks=🇸🇬新加坡4|(youtube阿伟科技)&obfsParam=172.104.167.240&path=/sg1&obfs=websocket&alterId=0
+vmess://YXV0bzo4MmQ1ZWE3My04MDAyLTQzMTktY2QzYy0yOWQxNTYwYmQyOTBAMTcyLjY3LjE5OS4zNDo0NDM?remarks=🇸🇬新加坡5|(youtube阿伟科技)&obfsParam=xjp4h.mayaa.ml&path=/dsadsa1dsadsa33434&obfs=websocket&tls=1&alterId=0
+trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@hn.xiaohouzi.club:18440/?allowInsecure=1&peer=avas05.xiaohouzi.club#🇸🇬新加坡6|(youtube阿伟科技)
+vmess://YXV0bzo4Yjc3MGEzYS03YWQ5LTQ1NzMtYmZkNi0yYjE0NmJmOTNhZjdAc2cxLjUzNWViNTIxLTlmZTAtNDQ3OC1iMDkwLTJhNWNlZTRiYjA0YS5uYnZwbi5vcmc6NzIwMw?remarks=🇸🇬新加坡7|(youtube阿伟科技)&obfsParam=sg1.535eb521-9fe0-4478-b090-2a5cee4bb04a.nbvpn.org&path=/sg1&obfs=websocket&alterId=0
+vmess://YXV0bzo2NDE2ZjhjNi04ZGIxLTRiNTktYTBhZi0wOWQ1OGQ3ZWIxOWJAMTc2Ljk3LjY0LjE5ODo0NDM?remarks=🇸🇬新加坡8|(youtube阿伟科技)&obfsParam=176.97.64.198&path=/&obfs=websocket&alterId=0
+vmess://YXV0bzo4Yjc3MGEzYS03YWQ5LTQ1NzMtYmZkNi0yYjE0NmJmOTNhZjdAMTcyLjEwNC4xNjcuMjQwOjcyMDM?remarks=🇸🇬新加坡9|(youtube阿伟科技)&path=/sg1&obfs=websocket&alterId=0
+vmess://YXV0bzplNmRhZDU5YS00NTU3LTRmZTItZWIyMS1iYTI3MGY5Nzc4ZmNAamRvc2cubm1zbC5waWNzOjg0NDM?remarks=🇸🇬新加坡10|(youtube阿伟科技)&obfsParam=jdosg.nmsl.pics&path=/&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzo5YzUyNzc2Yi00YjAxLTRhZTYtOWY3ZC0yNWNkNDcyNWUxM2NAMTcyLjEwNC4xNjcuMjQwOjcyMDQ?remarks=🇸🇬新加坡11|(youtube阿伟科技)&obfsParam=172.104.167.240&path=/sg1&obfs=websocket&alterId=0
+vmess://YXV0bzo5YzUyNzc2Yi00YjAxLTRhZTYtOWY3ZC0yNWNkNDcyNWUxM2NAMTcyLjEwNC4xNjcuMjQwOjcyMDQ?remarks=🇸🇬新加坡12|(youtube阿伟科技)&obfsParam=sg1.535eb521-9fe0-4478-b090-2a5cee4bb04a.nbvpn.org&path=/sg1&obfs=websocket&alterId=0
 # Taiwan
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg3NDU3Njgud2FpaHVpemhpYmlhb3dhbmcuY29tOjExMzQz?peer=h745768.waihuizhibiaowang.com&remark=🇹🇼台湾1#🇹🇼台湾1
 # Turkey
