@@ -30,6 +30,9 @@ vmess://YXV0bzo4NzYzZTYyNS05MjlhLTQzZGEtYjdiZi03ZTdiYzJlNTc2MTVAZ2V0LnRlY2g6ODA?
 vmess://YXV0bzpiNjRlZmNjNi01MzkyLTQyOWUtOGRhNS01ZmU5NjE3ZGViYTJANDUuMTQyLjIxMy41MTo4MA?remarks=🇺🇸美国24|(youtube阿伟科技)&obfsParam=45.142.213.51&path=/&obfs=websocket&alterId=0
 vmess://YXV0bzozOWFmYTA4OC1hZDkxLTRiZWItODY1Zi1hMjI0NjhmM2ZiYTFAY2YyLmZhc3RhbC5vbmU6MjA5Ng?remarks=🇺🇸美国25|(youtube阿伟科技)&obfsParam=eww.fastal.one&path=/ray/&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzpjNWEyZDdiOC1iZjg0LTRmOTctODU3Ny1iOWI4N2YyYmFhZjdAMTcyLjY3LjcwLjIyOjQ0Mw?remarks=🇺🇸美国26|(youtube阿伟科技)&obfsParam=oplg1.cfcdn2.xyz&path=/AUIKN8AU&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAdXMyLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇺🇸美国27&obfsParam=us1.sanfen001.pics&path=/zh-cn&obfs=websocket&tls=1&peer=us1.sanfen001.pics&alterId=0
+vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAdXMyLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇺🇸美国28&obfsParam=us1.sanfen001.pics&path=/zh-cn&obfs=websocket&tls=1&peer=us1.sanfen001.pics&alterId=0
+vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAdXM4MC0zLnNhbmZlbjAwMS5waWNzOjgw?remarks=🇺🇸美国29&obfsParam=www.baidu.com&path=/zh-cn/&obfs=websocket&alterId=0
 # Australia
 vmess://YXV0bzo3NmY2ZWQ1NC03ZjYxLTQ0MDctZjQ5ZC1kZDMzZDA3ZWJkOGZAYXUueWFuZ29uLmNsdWI6NDQz?remarks=🇦🇺澳大利亚1&tls=1&alterId=0
 vmess://YXV0bzoyYWI1NmY3MC0zOWUzLTQ0MjItYmIyZS1kYmZlNTljYjAxZjhANDUuMzIuMTkwLjExNDo0NDM?remarks=🇦🇺澳大利亚2&path=/&obfs=websocket&alterId=0
