@@ -84,4 +84,4 @@ vmess://YXV0bzpjNjc0N2RhNC1mYjJlLTRhMmEtYmRiNy04NjE0YmRkNmIwYjNAdWljZG4uY2Y6ODA?
 # Taiwan
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg3NDU3Njgud2FpaHVpemhpYmlhb3dhbmcuY29tOjExMzQz?peer=h745768.waihuizhibiaowang.com&remark=🇹🇼台湾1#🇹🇼台湾1
 # Turkey
-vmess://YXV0bzo0ZTJiNDQ3Mi03ZTk4LTQ0OWQtOTU0YS0zZWRjYjM0ODU1NDNAbnMyLnNlcnZlcm8ub25saW5lOjgwODA?remarks=🇹🇷土耳其1&obfsParam=digikala.com&path=/&obfs=http&alterId=0
+vmess://YXV0bzo0ZTJiNDQ3Mi03ZTk4LTQ0OWQtOTU0YS0zZWRjYjM0ODU1NDNAbnMyLnNlcnZlcm8ub25saW5lOjgwODA?remarks=🇹🇷土耳其1|(youtube阿伟科技)&obfsParam=digikala.com&path=/&obfs=http&alterId=0
