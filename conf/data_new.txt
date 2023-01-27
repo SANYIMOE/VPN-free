@@ -91,6 +91,11 @@ https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NDk5NjAud2FpaHVpemhpYmlhb3dhbmcuY29tOjEx
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg5NjEzNTkud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNTQz?peer=h961359.waihuizhibiaowang.com&remark=🇭🇰香港4#🇭🇰香港4
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg3NDU3Njgud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNTQz?peer=h745768.waihuizhibiaowang.com&remark=🇭🇰香港5#🇭🇰香港5
 vmess://YXV0bzpjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTRAc2hjbjItMjAwbTAyLmlwbGMxODguY29tOjEwMDAx?remarks=🇭🇰香港6|(youtube阿伟科技)&path=/shirker&alterId=1
+vmess://YXV0bzpkNWEzOGVhZi1iNzIzLTQ1YmUtYjdkMi0zYzRlNDViMjk0MDBAZmJpLmdvdjo0NDM?remarks=🇭🇰香港7&obfsParam=hk12.targoocloud.live&path=/videos&obfs=websocket&tls=1&peer=hk12.targoocloud.live&alterId=0
+vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAaGsxLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇭🇰香港8&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen001.pics&alterId=0
+vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAaGsyLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇭🇰香港9&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen001.pics&alterId=0
+vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAaGszLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇭🇰香港10&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen001.pics&alterId=0
+vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAaGs0LnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇭🇰香港11&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen001.pics&alterId=0
 # Japan
 vmess://YXV0bzplMDU3M2U0Yy0yY2QzLTRjYjEtODFkNS04ZTdjZjRkOGU3OTlAMTQxLjE0Ny4xODIuMjUyOjQ2MDE4?remarks=🇯🇵日本1|(youtube阿伟科技)&path=/
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg5NjEzNTkud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h961359.waihuizhibiaowang.com&remark=🇯🇵日本2#🇯🇵日本2
