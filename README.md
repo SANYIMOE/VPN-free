@@ -4,7 +4,9 @@
 
 [Magic School](https://vpn-free.sn-m.xyz/school.html)，老牌机场，高速稳定好用。
 
-[快银](https://vpn-free.sn-m.xyz/ky.html)，老牌机场，高速稳定。
+[快银](https://vpn-free.sn-m.xyz/ky.html)，老牌机场，高速稳定，支持流媒体。
+
+[魔戒](https://vpn-free.sn-m.xyz/mojie.html)，老牌机场，高速稳定，按量付费。
 ## 一、介绍
 本项目提供免费的，随时更新的网络加速服务，可以免费使用的网络加速服务。
 
