@@ -113,6 +113,7 @@ trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@hn.xiaohouzi.club:18432/?allowInse
 vmess://YXV0bzozZDgxZTZmYi1jN2YwLTQ3OTEtYWYyZS04MmM5M2QxNDk0ODNANjY2Lmh0dnZpcnUudG9wOjM2NzQ?remarks=🇯🇵日本11|(youtube阿伟科技)&obfsParam=666.htvviru.top&path=/cctv13/hd.m3u8&obfs=websocket&alterId=0
 vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAanAxLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇯🇵日本12&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=jp1.sanfen001.pics&alterId=0
 vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAanAyLnNhbmZlbjAwMS5waWNzOjIwMDI?remarks=🇯🇵日本13&obfsParam=aws.amazon.com&path=/cn&obfs=websocket&tls=1&peer=jp1.sanfen001.pics&alterId=0
+vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAanA4MC00LnNhbmZlbjAwMS5waWNzOjgw?remarks=🇯🇵日本14&obfsParam=www.baidu.com&path=/zh-cn&obfs=websocket&alterId=0
 # Singapore
 vmess://YXV0bzo2ZmVhMTY0OS00MjViLTQwOTItYmY1My0yOTc5MjE1MmM5MjVAc2ctbGIudmhheC5uZXQ6ODA?remarks=🇸🇬新加坡1&obfsParam=zoom.us&path=/sshkit/Ertusg86/635014638c264/&obfs=websocket&alterId=0
 vmess://YXV0bzo4MmQ1ZWE3My04MDAyLTQzMTktY2QzYy0yOWQxNTYwYmQyOTBAeGpwNGgubWF5YWEubWw6NDQz?remarks=🇸🇬新加坡2&obfsParam=xjp4h.mayaa.ml&path=/dsadsa1dsadsa33434&obfs=websocket&tls=1&alterId=0
