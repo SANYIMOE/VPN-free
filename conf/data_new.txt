@@ -139,5 +139,6 @@ vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAc2c0LnNhbmZlbjAw
 vless://YXV0bzozZDk0M2E1MS1hMzE1LTRiOWQtOGYxMy02Y2QzYTlhZGFmNmFAdjJyYXkyLnYycmF5ZnJlZTIueHl6OjQ0Mw?remarks=🇰🇷韩国1|(youtube阿伟科技)&path=/ray&obfs=websocket&tls=1
 # Taiwan
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg3NDU3Njgud2FpaHVpemhpYmlhb3dhbmcuY29tOjExMzQz?peer=h745768.waihuizhibiaowang.com&remark=🇹🇼台湾1#🇹🇼台湾1
+vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAdHcxLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇹🇼台湾2&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=tw1.sanfen001.pics&alterId=0
 # Turkey
 vmess://YXV0bzo0ZTJiNDQ3Mi03ZTk4LTQ0OWQtOTU0YS0zZWRjYjM0ODU1NDNAbnMyLnNlcnZlcm8ub25saW5lOjgwODA?remarks=🇹🇷土耳其1|(youtube阿伟科技)&obfsParam=digikala.com&path=/&obfs=http&alterId=0
