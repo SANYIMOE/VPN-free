@@ -66,11 +66,12 @@ vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFANjYuMjM1LjIwMC4y
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NTAxOTYud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNzQz?peer=h650196.waihuizhibiaowang.com&remark=🇩🇪德国1#🇩🇪德国1
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg5NjEzNTkud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNzQz?peer=h961359.waihuizhibiaowang.com&remark=🇩🇪德国2#🇩🇪德国2
 # Hong Kong
-trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-154-228-196.ipv4.rush.ml:8443#🇭🇰香港1
+vmess://YXV0bzpjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTRAc2hjbjItMjAwbTAyLmlwbGMxODguY29tOjEwMDAx?remarks=🇭🇰香港1|(youtube阿伟科技)&obfs=none&alterId=0
 vmess://YXV0bzoyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjlAY2YtbHQuc2hhcmVjZW50cmUub25saW5lOjQ0Mw?remarks=🇭🇰香港2&obfsParam=hk-gcore.sharecentre.online&path=/shirker&obfs=websocket&tls=1&alterId=0
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NDk5NjAud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNTQz?peer=h649960.waihuizhibiaowang.com&remark=🇭🇰香港3#🇭🇰香港3
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg5NjEzNTkud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNTQz?peer=h961359.waihuizhibiaowang.com&remark=🇭🇰香港4#🇭🇰香港4
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg3NDU3Njgud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNTQz?peer=h745768.waihuizhibiaowang.com&remark=🇭🇰香港5#🇭🇰香港5
+vmess://YXV0bzpjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTRAc2hjbjItMjAwbTAyLmlwbGMxODguY29tOjEwMDAx?remarks=🇭🇰香港6|(youtube阿伟科技)&path=/shirker&alterId=1
 # Japan
 vmess://YXV0bzplMDU3M2U0Yy0yY2QzLTRjYjEtODFkNS04ZTdjZjRkOGU3OTlAMTQxLjE0Ny4xODIuMjUyOjQ2MDE4?remarks=🇯🇵日本1|(youtube阿伟科技)&path=/
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg5NjEzNTkud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h961359.waihuizhibiaowang.com&remark=🇯🇵日本2#🇯🇵日本2
