@@ -1,3 +1,5 @@
+# Recommend
+
 # America
 trojan://jKRJgS7uvI@155.248.193.254:31853?allowInsecure=1#🇺🇸美国1
 vmess://YXV0bzo1ZjY0ZmE2NS03YjE0LTQ5YzUtOTU0ZC1hYTE1YzZiZmNhY2RAMTQxLjEwMS4xMTQuMTc6NDQz?remarks=🇺🇸美国2&obfsParam=clash6.ssr-free.xyz&path=/dongtaiwang.com&obfs=websocket&tls=1&alterId=0
