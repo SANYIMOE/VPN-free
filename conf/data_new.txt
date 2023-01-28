@@ -138,7 +138,6 @@ vmess://YXV0bzo5YzUyNzc2Yi00YjAxLTRhZTYtOWY3ZC0yNWNkNDcyNWUxM2NAMTcyLjEwNC4xNjcu
 vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAc2cxLnNhbmZlbjAwMS5waWNzOjIwMDM?remarks=🇸🇬新加坡13&obfsParam=aws.amazon.com&path=/cn&obfs=websocket&tls=1&peer=sg1.sanfen001.pics&alterId=0
 vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAc2cyLnNhbmZlbjAwMS5waWNzOjIwMDI?remarks=🇸🇬新加坡14&obfsParam=aws.amazon.com&path=/cn&obfs=websocket&tls=1&peer=sg1.sanfen001.pics&alterId=0
 vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAc2czLnNhbmZlbjAwMS5waWNzOjIwMDI?remarks=🇸🇬新加坡15&obfsParam=aws.amazon.com&path=/cn&obfs=websocket&tls=1&peer=sg1.sanfen001.pics&alterId=0
-vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAc2c0LnNhbmZlbjAwMS5waWNzOjIwMDI?remarks=🇸🇬新加坡16&obfsParam=aws.amazon.com&path=/cn&obfs=websocket&tls=1&peer=sg1.sanfen001.pics&alterId=0
 # South Korea
 vless://YXV0bzozZDk0M2E1MS1hMzE1LTRiOWQtOGYxMy02Y2QzYTlhZGFmNmFAdjJyYXkyLnYycmF5ZnJlZTIueHl6OjQ0Mw?remarks=🇰🇷韩国1|(youtube阿伟科技)&path=/ray&obfs=websocket&tls=1
 vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAa3IxLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇰🇷韩国2&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=kr1.sanfen001.pics&alterId=0
