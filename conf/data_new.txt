@@ -4,7 +4,7 @@ ss://YWVzLTI1Ni1jZmI6MTIzNDU2Nzg5MEAxLjEuMS4xOjgw#https://vpn-free.sn-m.xyz/scho
 ss://YWVzLTI1Ni1jZmI6MTIzNDU2Nzg5MEAxLjEuMS4xOjgw#https://vpn-free.sn-m.xyz/ky.html|推荐机场
 ss://YWVzLTI1Ni1jZmI6MTIzNDU2Nzg5MEAxLjEuMS4xOjgw#https://vpn-free.sn-m.xyz/mojie.html|推荐机场
 # America
-trojan://jKRJgS7uvI@155.248.193.254:31853?allowInsecure=1#🇺🇸美国1
+ssr://dXNzdGFuZDIuZXVjZHVybC5tZTo1NjE6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RLz9yZW1hcmtzPThKLUh1dkNmaDdqbnZvN2xtNzB4ZkNoNWIzVjBkV0psNlppXzVMeWY1NmVSNW9xQUtRJnByb3RvcGFyYW09TXpReE9EazZhbk51ZW10d1p3Jm9iZnNwYXJhbT0
 vmess://YXV0bzo1ZjY0ZmE2NS03YjE0LTQ5YzUtOTU0ZC1hYTE1YzZiZmNhY2RAMTQxLjEwMS4xMTQuMTc6NDQz?remarks=🇺🇸美国2&obfsParam=clash6.ssr-free.xyz&path=/dongtaiwang.com&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzo2ZmVhMTY0OS00MjViLTQwOTItYmY1My0yOTc5MjE1MmM5MjVAMTcyLjY3LjIyMi40Njo4MA?remarks=🇺🇸美国3&obfsParam=us-lb.sshkit.org&path=/sshkit/fdfadsfa/63848bfe228fd/&obfs=websocket&alterId=0
 vmess://YXV0bzoyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjlAY2YtbHQuc2hhcmVjZW50cmUub25saW5lOjQ0Mw?remarks=🇺🇸美国4&obfsParam=buyvm-lv.sharecentre.online&path=/shirker&obfs=websocket&tls=1&alterId=0
@@ -42,9 +42,12 @@ vmess://YXV0bzo5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODdAdmF1MS4wYmFkLmNv
 vmess://YXV0bzo3NmY2ZWQ1NC03ZjYxLTQ0MDctZjQ5ZC1kZDMzZDA3ZWJkOGZAYXUueWFuZ29uLmNsdWI6NDQz?remarks=🇦🇺澳大利亚6|(youtube阿伟科技)&path=/ws&tls=1&alterId=0
 # Austria
 vmess://YXV0bzoyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUZAdjJyYXkub25saW5lOjQ0Mw?remarks=🇦🇹奥地利1&obfsParam=Vienna.v2ray.online&path=/speedtest&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzoyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUZAdjJyYXkub25saW5lOjQ0Mw?remarks=🇦🇹奥地利2|(youtube阿伟科技)&obfsParam=Vienna.v2ray.online&path=/speedtest&obfs=websocket&tls=1&alterId=0
 # Belize
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMjAzLjMwLjE5MS4xOTM6NDQz?remarks=🇧🇿伯利兹1&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzo0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWFAMjAzLjMwLjE4OC4xMjA6NDQz?remarks=🇧🇿伯利兹2&obfsParam=opfr1.v2rayfree1.xyz&path=/IYKLD53M&obfs=websocket&tls=1&alterId=0
+# Bulgaria
+vmess://YXV0bzoxMDcwNmUwYS04MjUxLTRjZmMtYjIxMS1iOTA4Yjk5ZGZkNWZAd3d3LnJpbnlpbi50b3A6NDQz?remarks=🇧🇬保加利亚1|(youtube阿伟科技)&obfsParam=www.rinyin.top&path=/7a17336201?ed=2048&obfs=websocket&tls=1&alterId=0
 # China
 vmess://YXV0bzo5YmY0Y2JhNC05ZTllLTRkYTQtOGU2NS1mN2M0ODdjNTM5ZGZAMTA2LjEyLjE2OC4xMzoxMzE1Ng?remarks=🇨🇳中国1&obfsParam=a.189.cn&path=/&obfs=websocket&alterId=0
 vmess://YXV0bzo5YmY0Y2JhNC05ZTllLTRkYTQtOGU2NS1mN2M0ODdjNTM5ZGZAMTA2LjEyLjE2OC4xMzoxMzE1Ng?remarks=🇨🇳中国2| 3.94Mb&obfsParam=a.189.cn&path=/&obfs=websocket&alterId=0
@@ -57,7 +60,7 @@ vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMjAzLjI0LjEwOC4x
 # Denmark
 vmess://YXV0bzo0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWFAMTg1LjE2Mi4yMjguMjI5OjQ0Mw?remarks=🇩🇰丹麦1&obfsParam=opfr1.v2rayfree1.xyz&path=/IYKLD53M&obfs=websocket&tls=1&alterId=0
 # England
-trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-154-228-196.ipv4.rush.ml:8443#🇬🇧英国1|11.01Mb
+ssr://ZWR1YWxsLmJ1enpsaW5lLm9yZzo2MTM6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RLz9yZW1hcmtzPThKLUhyUENmaDZmb2k3SGxtNzB4ZkNoNWIzVjBkV0psNlppXzVMeWY1NmVSNW9xQUtRJnByb3RvcGFyYW09TXpReE9EazZhbk51ZW10d1p3Jm9iZnNwYXJhbT0
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NTAxOTYud2FpaHVpemhpYmlhb3dhbmcuY29tOjExMTQz?peer=h650196.waihuizhibiaowang.com&remark=🇬🇧英国2#🇬🇧英国2
 # Finland
 vmess://YXV0bzo5NzYxNjY5ZS1mZTgzLTRmOGQtZjk2ZS0wYzdhYjI3MzcwODdAOTUuMjE2LjE4Mi4yMDoyOTU2Mw?remarks=🇫🇮芬兰1|(youtube阿伟科技)&obfsParam=arvancdn.ir&path=/&obfs=http&alterId=0
@@ -104,7 +107,7 @@ vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAaGsxMi5zYW5mZW4w
 vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAaGs4MC5zYW5mZW4wMDEucGljczo4MA?remarks=🇭🇰香港14&obfsParam=www.baidu.com&path=/zh-cn/&obfs=websocket&alterId=0
 vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAaGs4MC0yLnNhbmZlbjAwMS5waWNzOjgw?remarks=🇭🇰香港15&obfsParam=www.baidu.com&path=/zh-cn/&obfs=websocket&alterId=0
 # Japan
-vmess://YXV0bzplMDU3M2U0Yy0yY2QzLTRjYjEtODFkNS04ZTdjZjRkOGU3OTlAMTQxLjE0Ny4xODIuMjUyOjQ2MDE4?remarks=🇯🇵日本1|(youtube阿伟科技)&path=/
+ssr://anAtYW00OC02LmVxbm9kZS5uZXQ6ODA4MTpvcmlnaW46YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlpVRnZhMkpoUkU0Mi8_cmVtYXJrcz04Si1Icl9DZmg3WG1sNlhtbkt3eGZDaDViM1YwZFdKbDZaaV81THlmNTZlUjVvcUFLUSZwcm90b3BhcmFtPVBUMDlKU1h2djcwJm9iZnNwYXJhbT1QVDA5SlNYdnY3MA
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg5NjEzNTkud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h961359.waihuizhibiaowang.com&remark=🇯🇵日本2#🇯🇵日本2
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NDk5NjAud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h649960.waihuizhibiaowang.com&remark=🇯🇵日本3#🇯🇵日本3
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg3NDU3Njgud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h745768.waihuizhibiaowang.com&remark=🇯🇵日本4#🇯🇵日本4
