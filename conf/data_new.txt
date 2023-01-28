@@ -1,8 +1,8 @@
 # Recommend
-ss://YWVzLTI1Ni1jZmI6MTIzNDU2Nzg5MEAxLjEuMS4xOjgw#https://vpn-free.sn-m.xyz/yuyan.html|推荐机场
-ss://YWVzLTI1Ni1jZmI6MTIzNDU2Nzg5MEAxLjEuMS4xOjgw#https://vpn-free.sn-m.xyz/school.html|推荐机场
-ss://YWVzLTI1Ni1jZmI6MTIzNDU2Nzg5MEAxLjEuMS4xOjgw#https://vpn-free.sn-m.xyz/ky.html|推荐机场
-ss://YWVzLTI1Ni1jZmI6MTIzNDU2Nzg5MEAxLjEuMS4xOjgw#https://vpn-free.sn-m.xyz/mojie.html|推荐机场
+vmess://bm9uZToxMjM0LTU2NzgtOTAxMi0zNDU2QGxvY2FsaG9zdDo4MA?remarks=https://vpn-free.sn-m.xyz/yuyan.html|推荐机场&tfo=1&mux=1
+vmess://bm9uZToxMjM0LTU2NzgtOTAxMi0zNDU2QDEuMS4xLjE6ODA?remarks=https://vpn-free.sn-m.xyz/school.html|推荐机场&tfo=1&mux=1
+vmess://bm9uZToxMjM0LTU2NzgtOTAxMi0zNDU2QG1pY3Jvc29mdC5jb206ODA?remarks=https://vpn-free.sn-m.xyz/ky.html|推荐机场&tfo=1&mux=1
+vmess://bm9uZToxMjM0LTU2NzgtOTAxMi0zNDU2QGJhaWR1LmNvbTo4MA?remarks=https://vpn-free.sn-m.xyz/mojie.html|推荐机场&tfo=1&mux=1
 # America
 ssr://dXNzdGFuZDIuZXVjZHVybC5tZTo1NjE6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RLz9yZW1hcmtzPThKLUh1dkNmaDdqbnZvN2xtNzB4ZkNoNWIzVjBkV0psNlppXzVMeWY1NmVSNW9xQUtRJnByb3RvcGFyYW09TXpReE9EazZhbk51ZW10d1p3Jm9iZnNwYXJhbT0
 vmess://YXV0bzo1ZjY0ZmE2NS03YjE0LTQ5YzUtOTU0ZC1hYTE1YzZiZmNhY2RAMTQxLjEwMS4xMTQuMTc6NDQz?remarks=🇺🇸美国2&obfsParam=clash6.ssr-free.xyz&path=/dongtaiwang.com&obfs=websocket&tls=1&alterId=0
