@@ -92,28 +92,25 @@ trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@stream.varzeshtv.live:554/?allowIn
 vmess://YXV0bzpjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTRAZGUtbHMwMy5uYjEuZnI6NjQ0NDM?remarks=🇩🇪德国7|(youtube阿伟科技)&obfsParam=de-ls03.nb1.fr&path=/clientarea&obfs=websocket&tls=1&peer=de-ls03.nb1.fr&alterId=0
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE5My4xMDguMTE4LjM0OjIzNzU#🇩🇪德国8|16.67Mb
 # Hong Kong
-vmess://YXV0bzpjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTRAc2hjbjItMjAwbTAyLmlwbGMxODguY29tOjEwMDAx?remarks=🇭🇰香港1|(youtube阿伟科技)&obfs=none&alterId=0
-vmess://YXV0bzoyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjlAY2YtbHQuc2hhcmVjZW50cmUub25saW5lOjQ0Mw?remarks=🇭🇰香港2&obfsParam=hk-gcore.sharecentre.online&path=/shirker&obfs=websocket&tls=1&alterId=0
-https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NDk5NjAud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNTQz?peer=h649960.waihuizhibiaowang.com&remark=🇭🇰香港3#🇭🇰香港3
+ss://YWVzLTI1Ni1nY206MmYyYTUzNGQtNTY4NS00MzE5LWJkYWYtZTJlZTU3ZjJjOGExQDI3M2IzNmY2LTlkYjEtMTFlZC1hOGZjLTAyNDJhYzEyMDAwMi5pbnRlcmZhY2UuYnV6ejo0NzUxNg#🇭🇰香港1|(youtube阿伟科技)
+vmess://YXV0bzpjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTRANTguMzIuMTMuOTM6MTAwMDE?remarks=🇭🇰香港2|(youtube阿伟科技)&path=/dahjwuh&alterId=0
+trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@hnm.xiaohouzi.club:49363/?allowInsecure=1&peer=hnm.xiaohouzi.club#🇭🇰香港3|(youtube阿伟科技)
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg5NjEzNTkud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNTQz?peer=h961359.waihuizhibiaowang.com&remark=🇭🇰香港4#🇭🇰香港4
-https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg3NDU3Njgud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNTQz?peer=h745768.waihuizhibiaowang.com&remark=🇭🇰香港5#🇭🇰香港5
-vmess://YXV0bzpjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTRAc2hjbjItMjAwbTAyLmlwbGMxODguY29tOjEwMDAx?remarks=🇭🇰香港6|(youtube阿伟科技)&path=/shirker&alterId=1
-vmess://YXV0bzpkNWEzOGVhZi1iNzIzLTQ1YmUtYjdkMi0zYzRlNDViMjk0MDBAZmJpLmdvdjo0NDM?remarks=🇭🇰香港7&obfsParam=hk12.targoocloud.live&path=/videos&obfs=websocket&tls=1&peer=hk12.targoocloud.live&alterId=0
-vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAaGsxLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇭🇰香港8&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen001.pics&alterId=0
-vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAaGsyLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇭🇰香港9&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen001.pics&alterId=0
-vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAaGszLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇭🇰香港10&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen001.pics&alterId=0
-vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAaGs0LnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇭🇰香港11&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen001.pics&alterId=0
-vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAaGsxMS5zYW5mZW4wMDEucGljczoyMDAx?remarks=🇭🇰香港12&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen001.pics&alterId=0
-vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAaGsxMi5zYW5mZW4wMDEucGljczoyMDAx?remarks=🇭🇰香港13&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen001.pics&alterId=0
-vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAaGs4MC5zYW5mZW4wMDEucGljczo4MA?remarks=🇭🇰香港14&obfsParam=www.baidu.com&path=/zh-cn/&obfs=websocket&alterId=0
-vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAaGs4MC0yLnNhbmZlbjAwMS5waWNzOjgw?remarks=🇭🇰香港15&obfsParam=www.baidu.com&path=/zh-cn/&obfs=websocket&alterId=0
+vmess://YXV0bzowYTQwYmJlMi02OTc0LTRlNTktODIwZS03YTk0ZThlODAwYmJAcHJveHlzdS1hbGFuLjQ2NjUxMjAxLnh5ejo0NDM?remarks=🇭🇰香港5|(youtube阿伟科技)&obfsParam=proxysu-alan.46651201.xyz&path=/STW7MVSY&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzpjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTRAMTgzLjI0MC42MC4xMTk6MTAwMDE?remarks=🇭🇰香港6|(youtube阿伟科技)&path=/sg1&alterId=0
+vmess://YXV0bzpjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTRAMTgzLjI0MC42MC4xMTk6MTAwMDE?remarks=🇭🇰香港7|(youtube阿伟科技)&path=/videos&alterId=0
+vmess://YXV0bzpjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTRAMTgzLjI0MC42MC4xMTk6MTAwMDE?remarks=🇭🇰香港8|(youtube阿伟科技)&path=/6e9EtZ2dL&alterId=0
+vmess://YXV0bzpjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTRAMTgzLjI0MC42MC4xMTk6MTAwMDE?remarks=🇭🇰香港9|(youtube阿伟科技)&path=/veghvws&alterId=0
+ssr://MzguMTQzLjAuMTkyOjQwMDg2OmF1dGhfY2hhaW5fYTpub25lOnBsYWluOlltNXhkMnBvYTNkeGFtSnhkMkpxLz9yZW1hcmtzPThKLUhyZkNmaDdEcHBwbm11Szh4TUh3b2VXOTFkSFZpWmVtWXYtUzhuLWVua2VhS2dDayZwcm90b3BhcmFtPSZvYmZzcGFyYW09
+vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAaGs4MC5zYW5mZW4wMDEucGljczo4MA?remarks=🇭🇰香港11&obfsParam=www.baidu.com&path=/zh-cn/&obfs=websocket&alterId=0
+vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAaGs4MC0yLnNhbmZlbjAwMS5waWNzOjgw?remarks=🇭🇰香港12&obfsParam=www.baidu.com&path=/zh-cn/&obfs=websocket&alterId=0
 # Japan
 ssr://anAtYW00OC02LmVxbm9kZS5uZXQ6ODA4MTpvcmlnaW46YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlpVRnZhMkpoUkU0Mi8_cmVtYXJrcz04Si1Icl9DZmg3WG1sNlhtbkt3eGZDaDViM1YwZFdKbDZaaV81THlmNTZlUjVvcUFLUSZwcm90b3BhcmFtPVBUMDlKU1h2djcwJm9iZnNwYXJhbT1QVDA5SlNYdnY3MA
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg5NjEzNTkud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h961359.waihuizhibiaowang.com&remark=🇯🇵日本2#🇯🇵日本2
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NDk5NjAud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h649960.waihuizhibiaowang.com&remark=🇯🇵日本3#🇯🇵日本3
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg3NDU3Njgud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h745768.waihuizhibiaowang.com&remark=🇯🇵日本4#🇯🇵日本4
-vmess://YXV0bzozMTc3MjJkMy1iYWY1LTQ5MzItYmQwZC1hYWVhY2I1MmUwYjBAMzguNTQuNTYuMTE3Ojgw?remarks=🇯🇵日本5&path=/sshocean&obfs=websocket&alterId=0
-trojan://7812e7af-a2de-49a1-a034-8bc23f3f3b62@jp1.v2pn.live:443/?allowInsecure=1&peer=139-177-186-17.nhost.00cdn.com#🇯🇵日本6|(youtube阿伟科技)
+ss://YWVzLTI1Ni1nY206MmYyYTUzNGQtNTY4NS00MzE5LWJkYWYtZTJlZTU3ZjJjOGExQDJlOTFmZDAzLThlNzUtNDE2OS1kYWUwLTMzNzlmMzkwMzA4MC5pbnRlcmZhY2UuYnV6ejo1MjYzMg#🇯🇵日本5|(youtube阿伟科技)
+trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@hn.xiaohouzi.club:18432/?allowInsecure=1&peer=ajpn02.xiaohouzi.club#🇯🇵日本6|(youtube阿伟科技)
 trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@hn.xiaohouzi.club:48431/?allowInsecure=1&peer=ajpn01.xiaohouzi.club#🇯🇵日本7|(youtube阿伟科技)
 trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@hn.xiaohouzi.club:18433/?allowInsecure=1&peer=ajpn03.xiaohouzi.club#🇯🇵日本8|(youtube阿伟科技)
 vmess://YXV0bzoyMzgwZjA3ZS1lNTRjLTQ2NDUtOGFiZS01MDU3NWIzMWY0NWZAY2NqcC5jdXRjbG91ZGpkLnNpdGU6NDUx?remarks=🇯🇵日本9|(youtube阿伟科技)&obfsParam=ccjp.cutcloudjd.site&path=/jp&obfs=websocket&tls=1&alterId=0
@@ -141,7 +138,7 @@ vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAc2czLnNhbmZlbjAw
 # South Korea
 vless://YXV0bzozZDk0M2E1MS1hMzE1LTRiOWQtOGYxMy02Y2QzYTlhZGFmNmFAdjJyYXkyLnYycmF5ZnJlZTIueHl6OjQ0Mw?remarks=🇰🇷韩国1|(youtube阿伟科技)&path=/ray&obfs=websocket&tls=1
 vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAa3IxLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇰🇷韩国2&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=kr1.sanfen001.pics&alterId=0
-vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAa3IyLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇰🇷韩国3&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=kr1.sanfen001.pics&alterId=0
+vmess://YXV0bzphMDY3NDhkNC03NjY5LTQ5ZGQtZGQxYS0yNWQ3MzQ3MWEwNTFAa3IwNS53eGZ6Lm1sOjQ4NDEz?remarks=🇰🇷韩国3|(youtube阿伟科技)&obfsParam=a.duoyouduo.tk&path=/1234&obfs=websocket&tls=1&alterId=0
 # Taiwan
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg3NDU3Njgud2FpaHVpemhpYmlhb3dhbmcuY29tOjExMzQz?peer=h745768.waihuizhibiaowang.com&remark=🇹🇼台湾1#🇹🇼台湾1
 vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAdHcxLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇹🇼台湾2&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=tw1.sanfen001.pics&alterId=0
