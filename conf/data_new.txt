@@ -62,6 +62,7 @@ vmess://YXV0bzo0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWFAMTg1LjE2Mi4yMjgu
 # England
 ssr://ZWR1YWxsLmJ1enpsaW5lLm9yZzo2MTM6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RLz9yZW1hcmtzPThKLUhyUENmaDZmb2k3SGxtNzB4ZkNoNWIzVjBkV0psNlppXzVMeWY1NmVSNW9xQUtRJnByb3RvcGFyYW09TXpReE9EazZhbk51ZW10d1p3Jm9iZnNwYXJhbT0
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NTAxOTYud2FpaHVpemhpYmlhb3dhbmcuY29tOjExMTQz?peer=h650196.waihuizhibiaowang.com&remark=🇬🇧英国2#🇬🇧英国2
+vmess://YXV0bzo4MDgzN2FmMy0xZWQ4LTQ2ODYtZmE4YS02YmY5MjE0ZDUzNTFAMTYyLjE1OS4xNTIuMTAwOjIwODI?remarks=🇬🇧英国3|(youtube阿伟科技)&obfsParam=UK.CLOUDFLARE.QUEST&path=/aries&obfs=websocket&alterId=0
 # Finland
 vmess://YXV0bzo5NzYxNjY5ZS1mZTgzLTRmOGQtZjk2ZS0wYzdhYjI3MzcwODdAOTUuMjE2LjE4Mi4yMDoyOTU2Mw?remarks=🇫🇮芬兰1|(youtube阿伟科技)&obfsParam=arvancdn.ir&path=/&obfs=http&alterId=0
 # France
