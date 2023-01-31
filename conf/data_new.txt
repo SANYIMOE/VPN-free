@@ -49,6 +49,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MTI#�
 vmess://YXV0bzo5NzYxNjY5ZS1mZTgzLTRmOGQtZjk2ZS0wYzdhYjI3MzcwODdAOTUuMjE2LjE4Mi4yMDoyOTU2Mw?remarks=🇫🇮芬兰1|(youtube阿伟科技)&obfsParam=arvancdn.ir&path=/&obfs=http&alterId=0
 # France
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMTcyLjY3LjE5OS4zNDo0NDM?remarks=🇫🇷法国1&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzpjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTRAZnItbHMwMy5uYjEuZnI6NjQ0NDM?remarks=🇫🇷法国2&obfsParam=fr-ls03.nb1.fr&path=/clientarea&obfs=websocket&tls=1&peer=fr-ls03.nb1.fr&alterId=0
 # Germany
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg5NjEzNTkud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNzQz?peer=h961359.waihuizhibiaowang.com&remark=🇩🇪德国1#🇩🇪德国1
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE5My4xMDguMTE4LjM0OjIzNzU#🇩🇪德国2|(youtube阿伟科技)
@@ -107,7 +108,7 @@ vless://YXV0bzozZDk0M2E1MS1hMzE1LTRiOWQtOGYxMy02Y2QzYTlhZGFmNmFAdjJyYXkyLnYycmF5
 vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAa3IxLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇰🇷韩国2&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=kr1.sanfen001.pics&alterId=0
 vmess://YXV0bzphMDY3NDhkNC03NjY5LTQ5ZGQtZGQxYS0yNWQ3MzQ3MWEwNTFAa3IwNS53eGZ6Lm1sOjQ4NDEz?remarks=🇰🇷韩国3|(youtube阿伟科技)&obfsParam=a.duoyouduo.tk&path=/1234&obfs=websocket&tls=1&alterId=0
 # Sweden
-vmess://YXV0bzpjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTRAc2UtbHMwMy5uYjEuZnI6NjQ0NDM?remarks=🇸🇪瑞典1&obfsParam=se-ls03.nb1.fr&path=/clientarea&obfs=websocket&tls=1&alterId=
+vmess://YXV0bzpjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTRAc2UtbHMwMy5uYjEuZnI6NjQ0NDM?remarks=🇸🇪瑞典1&obfsParam=se-ls03.nb1.fr&path=/clientarea&obfs=websocket&tls=1&alterId=0
 # Taiwan
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg3NDU3Njgud2FpaHVpemhpYmlhb3dhbmcuY29tOjExMzQz?peer=h745768.waihuizhibiaowang.com&remark=🇹🇼台湾1#🇹🇼台湾1
 vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAdHcxLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇹🇼台湾2&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=tw1.sanfen001.pics&alterId=0
