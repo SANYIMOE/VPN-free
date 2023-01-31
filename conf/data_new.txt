@@ -12,6 +12,8 @@ vmess://YXV0bzo4NzYzZTYyNS05MjlhLTQzZGEtYjdiZi03ZTdiYzJlNTc2MTVAMTcyLjY3LjE5OS4z
 vmess://YXV0bzoyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjlAMTcyLjY3LjE5OS4zNDo0NDM?remarks=🇺🇸美国6|(youtube阿伟科技)&obfsParam=lu.sharecentre.online&path=/shirker&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzo4NzYzZTYyNS05MjlhLTQzZGEtYjdiZi03ZTdiYzJlNTc2MTVAZ2V0LnRlY2g6ODA?remarks=🇺🇸美国7|(youtube阿伟科技)&obfsParam=lv.awsbest.com&path=/shared&obfs=websocket&alterId=0
 vmess://YXV0bzo2ZmVhMTY0OS00MjViLTQwOTItYmY1My0yOTc5MjE1MmM5MjVAMTcyLjY3LjE5OS4zNDo4MA?remarks=🇺🇸美国8|(youtube阿伟科技)&obfsParam=us-lb.sshkit.org&path=/sshkit/fdfadsfa/63848bfe228fd/&obfs=websocket&alterId=0
+vmess://YXV0bzo2ZmVhMTY0OS00MjViLTQwOTItYmY1My0yOTc5MjE1MmM5MjVAMTcyLjY3LjIyMi40Njo4MA?remarks=🇺🇸美国9&obfsParam=us-lb.sshkit.org&path=/sshkit/fdfadsfa/63848bfe228fd/&obfs=websocket&alterId=0
+vmess://YXV0bzo4NzYzZTYyNS05MjlhLTQzZGEtYjdiZi03ZTdiYzJlNTc2MTVAZ2V0LnRlY2g6ODA?remarks=🇺🇸美国10&obfsParam=lv.awsbest.com&path=/shared&obfs=websocket&alterId=0
 # Australia
 vmess://YXV0bzo3NmY2ZWQ1NC03ZjYxLTQ0MDctZjQ5ZC1kZDMzZDA3ZWJkOGZAYXUueWFuZ29uLmNsdWI6NDQz?remarks=🇦🇺澳大利亚1&tls=1&alterId=0
 vmess://YXV0bzoyYWI1NmY3MC0zOWUzLTQ0MjItYmIyZS1kYmZlNTljYjAxZjhANDUuMzIuMTkwLjExNDo0NDM?remarks=🇦🇺澳大利亚2&path=/&obfs=websocket&alterId=0
