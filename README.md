@@ -66,25 +66,9 @@ Shadowrocket/Quantumult(X)/Loon/Stash/Surge
 
 其它客户端请使用[订阅转换](https://aclsub.mojy.xyz)
 
-### 第三方订阅地址
-```
-小心！
-我们无法 100% 保证第三方订阅地址的安全。请谨慎使用，防止恶意节点注入。
-```
-
-```
-提示：
-订阅的排序不分先后。
-```
-
-```
-订阅维护者请看
-我们会不定期检查各个第三方订阅的可用情况，并清理其中不可用的订阅。
-
-如果您发现您曾经在此添加过的订阅不存在，请检查您的订阅是否可用，并在处理完成后告知我们。
-```
-
-无数据
+### 历史版本
+- 2023.01.27：`https://raw.githubusercontent.com/SANYIMOE/VPN-free/6e93041767a76c3104062551b003f29ea55f584e/conf/data.txt`
+- 2023.01.28：`https://raw.githubusercontent.com/SANYIMOE/VPN-free/9ecbfd0efd89256e136f7b8c4558dc94fe1905af/conf/data.txt`
 
 ### 节点地址
 <iframe src ="/conf/data_new.txt" width="100%" height="500" frameborder="0" scrolling="auto">
