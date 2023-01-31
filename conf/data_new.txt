@@ -34,6 +34,7 @@ trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trfg.ballistics.top:443/#🇺🇸�
 trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80/#🇺🇸美国28
 trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trny.ballistics.top:443/#🇺🇸美国29
 trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trld.ballistics.top:443/#🇺🇸美国30
+vmess://YXV0bzplZDFlN2NjNS1lMGNmLTQyNGEtOGUyOC03MGNhMzA1ZjI2ZDNAdXM4MC0zLnNhbmZlbjAwMS5waWNzOjgw?remarks=🇺🇸美国31&obfsParam=www.baidu.com&path=/zh-cn/&obfs=websocket&tfo=1&alterId=0
 # Australia
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMjAzLjMwLjE4OS4xOTE6NDQz?remarks=🇦🇺澳大利亚1&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMjAzLjMwLjE4OS4xOTE6NDQz?remarks=🇦🇺澳大利亚2&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
@@ -99,9 +100,11 @@ https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NDk5NjAud2FpaHVpemhpYmlhb3dhbmcuY29tOjEx
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg3NDU3Njgud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h745768.waihuizhibiaowang.com&remark=🇯🇵日本3#🇯🇵日本3
 vmess://YXV0bzplZDFlN2NjNS1lMGNmLTQyNGEtOGUyOC03MGNhMzA1ZjI2ZDNAanAxLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇯🇵日本4&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=jp1.sanfen001.pics&allowInsecure=1&tfo=1&alterId=0
 vmess://YXV0bzplZDFlN2NjNS1lMGNmLTQyNGEtOGUyOC03MGNhMzA1ZjI2ZDNAanAyLnNhbmZlbjAwMS5waWNzOjIwMDY?remarks=🇯🇵日本5&obfsParam=aws.amazon.com&path=/cn&obfs=websocket&tls=1&peer=jp1.sanfen001.pics&allowInsecure=1&tfo=1&alterId=0
+vmess://YXV0bzplZDFlN2NjNS1lMGNmLTQyNGEtOGUyOC03MGNhMzA1ZjI2ZDNAanA4MC00LnNhbmZlbjAwMS5waWNzOjgw?remarks=🇯🇵日本6&obfsParam=www.baidu.com&path=/zh-cn&obfs=websocket&tfo=1&alterId=0
 # Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPSW9MVEFwVzlFalpXZ2hpUXZNY3NGSlNFQDE5NC4yNi4yMjkuOTA6MzQ0MTg#🇳🇱荷兰1
 trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trhl.ballistics.top:443/#🇳🇱荷兰2
+trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trhl.ballistics.top:443/?allowInsecure=1#🇳🇱荷兰3
 # Philippines
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@120.233.15.58:17108/#🇵🇭菲律宾1
 # Serbia
