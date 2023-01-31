@@ -94,6 +94,7 @@ vmess://YXV0bzplZDFlN2NjNS1lMGNmLTQyNGEtOGUyOC03MGNhMzA1ZjI2ZDNAaGsxMS5zYW5mZW4w
 vmess://YXV0bzplZDFlN2NjNS1lMGNmLTQyNGEtOGUyOC03MGNhMzA1ZjI2ZDNAaGsxMi5zYW5mZW4wMDEucGljczoyMDAx?remarks=🇭🇰香港12&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen001.pics&allowInsecure=1&tfo=1&alterId=0
 vmess://YXV0bzplZDFlN2NjNS1lMGNmLTQyNGEtOGUyOC03MGNhMzA1ZjI2ZDNAaGs4MC5zYW5mZW4wMDEucGljczo4MA?remarks=🇭🇰香港13&obfsParam=www.baidu.com&path=/zh-cn/&obfs=websocket&tfo=1&alterId=0
 vmess://YXV0bzplZDFlN2NjNS1lMGNmLTQyNGEtOGUyOC03MGNhMzA1ZjI2ZDNAaGs4MC0yLnNhbmZlbjAwMS5waWNzOjgw?remarks=🇭🇰香港14&obfsParam=www.baidu.com&path=/zh-cn/&obfs=websocket&tfo=1&alterId=0
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@120.233.15.58:17108/?allowInsecure=1#🇭🇰香港15
 # Japan
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg5NjEzNTkud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h961359.waihuizhibiaowang.com&remark=🇯🇵日本1#🇯🇵日本1
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NDk5NjAud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h649960.waihuizhibiaowang.com&remark=🇯🇵日本2#🇯🇵日本2
