@@ -43,9 +43,6 @@ trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trxn.ballistics.top:443/#🇦🇺�
 # Austria
 vmess://YXV0bzoyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUZAdjJyYXkub25saW5lOjQ0Mw?remarks=🇦🇹奥地利1&obfsParam=Vienna.v2ray.online&path=/speedtest&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzoyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUZAdjJyYXkub25saW5lOjQ0Mw?remarks=🇦🇹奥地利2|(youtube阿伟科技)&obfsParam=Vienna.v2ray.online&path=/speedtest&obfs=websocket&tls=1&alterId=0
-# Belize
-vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMjAzLjMwLjE5MS4xOTM6NDQz?remarks=🇧🇿伯利兹1&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
-vmess://YXV0bzo0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWFAMjAzLjMwLjE4OC4xMjA6NDQz?remarks=🇧🇿伯利兹2&obfsParam=opfr1.v2rayfree1.xyz&path=/IYKLD53M&obfs=websocket&tls=1&alterId=0
 # Bulgaria
 vmess://YXV0bzoxMDcwNmUwYS04MjUxLTRjZmMtYjIxMS1iOTA4Yjk5ZGZkNWZAd3d3LnJpbnlpbi50b3A6NDQz?remarks=🇧🇬保加利亚1|(youtube阿伟科技)&obfsParam=www.rinyin.top&path=/7a17336201?ed=2048&obfs=websocket&tls=1&alterId=0
 # China
