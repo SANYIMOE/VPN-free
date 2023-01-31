@@ -108,6 +108,8 @@ trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trhl.ballistics.top:443/#🇳🇱�
 trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trhl.ballistics.top:443/?allowInsecure=1#🇳🇱荷兰3
 # Philippines
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@120.233.15.58:17108/#🇵🇭菲律宾1
+# Russia
+vmess://YXV0bzpmMjhlMzU0ZS1jMmQxLTQ5ODMtOWIwNy01YWNhZjFiM2IzZTVAMTg1LjE0My4yMjAuMjU6NDQz?remarks=🇷🇺俄罗斯1&path=/6e9EtZ2dL&obfs=websocket&tls=1&alterId=0
 # Serbia
 trojan://shefelnak@88.150.137.177:443/?allowInsecure=1&peer=content-provider4.cdn-delivery.akamaicd.com#🇷🇸塞尔维亚1
 trojan://shefelnak@content-provider4.cdn-delivery.akamaicd.com:443/?allowInsecure=1&peer=content-provider4.cdn-delivery.akamaicd.com#🇷🇸塞尔维亚2
