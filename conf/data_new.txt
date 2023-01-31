@@ -100,20 +100,9 @@ vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAanA4MC00LnNhbmZl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPSW9MVEFwVzlFalpXZ2hpUXZNY3NGSlNFQDE5NC4yNi4yMjkuOTA6MzQ0MTg#🇳🇱荷兰1
 # Singapore
 vmess://YXV0bzo2ZmVhMTY0OS00MjViLTQwOTItYmY1My0yOTc5MjE1MmM5MjVAc2ctbGIudmhheC5uZXQ6ODA?remarks=🇸🇬新加坡1&obfsParam=zoom.us&path=/sshkit/Ertusg86/635014638c264/&obfs=websocket&alterId=0
-vmess://YXV0bzo4MmQ1ZWE3My04MDAyLTQzMTktY2QzYy0yOWQxNTYwYmQyOTBAeGpwNGgubWF5YWEubWw6NDQz?remarks=🇸🇬新加坡2&obfsParam=xjp4h.mayaa.ml&path=/dsadsa1dsadsa33434&obfs=websocket&tls=1&alterId=0
-vmess://YXV0bzpjNjc0N2RhNC1mYjJlLTRhMmEtYmRiNy04NjE0YmRkNmIwYjNAdWljZG4uY2Y6ODA?remarks=🇸🇬新加坡3&obfsParam=sg3-v2ray.sshkit.org&path=/sshkit/1736960111/63b1af7a5f43f/&obfs=websocket&alterId=0
-vmess://YXV0bzo5YzUyNzc2Yi00YjAxLTRhZTYtOWY3ZC0yNWNkNDcyNWUxM2NAMTcyLjEwNC4xNjcuMjQwOjcyMDM?remarks=🇸🇬新加坡4|(youtube阿伟科技)&obfsParam=172.104.167.240&path=/sg1&obfs=websocket&alterId=0
-vmess://YXV0bzo4MmQ1ZWE3My04MDAyLTQzMTktY2QzYy0yOWQxNTYwYmQyOTBAMTcyLjY3LjE5OS4zNDo0NDM?remarks=🇸🇬新加坡5|(youtube阿伟科技)&obfsParam=xjp4h.mayaa.ml&path=/dsadsa1dsadsa33434&obfs=websocket&tls=1&alterId=0
-trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@hn.xiaohouzi.club:18440/?allowInsecure=1&peer=avas05.xiaohouzi.club#🇸🇬新加坡6|(youtube阿伟科技)
-vmess://YXV0bzo4Yjc3MGEzYS03YWQ5LTQ1NzMtYmZkNi0yYjE0NmJmOTNhZjdAc2cxLjUzNWViNTIxLTlmZTAtNDQ3OC1iMDkwLTJhNWNlZTRiYjA0YS5uYnZwbi5vcmc6NzIwMw?remarks=🇸🇬新加坡7|(youtube阿伟科技)&obfsParam=sg1.535eb521-9fe0-4478-b090-2a5cee4bb04a.nbvpn.org&path=/sg1&obfs=websocket&alterId=0
-vmess://YXV0bzo2NDE2ZjhjNi04ZGIxLTRiNTktYTBhZi0wOWQ1OGQ3ZWIxOWJAMTc2Ljk3LjY0LjE5ODo0NDM?remarks=🇸🇬新加坡8|(youtube阿伟科技)&obfsParam=176.97.64.198&path=/&obfs=websocket&alterId=0
-vmess://YXV0bzo4Yjc3MGEzYS03YWQ5LTQ1NzMtYmZkNi0yYjE0NmJmOTNhZjdAMTcyLjEwNC4xNjcuMjQwOjcyMDM?remarks=🇸🇬新加坡9|(youtube阿伟科技)&path=/sg1&obfs=websocket&alterId=0
-vmess://YXV0bzplNmRhZDU5YS00NTU3LTRmZTItZWIyMS1iYTI3MGY5Nzc4ZmNAamRvc2cubm1zbC5waWNzOjg0NDM?remarks=🇸🇬新加坡10|(youtube阿伟科技)&obfsParam=jdosg.nmsl.pics&path=/&obfs=websocket&tls=1&alterId=0
-vmess://YXV0bzo5YzUyNzc2Yi00YjAxLTRhZTYtOWY3ZC0yNWNkNDcyNWUxM2NAMTcyLjEwNC4xNjcuMjQwOjcyMDQ?remarks=🇸🇬新加坡11|(youtube阿伟科技)&obfsParam=172.104.167.240&path=/sg1&obfs=websocket&alterId=0
-vmess://YXV0bzo5YzUyNzc2Yi00YjAxLTRhZTYtOWY3ZC0yNWNkNDcyNWUxM2NAMTcyLjEwNC4xNjcuMjQwOjcyMDQ?remarks=🇸🇬新加坡12|(youtube阿伟科技)&obfsParam=sg1.535eb521-9fe0-4478-b090-2a5cee4bb04a.nbvpn.org&path=/sg1&obfs=websocket&alterId=0
-vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAc2cxLnNhbmZlbjAwMS5waWNzOjIwMDM?remarks=🇸🇬新加坡13&obfsParam=aws.amazon.com&path=/cn&obfs=websocket&tls=1&peer=sg1.sanfen001.pics&alterId=0
-vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAc2cyLnNhbmZlbjAwMS5waWNzOjIwMDI?remarks=🇸🇬新加坡14&obfsParam=aws.amazon.com&path=/cn&obfs=websocket&tls=1&peer=sg1.sanfen001.pics&alterId=0
-vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAc2czLnNhbmZlbjAwMS5waWNzOjIwMDI?remarks=🇸🇬新加坡15&obfsParam=aws.amazon.com&path=/cn&obfs=websocket&tls=1&peer=sg1.sanfen001.pics&alterId=0
+vmess://YXV0bzpjNjc0N2RhNC1mYjJlLTRhMmEtYmRiNy04NjE0YmRkNmIwYjNAdWljZG4uY2Y6ODA?remarks=🇸🇬新加坡2&obfsParam=sg3-v2ray.sshkit.org&path=/sshkit/1736960111/63b1af7a5f43f/&obfs=websocket&alterId=0
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@120.233.15.58:16012/#🇸🇬新加坡3
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@120.233.15.58:17107/#🇸🇬新加坡4
 # South Korea
 vless://YXV0bzozZDk0M2E1MS1hMzE1LTRiOWQtOGYxMy02Y2QzYTlhZGFmNmFAdjJyYXkyLnYycmF5ZnJlZTIueHl6OjQ0Mw?remarks=🇰🇷韩国1|(youtube阿伟科技)&path=/ray&obfs=websocket&tls=1
 vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAa3IxLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇰🇷韩国2&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=kr1.sanfen001.pics&alterId=0
