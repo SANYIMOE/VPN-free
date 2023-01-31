@@ -117,6 +117,7 @@ https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NTAxOTYud2FpaHVpemhpYmlhb3dhbmcuY29tOjEx
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MTI#🇬🇧英国2
 # Finland
 vmess://YXV0bzo5NzYxNjY5ZS1mZTgzLTRmOGQtZjk2ZS0wYzdhYjI3MzcwODdAOTUuMjE2LjE4Mi4yMDoyOTU2Mw?remarks=🇫🇮芬兰1|(youtube阿伟科技)&obfsParam=arvancdn.ir&path=/&obfs=http&alterId=0
+vmess://YXV0bzo5NzYxNjY5ZS1mZTgzLTRmOGQtZjk2ZS0wYzdhYjI3MzcwODdAOTUuMjE2LjE4Mi4yMDoyOTU2Mw?remarks=🇫🇮芬兰2|(youtube阿伟科技)&obfsParam=arvancdn.ir&path=/&obfs=http&alterId=0
 # France
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMTcyLjY3LjE5OS4zNDo0NDM?remarks=🇫🇷法国1&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzpjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTRAZnItbHMwMy5uYjEuZnI6NjQ0NDM?remarks=🇫🇷法国2&obfsParam=fr-ls03.nb1.fr&path=/clientarea&obfs=websocket&tls=1&peer=fr-ls03.nb1.fr&alterId=0
