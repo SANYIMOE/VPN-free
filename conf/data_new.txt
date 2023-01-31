@@ -41,6 +41,9 @@ trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trfg.ballistics.top:443#🇺🇸�
 trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trxn.ballistics.top:443#🇺🇸美国35
 trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trxjp.ballistics.top:443#🇺🇸美国36
 trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80#🇺🇸美国37
+vmess://YXV0bzozN2QyMGVkMy1iNGVlLTRlNDUtYjRkMi1hN2I5NGJlZjllMjBAdXNhLjY1Nzc2MTcueHl6OjIwODI?remarks=🇺🇸美国38|2.65MB/s(Youtube:不良林)&obfsParam=usa.6577617.xyz&path=/&obfs=websocket&alterId=0
+trojan://646800ff-624e-44a0-804d-34e4e8d2175e@us2.555199.xyz:443?allowInsecure=1#🇺🇸美国39|190.7KB/s(Youtube:不良林)
+vmess://YXV0bzplZWI0ZDdmMy0xZjk2LTRkODctOThkOC02ZjY5OWFhYzVkOGVAd3d3LnFhdGFyMjAyMi5xYTo4MA?remarks=🇺🇸美国40|1.74MB/s(Youtube:不良林)&obfsParam=yl.cachexy.ga&path=/TxIq76mA/&obfs=websocket&alterId=0
 # Australia
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMjAzLjMwLjE4OS4xOTE6NDQz?remarks=🇦🇺澳大利亚1&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMjAzLjMwLjE4OS4xOTE6NDQz?remarks=🇦🇺澳大利亚2&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
