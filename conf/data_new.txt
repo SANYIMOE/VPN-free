@@ -95,6 +95,12 @@ vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAanAyLnNhbmZlbjAw
 vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAanA4MC00LnNhbmZlbjAwMS5waWNzOjgw?remarks=🇯🇵日本14&obfsParam=www.baidu.com&path=/zh-cn&obfs=websocket&alterId=0
 # Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPSW9MVEFwVzlFalpXZ2hpUXZNY3NGSlNFQDE5NC4yNi4yMjkuOTA6MzQ0MTg#🇳🇱荷兰1
+trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trhl.ballistics.top:443/#🇳🇱荷兰2
+# Philippines
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@120.233.15.58:17108/#🇵🇭菲律宾1
+# Serbia
+trojan://shefelnak@88.150.137.177:443/?allowInsecure=1&peer=content-provider4.cdn-delivery.akamaicd.com#🇷🇸塞尔维亚1
+trojan://shefelnak@content-provider4.cdn-delivery.akamaicd.com:443/?allowInsecure=1&peer=content-provider4.cdn-delivery.akamaicd.com#🇷🇸塞尔维亚2
 # Singapore
 vmess://YXV0bzo2ZmVhMTY0OS00MjViLTQwOTItYmY1My0yOTc5MjE1MmM5MjVAc2ctbGIudmhheC5uZXQ6ODA?remarks=🇸🇬新加坡1&obfsParam=zoom.us&path=/sshkit/Ertusg86/635014638c264/&obfs=websocket&alterId=0
 vmess://YXV0bzpjNjc0N2RhNC1mYjJlLTRhMmEtYmRiNy04NjE0YmRkNmIwYjNAdWljZG4uY2Y6ODA?remarks=🇸🇬新加坡2&obfsParam=sg3-v2ray.sshkit.org&path=/sshkit/1736960111/63b1af7a5f43f/&obfs=websocket&alterId=0
