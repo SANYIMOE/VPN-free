@@ -35,6 +35,12 @@ trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80/#🇺🇸美�
 trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trny.ballistics.top:443/#🇺🇸美国29
 trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trld.ballistics.top:443/#🇺🇸美国30
 vmess://YXV0bzplZDFlN2NjNS1lMGNmLTQyNGEtOGUyOC03MGNhMzA1ZjI2ZDNAdXM4MC0zLnNhbmZlbjAwMS5waWNzOjgw?remarks=🇺🇸美国31&obfsParam=www.baidu.com&path=/zh-cn/&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzo4NzYzZTYyNS05MjlhLTQzZGEtYjdiZi03ZTdiYzJlNTc2MTVAZ2V0LnRlY2g6ODA?remarks=🇺🇸美国32&obfsParam=lv.awsbest.com&path=/shared&obfs=websocket&alterId=0
+vmess://YXV0bzo3YjFiMmZhMy1lMzYxLTQ4Y2MtYjczZC0yYzk2MzZjNzZmNGJAMjMuMjI3LjM4LjEwMDo0NDM?remarks=🇺🇸美国33&obfsParam=v2ray1.zhujicn2.org&path=/UMW36262&obfs=websocket&tls=1&peer=v2ray1.zhujicn2.org&alterId=0
+trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trfg.ballistics.top:443#🇺🇸美国34
+trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trxn.ballistics.top:443#🇺🇸美国35
+trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trxjp.ballistics.top:443#🇺🇸美国36
+trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80#🇺🇸美国37
 # Australia
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMjAzLjMwLjE4OS4xOTE6NDQz?remarks=🇦🇺澳大利亚1&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMjAzLjMwLjE4OS4xOTE6NDQz?remarks=🇦🇺澳大利亚2&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
