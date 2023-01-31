@@ -19,6 +19,21 @@ vmess://YXV0bzoyYjIxNDEyMi0xOTA2LTQyOGEtYmJiNy1hMDM5Y2JiN2NkNWNAMTQxLjE5My4yMTMu
 vmess://YXV0bzoyNmI1ZmJjZi1kMTk5LTQwN2UtZThiZi05NmQ3NDg5ZDI0N2RAMTcyLjY3LjE3OC4xMjc6NDQz?remarks=🇺🇸美国13&obfsParam=en1.wanwushenghua.me&path=/123&obfs=websocket&tls=1&peer=en1.wanwushenghua.me&alterId=0
 trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80/#🇺🇸美国14
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDM4LjkxLjEwMi4xMjM6NTAwMw#🇺🇸美国15
+vmess://YXV0bzo0MGQ0OTZhNi1jZWViLTQwOTYtYmFlYi00Y2M1MmIyMDU2MjFAMTg1LjE2Mi4yMjguMjI4OjQ0Mw?remarks=🇺🇸美国16&obfsParam=lg1.trump2023.us&path=/ECTCJ0DF&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzpjNWEyZDdiOC1iZjg0LTRmOTctODU3Ny1iOWI4N2YyYmFhZjdAMTcyLjY3LjIwMS4xNDo0NDM?remarks=🇺🇸美国17&obfsParam=oplg1.cfcdn2.xyz&path=/AUIKN8AU&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzo0MGNjMTgyNS1jNTJhLTQ0MzgtODk4My0xMGFlYjFjZjNhNDdAY3Uuc3ViY2xzbmV0LmNvbToxMDA0Ng?remarks=🇺🇸美国18&path=/&alterId=0
+vmess://YXV0bzo2ZmVhMTY0OS00MjViLTQwOTItYmY1My0yOTc5MjE1MmM5MjVAMTcyLjY3LjIyMi40Njo4MA?remarks=🇺🇸美国19&obfsParam=us-lb.sshkit.org&path=/sshkit/fdfadsfa/63848bfe228fd/&obfs=websocket&alterId=0
+vmess://YXV0bzpjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTRAY2EtbHMwMy5uYjEuZnI6NjQ0NDM?remarks=🇺🇸美国20&obfsParam=ca-ls03.nb1.fr&path=/clientarea&obfs=websocket&tls=1&alterId=1
+trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80/#🇺🇸美国21
+trojan://aa6eb272-1d8d-4461-9687-85ddbab1adb0@135.148.149.209:80/?allowInsecure=1#🇺🇸美国22
+trojan://17c412d9-f283-483c-b095-72605fb2840e@104.149.155.13:443/?allowInsecure=1&peer=vzwzasc.cn#🇺🇸美国23
+trojan://31800919-e199-47dd-b9e0-a9d4f4ae320b@148.59.74.184:443/?allowInsecure=1&peer=pcd462233.netvigator.com#🇺🇸美国24
+trojan://31800919-e199-47dd-b9e0-a9d4f4ae320b@148.59.74.186:443/?peer=pcd462233.netvigator.com#🇺🇸美国25
+trojan://31800919-e199-47dd-b9e0-a9d4f4ae320b@148.59.74.185:443/?allowInsecure=1&peer=pcd462233.netvigator.com#🇺🇸美国26
+trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trfg.ballistics.top:443/#🇺🇸美国27
+trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80/#🇺🇸美国28
+trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trny.ballistics.top:443/#🇺🇸美国29
+trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trld.ballistics.top:443/#🇺🇸美国30
 # Australia
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMjAzLjMwLjE4OS4xOTE6NDQz?remarks=🇦🇺澳大利亚1&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMjAzLjMwLjE4OS4xOTE6NDQz?remarks=🇦🇺澳大利亚2&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
