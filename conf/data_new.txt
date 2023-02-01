@@ -106,6 +106,7 @@ ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjUyNDc#🇨🇳中
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjUyNzI#🇨🇳中国10
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjUyMjY#🇨🇳中国11
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjUyNjE#🇨🇳中国12
+vmess://YXV0bzo5YmY0Y2JhNC05ZTllLTRkYTQtOGU2NS1mN2M0ODdjNTM5ZGZAMTA2LjEyLjE2OC4xMzoxMzE1Ng?remarks=🇨🇳中国13&obfsParam=a.189.cn&path=/&obfs=websocket&alterId=0
 # Costa Rica
 vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMTkwLjkzLjI0NS40OjQ0Mw?remarks=🇨🇷哥斯达黎加1&obfsParam=lg10.cfcdn1.xyz&path=/A2DJOPFT&obfs=websocket&tls=1&alterId=0
 # Cyprus
@@ -145,6 +146,7 @@ vmess://YXV0bzplZDFlN2NjNS1lMGNmLTQyNGEtOGUyOC03MGNhMzA1ZjI2ZDNAaGsxMi5zYW5mZW4w
 vmess://YXV0bzplZDFlN2NjNS1lMGNmLTQyNGEtOGUyOC03MGNhMzA1ZjI2ZDNAaGs4MC5zYW5mZW4wMDEucGljczo4MA?remarks=🇭🇰香港13&obfsParam=www.baidu.com&path=/zh-cn/&obfs=websocket&tfo=1&alterId=0
 vmess://YXV0bzplZDFlN2NjNS1lMGNmLTQyNGEtOGUyOC03MGNhMzA1ZjI2ZDNAaGs4MC0yLnNhbmZlbjAwMS5waWNzOjgw?remarks=🇭🇰香港14&obfsParam=www.baidu.com&path=/zh-cn/&obfs=websocket&tfo=1&alterId=0
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@120.233.15.58:17108/?allowInsecure=1#🇭🇰香港15
+trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-154-228-196.ipv4.rush.ml:8443/#🇭🇰香港16
 # Japan
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg5NjEzNTkud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h961359.waihuizhibiaowang.com&remark=🇯🇵日本1#🇯🇵日本1
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NDk5NjAud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h649960.waihuizhibiaowang.com&remark=🇯🇵日本2#🇯🇵日本2
@@ -152,6 +154,10 @@ https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg3NDU3Njgud2FpaHVpemhpYmlhb3dhbmcuY29tOjEx
 vmess://YXV0bzplZDFlN2NjNS1lMGNmLTQyNGEtOGUyOC03MGNhMzA1ZjI2ZDNAanAxLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇯🇵日本4&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=jp1.sanfen001.pics&allowInsecure=1&tfo=1&alterId=0
 vmess://YXV0bzplZDFlN2NjNS1lMGNmLTQyNGEtOGUyOC03MGNhMzA1ZjI2ZDNAanAyLnNhbmZlbjAwMS5waWNzOjIwMDY?remarks=🇯🇵日本5&obfsParam=aws.amazon.com&path=/cn&obfs=websocket&tls=1&peer=jp1.sanfen001.pics&allowInsecure=1&tfo=1&alterId=0
 vmess://YXV0bzplZDFlN2NjNS1lMGNmLTQyNGEtOGUyOC03MGNhMzA1ZjI2ZDNAanA4MC00LnNhbmZlbjAwMS5waWNzOjgw?remarks=🇯🇵日本6&obfsParam=www.baidu.com&path=/zh-cn&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzphODk0Zjk2OS0zMjY4LTNkY2ItYjE4MC04MzMxZGY0YjU1MmZAanAwMy12bTAuZW50cnkuc3J0aGR3LmFydDo0NDk?remarks=🇯🇵日本7&obfsParam=jp03-vm0.entry.srthdw.art&path=/hls/cctv5phd.m3u8&obfs=websocket&alterId=1
+vmess://YXV0bzo3MGEwZTVlMS04YTE0LTMwYWEtODQ3Ni04YTQwODFjZDhmNjdAanAwMi12bTAuZW50cnkuc3J0aGR3LmFydDo0NDg?remarks=🇯🇵日本8&obfsParam=jp02-vm0.entry.srthdw.art&path=/hls/cctv5phd.m3u8&obfs=websocket&alterId=1
+vmess://YXV0bzo5NDc0NTNmZS1jOGYwLTMwNzktOWU3Zi0yZjY3Yjc4ZDhmZThAanAwNC12bTAuZW50cnkuc3J0aGR3LmFydDo0NDY?remarks=🇯🇵日本9&obfsParam=YouTube-aweikeji&path=/hls/cctv5phd.m3u8&obfs=websocket&alterId=1
+vmess://YXV0bzpkMjZiY2ZiMi1hYTlhLTQ5MjMtYTdjYS0wMGU0MmY1YTQ5MmJAanA5OS5tZWlsdWxldGlhbi50b3A6MjI5OTM?remarks=🇯🇵日本10&path=/&alterId=53
 # Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPSW9MVEFwVzlFalpXZ2hpUXZNY3NGSlNFQDE5NC4yNi4yMjkuOTA6MzQ0MTg#🇳🇱荷兰1
 trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trhl.ballistics.top:443/#🇳🇱荷兰2
@@ -160,6 +166,7 @@ trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trhl.ballistics.top:443/?allowInse
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@120.233.15.58:17108/#🇵🇭菲律宾1
 # Russia
 vmess://YXV0bzpmMjhlMzU0ZS1jMmQxLTQ5ODMtOWIwNy01YWNhZjFiM2IzZTVAMTg1LjE0My4yMjAuMjU6NDQz?remarks=🇷🇺俄罗斯1&path=/6e9EtZ2dL&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzo3ZjNiNTgyOS1mOWJiLTQ2NDYtOGM1NC0yMGZjNzU0YTdlZmFAdjJyYXkzMGRheWJvdC5pcmFuY2FwdGlhbC5jb206ODA?remarks=🇷🇺俄罗斯2&obfsParam=bmi.ir&path=/&obfs=websocket&alterId=0
 # Serbia
 trojan://shefelnak@88.150.137.177:443/?allowInsecure=1&peer=content-provider4.cdn-delivery.akamaicd.com#🇷🇸塞尔维亚1
 trojan://shefelnak@content-provider4.cdn-delivery.akamaicd.com:443/?allowInsecure=1&peer=content-provider4.cdn-delivery.akamaicd.com#🇷🇸塞尔维亚2
