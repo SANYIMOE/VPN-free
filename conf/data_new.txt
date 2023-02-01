@@ -1,8 +1,8 @@
 # Recommend
-vmess://bm9uZToxMjM0LTU2NzgtOTAxMi0zNDU2QGxvY2FsaG9zdDo4MA?remarks=https://vpn-free.sn-m.xyz/yuyan.html|推荐机场&tfo=1&mux=1
-vmess://bm9uZToxMjM0LTU2NzgtOTAxMi0zNDU2QDEuMS4xLjE6ODA?remarks=https://vpn-free.sn-m.xyz/school.html|推荐机场&tfo=1&mux=1
-vmess://bm9uZToxMjM0LTU2NzgtOTAxMi0zNDU2QG1pY3Jvc29mdC5jb206ODA?remarks=https://vpn-free.sn-m.xyz/ky.html|推荐机场&tfo=1&mux=1
-vmess://bm9uZToxMjM0LTU2NzgtOTAxMi0zNDU2QGJhaWR1LmNvbTo4MA?remarks=https://vpn-free.sn-m.xyz/mojie.html|推荐机场&tfo=1&mux=1
+vmess://bm9uZToxMjM0LTU2NzgtOTAxMi0zNDU2QGxvY2FsaG9zdDo4MA?remarks=推荐机场|https://vpn-free.sn-m.xyz/yuyan.html&tfo=1&mux=1
+vmess://bm9uZToxMjM0LTU2NzgtOTAxMi0zNDU2QDEuMS4xLjE6ODA?remarks=推荐机场|https://vpn-free.sn-m.xyz/school.html&tfo=1&mux=1
+vmess://bm9uZToxMjM0LTU2NzgtOTAxMi0zNDU2QG1pY3Jvc29mdC5jb206ODA?remarks=推荐机场|https://vpn-free.sn-m.xyz/ky.html&tfo=1&mux=1
+vmess://bm9uZToxMjM0LTU2NzgtOTAxMi0zNDU2QGJhaWR1LmNvbTo4MA?remarks=推荐机场|https://vpn-free.sn-m.xyz/mojie.html&tfo=1&mux=1
 # America
 trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trny.ballistics.top:443/?allowInsecure=1&peer=trny.ballistics.top#🇺🇸美国1|(youtube阿伟科技)
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NTAxOTYud2FpaHVpemhpYmlhb3dhbmcuY29tOjExMjQz?peer=h650196.waihuizhibiaowang.com&remark=🇺🇸美国2#🇺🇸美国2
