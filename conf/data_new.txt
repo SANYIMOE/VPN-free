@@ -88,11 +88,15 @@ vmess://YXV0bzoxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGFAMjAzLjMwLjE4OS4x
 vmess://YXV0bzo0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWFAMjAzLjMwLjE5MS4xOTI6NDQz?remarks=🇦🇺澳大利亚3&obfsParam=opfr1.v2rayfree1.xyz&path=/IYKLD53M&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzpjNWEyZDdiOC1iZjg0LTRmOTctODU3Ny1iOWI4N2YyYmFhZjdAMjAzLjMwLjE5MS43OjQ0Mw?remarks=🇦🇺澳大利亚4&obfsParam=oplg1.cfcdn2.xyz&path=/AUIKN8AU&obfs=websocket&tls=1&alterId=0
 trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trxn.ballistics.top:443/#🇦🇺澳大利亚5
+ssr://ejAxMTMuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3Lz9yZW1hcmtzPThKLUhwdkNmaDdybXZyUGxwS2ZsaUtua3VwbzJmQ2g1YjNWMGRXSmw2WmlfNUx5ZjU2ZVI1b3FBS1EmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPWQzZDNMbTFwWTNKdmMyOW1kQzVqYjIwalZYTmxjaTFCWjJWdWREb2dUVzk2YVd4c1lTODFMakFnS0dsUWFHOXVaVHNnUTFCVklHbFFhRzl1WlNCUFV5QXhNVjgwWHpFZ2JHbHJaU0JOWVdNZ1QxTWdXQ2tnUVhCd2JHVlhaV0pMYVhRdk5qQXlMalF1TmlBb1MwaFVUVXdzSUd4cGEyVWdSMlZqYTI4cElGWmxjbk5wYjI0dk1UQXVNQ0JOYjJKcGJHVXZNVFJFTWpjZ1RXbGpjbTlOWlhOelpXNW5aWEl2Tmk0MUxqRXpDa0ZqWTJWd2REb2dMd3BEYjI1dVpXTjBhVzl1T2lCclpXVndMV0ZzYVhabA
 # Austria
 vmess://YXV0bzoyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUZAdjJyYXkub25saW5lOjQ0Mw?remarks=🇦🇹奥地利1&obfsParam=Vienna.v2ray.online&path=/speedtest&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzoyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUZAdjJyYXkub25saW5lOjQ0Mw?remarks=🇦🇹奥地利2|(youtube阿伟科技)&obfsParam=Vienna.v2ray.online&path=/speedtest&obfs=websocket&tls=1&alterId=0
 # Bulgaria
 vmess://YXV0bzoxMDcwNmUwYS04MjUxLTRjZmMtYjIxMS1iOTA4Yjk5ZGZkNWZAd3d3LnJpbnlpbi50b3A6NDQz?remarks=🇧🇬保加利亚1|(youtube阿伟科技)&obfsParam=www.rinyin.top&path=/7a17336201?ed=2048&obfs=websocket&tls=1&alterId=0
+# Canada
+ssr://ejAxMTUuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3Lz9yZW1hcmtzPThKLUhxUENmaDZibGlxRG1pN19scEtjeGZDaDViM1YwZFdKbDZaaV81THlmNTZlUjVvcUFLUSZwcm90b3BhcmFtPSZvYmZzcGFyYW09ZDNkM0xtMXBZM0p2YzI5bWRDNWpiMjBqVlhObGNpMUJaMlZ1ZERwTmIzcHBiR3hoTHpVdU1DaHBVR2h2Ym1VN1ExQlZhVkJvYjI1bFQxTXhNVjgwWHpGc2FXdGxUV0ZqVDFOWUtVRndjR3hsVjJWaVMybDBMell3TWk0MExqWW9TMGhVVFV3c2JHbHJaVWRsWTJ0dktWWmxjbk5wYjI0dk1UQXVNRTF2WW1sc1pTOHhORVF5TjAxcFkzSnZUV1Z6YzJWdVoyVnlMell1TlM0eE0wRmpZMlZ3ZERvdlEyOXVibVZqZEdsdmJqcHJaV1Z3TFdGc2FYWmw
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTYxLjExOC4zODo4MDQ#🇨🇦加拿大2|(youtube阿伟科技)
 # China
 vmess://YXV0bzo5YmY0Y2JhNC05ZTllLTRkYTQtOGU2NS1mN2M0ODdjNTM5ZGZAMTA2LjEyLjE2OC4xMzoxMzE1Ng?remarks=🇨🇳中国1&obfsParam=a.189.cn&path=/&obfs=websocket&alterId=0
 vmess://YXV0bzo5YmY0Y2JhNC05ZTllLTRkYTQtOGU2NS1mN2M0ODdjNTM5ZGZAMTA2LjEyLjE2OC4xMzoxMzE1Ng?remarks=🇨🇳中国2| 3.94Mb&obfsParam=a.189.cn&path=/&obfs=websocket&alterId=0
@@ -147,6 +151,8 @@ vmess://YXV0bzplZDFlN2NjNS1lMGNmLTQyNGEtOGUyOC03MGNhMzA1ZjI2ZDNAaGs4MC5zYW5mZW4w
 vmess://YXV0bzplZDFlN2NjNS1lMGNmLTQyNGEtOGUyOC03MGNhMzA1ZjI2ZDNAaGs4MC0yLnNhbmZlbjAwMS5waWNzOjgw?remarks=🇭🇰香港14&obfsParam=www.baidu.com&path=/zh-cn/&obfs=websocket&tfo=1&alterId=0
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@120.233.15.58:17108/?allowInsecure=1#🇭🇰香港15
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-154-228-196.ipv4.rush.ml:8443/#🇭🇰香港16
+# India
+ssr://ejAxMTQuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3Lz9yZW1hcmtzPThKLUhydkNmaDdQbGpiRGx1cVl4ZkNoNWIzVjBkV0psNlppXzVMeWY1NmVSNW9xQUtRJnByb3RvcGFyYW09Jm9iZnNwYXJhbT1kM2QzTG0xcFkzSnZjMjltZEM1amIyMGpWWE5sY2kxQloyVnVkRHBOYjNwcGJHeGhMelV1TUNocFVHaHZibVU3UTFCVmFWQm9iMjVsVDFNeE1WODBYekZzYVd0bFRXRmpUMU5ZS1VGd2NHeGxWMlZpUzJsMEx6WXdNaTQwTGpZb1MwaFVUVXdzYkdsclpVZGxZMnR2S1ZabGNuTnBiMjR2TVRBdU1FMXZZbWxzWlM4eE5FUXlOMDFwWTNKdlRXVnpjMlZ1WjJWeUx6WXVOUzR4TTBGalkyVndkRG92UTI5dWJtVmpkR2x2YmpwclpXVndMV0ZzYVhabA
 # Japan
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg5NjEzNTkud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h961359.waihuizhibiaowang.com&remark=🇯🇵日本1#🇯🇵日本1
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg2NDk5NjAud2FpaHVpemhpYmlhb3dhbmcuY29tOjExNDQz?peer=h649960.waihuizhibiaowang.com&remark=🇯🇵日本2#🇯🇵日本2
@@ -185,6 +191,7 @@ vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAa3IxLnNhbmZlbjAw
 vmess://YXV0bzphMDY3NDhkNC03NjY5LTQ5ZGQtZGQxYS0yNWQ3MzQ3MWEwNTFAa3IwNS53eGZ6Lm1sOjQ4NDEz?remarks=🇰🇷韩国3|(youtube阿伟科技)&obfsParam=a.duoyouduo.tk&path=/1234&obfs=websocket&tls=1&alterId=0
 # Sweden
 vmess://YXV0bzpjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTRAc2UtbHMwMy5uYjEuZnI6NjQ0NDM?remarks=🇸🇪瑞典1&obfsParam=se-ls03.nb1.fr&path=/clientarea&obfs=websocket&tls=1&alterId=0
+ssr://ejAxMTcuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3Lz9yZW1hcmtzPThKLUh1UENmaDZybmtaN2xoYmd5ZkNoNWIzVjBkV0psNlppXzVMeWY1NmVSNW9xQUtRJnByb3RvcGFyYW09Jm9iZnNwYXJhbT1kM2QzTG0xcFkzSnZjMjltZEM1amIyMGpWWE5sY2kxQloyVnVkRHBOYjNwcGJHeGhMelV1TUNocFVHaHZibVU3UTFCVmFWQm9iMjVsVDFNeE1WODBYekZzYVd0bFRXRmpUMU5ZS1VGd2NHeGxWMlZpUzJsMEx6WXdNaTQwTGpZb1MwaFVUVXdzYkdsclpVZGxZMnR2S1ZabGNuTnBiMjR2TVRBdU1FMXZZbWxzWlM4eE5FUXlOMDFwWTNKdlRXVnpjMlZ1WjJWeUx6WXVOUzR4TTBGalkyVndkRG92UTI5dWJtVmpkR2x2YmpwclpXVndMV0ZzYVhabA
 # Taiwan
 https://MTRjNjE4Y2JmYzo0ODg0YzRlZDgwQGg3NDU3Njgud2FpaHVpemhpYmlhb3dhbmcuY29tOjExMzQz?peer=h745768.waihuizhibiaowang.com&remark=🇹🇼台湾1#🇹🇼台湾1
 vmess://YXV0bzpiMTBhYmYyMS03NjFlLTQxYmItYTQ1Yi1mMDdhZWE1MTAxYjlAdHcxLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=🇹🇼台湾2&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=tw1.sanfen001.pics&alterId=0
