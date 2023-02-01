@@ -67,6 +67,7 @@ Shadowrocket/Quantumult(X)/Loon/Stash/Surge
 其它客户端请使用[订阅转换](https://aclsub.mojy.xyz)
 
 ### 历史版本
+- 2023.02.01：`https://raw.githubusercontent.com/SANYIMOE/VPN-free/5b5c8c09aa665169692ffcb48fed7c786bf0e737/conf/data.txt`
 - 2023.01.31：`https://raw.githubusercontent.com/SANYIMOE/VPN-free/bfd7d84e84ef6fbbd89352dea17fdbcb8ac3e29a/conf/data.txt`
 - 2023.01.28：`https://raw.githubusercontent.com/SANYIMOE/VPN-free/9ecbfd0efd89256e136f7b8c4558dc94fe1905af/conf/data.txt`
 - 2023.01.27：`https://raw.githubusercontent.com/SANYIMOE/VPN-free/6e93041767a76c3104062551b003f29ea55f584e/conf/data.txt`
