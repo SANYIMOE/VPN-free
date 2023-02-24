@@ -2,6 +2,8 @@
 ## 推荐机场
 [雨燕云](https://vpn-free.sn-m.xyz/yuyan.html)，高速稳定的新兴机场，我们目前正在使用它。
 
+[GKD](https://vpn-free.sn-m.xyz/gkd.html)，高速稳定，优质机场推荐。
+
 [Magic School](https://vpn-free.sn-m.xyz/school.html)，老牌机场，高速稳定好用。
 
 [快银](https://vpn-free.sn-m.xyz/ky.html)，老牌机场，高速稳定，支持流媒体。
