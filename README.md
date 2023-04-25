@@ -33,7 +33,7 @@ Shadowrocket/Quantumult(X)/Loon/Stash/Surge
 ### 节点测速工具
 [LiteSpeedTest](https://github.com/xxf098/LiteSpeedTest/releases)
 
-## 项目已合并至 Melody，您可通过 Melody 获取您更好的 免费/付费 节点
+## 项目已合并至 Melody，您可通过 Melody 获取您更好的 免费/付费 节点 <a href="https://小萌机场.top">传送门</a>
 
 其它客户端请使用[订阅转换](https://aclsub.mojy.xyz)
 
