@@ -33,38 +33,7 @@ Shadowrocket/Quantumult(X)/Loon/Stash/Surge
 ### 节点测速工具
 [LiteSpeedTest](https://github.com/xxf098/LiteSpeedTest/releases)
 
-## 三、使用方法
-复制订阅地址到网络工具即可，亦可直接复制节点地址
-
-### 订阅地址
-### 官方订阅地址
-#### 默认订阅地址
-- 通用：`https://vpn-free.sn-m.xyz/conf/data.txt`
-- Clash：`https://vpn-free.sn-m.xyz/conf/clash.conf`
-- Quantumult：`https://vpn-free.sn-m.xyz/conf/quantumult.conf`
-- QuantumultX：`https://vpn-free.sn-m.xyz/conf/quantumultx.conf`
-- Surfboard：`https://vpn-free.sn-m.xyz/conf/surfboard.conf`
-- Surge：`https://vpn-free.sn-m.xyz/conf/surge.conf`
-
-其它客户端请使用[订阅转换](https://aclsub.mojy.xyz)
-
-#### CDNMOE
-- 通用：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/data.txt`
-- Clash：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/clash.conf`
-- Quantumult：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/quantumult.conf`
-- QuantumultX：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/quantumultx.conf`
-- Surfboard：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/surfboard.conf`
-- Surge：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/VPN-free/conf/surge.conf`
-
-其它客户端请使用[订阅转换](https://aclsub.mojy.xyz)
-
-#### jsDelivr
-- 通用：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/data.txt`
-- Clash：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/clash.conf`
-- Quantumult：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/quantumult.conf`
-- QuantumultX：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/quantumultx.conf`
-- Surfboard：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/surfboard.conf`
-- Surge：`https://cdn.jsdelivr.net/gh/SANYIMOE/VPN-free/conf/surge.conf`
+## 项目已合并至 Melody，您可通过 Melody 获取您更好的 免费/付费 节点
 
 其它客户端请使用[订阅转换](https://aclsub.mojy.xyz)
 
@@ -74,10 +43,6 @@ Shadowrocket/Quantumult(X)/Loon/Stash/Surge
 - 2023.01.31：`https://raw.githubusercontent.com/SANYIMOE/VPN-free/bfd7d84e84ef6fbbd89352dea17fdbcb8ac3e29a/conf/data.txt`
 - 2023.01.28：`https://raw.githubusercontent.com/SANYIMOE/VPN-free/9ecbfd0efd89256e136f7b8c4558dc94fe1905af/conf/data.txt`
 - 2023.01.27：`https://raw.githubusercontent.com/SANYIMOE/VPN-free/6e93041767a76c3104062551b003f29ea55f584e/conf/data.txt`
-
-### 节点地址
-<iframe src ="/conf/data_new.txt" width="100%" height="500" frameborder="0" scrolling="auto">
-  <p>Your browser does not support iframes.</p>
 </iframe>
 
 若上方地址无法显示请点击<a href="https://vpn-free.sn-m.xyz/conf/data_new.txt" target="_blank">这里</a>
