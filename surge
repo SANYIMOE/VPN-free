@@ -1,0 +1,752 @@
+#!MANAGED-CONFIG https://api.wcc.best/sub?target=surge&ver=4&url=https%3A%2F%2Fvpn-free.sn-m.xyz%2Fclash&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false interval=86400 strict=false
+
+[General]
+loglevel = notify
+bypass-system = true
+replica = false
+ipv6 = false
+show-error-page-for-reject = true
+exclude-simple-hostnames = true
+skip-proxy = 127.0.0.1,192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,100.64.0.0/10,localhost,*.local,e.crashlytics.com,captive.apple.com,::ffff:0:0:0:0/1,::ffff:128:0:0:0/1
+bypass-tun = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12
+internet-test-url = http://www.aliyun.com
+proxy-test-url = http://1.1.1.1
+always-real-ip = msftconnecttest.com, msftncsi.com, *.msftconnecttest.com, *.msftncsi.com, *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com
+
+# macOS Only
+enhanced-mode-by-rule = false
+external-controller-access = passw0rd@0.0.0.0:6170
+
+dns-server = 119.29.29.29, 223.5.5.5, 180.76.76.76
+
+[Host]
+ip6-localhost = ::1
+ip6-loopback = ::1
+doh.rixcloud.dev = server:119.29.29.29
+dns.alidns.com = server:223.5.5.5
+taobao.com = server:223.6.6.6
+*.taobao.com = server:223.6.6.6
+tmall.com = server:223.6.6.6
+*.tmall.com = server:223.6.6.6
+jd.com = server:119.29.29.29
+*.jd.com = server:119.28.28.28
+*.qq.com = server:119.28.28.28
+*.tencent.com = server:119.28.28.28
+*.alicdn.com = server:223.5.5.5
+aliyun.com = server:223.5.5.5
+*.aliyun.com = server:223.5.5.5
+weixin.com = server:119.28.28.28
+*.weixin.com = server:119.28.28.28
+bilibili.com = server:119.29.29.29
+*.bilibili.com = server:119.29.29.29
+hdslb.com = server:119.29.29.29
+163.com = server:119.29.29.29
+*.163.com = server:119.29.29.29
+126.com = server:119.29.29.29
+*.126.com = server:119.29.29.29
+*.126.net = server:119.29.29.29
+*.127.net = server:119.29.29.29
+*.netease.com = server:119.29.29.29
+mi.com = server:119.29.29.29
+*.mi.com = server:119.29.29.29
+xiaomi.com = server:119.29.29.29
+*.xiaomi.com = server:119.29.29.29
+routerlogin.net = server:system
+_hotspot_.m2m = server:system
+router.asus.com = server:system
+hotspot.cslwifi.com = server:system
+amplifi.lan = server:system
+*.lan = server:system
+
+[URL Rewrite]
+# AbeamTV Unlock
+^https?:\/\/api\.abema\.io\/v\d\/ip\/check - reject
+
+# Redirect Google Service
+^https?:\/\/(www.)?g\.cn https://www.google.com 302
+^https?:\/\/(www.)?google\.cn https://www.google.com 302
+
+# Redirect HTTP to HTTPS
+^https?:\/\/(www.)?taobao\.com\/ https://www.taobao.com/ 302
+^https?:\/\/(www.)?jd\.com\/ https://www.jd.com/ 302
+^https?:\/\/(www.)?mi\.com\/ https://www.mi.com/ 302
+^https?:\/\/you\.163\.com\/ https://you.163.com/ 302
+^https?:\/\/(www.)?suning\.com/ https://suning.com/ 302
+^https?:\/\/(www.)?yhd\.com https://yhd.com/ 302
+
+# Redirect False to True
+# >> IGN China to IGN Global
+^https?:\/\/(www.)?ign\.xn--fiqs8s\/ http://cn.ign.com/ccpref/us 302
+# >> Fake Website Made By Makeding
+^https?:\/\/(www.)?abbyychina\.com\/ http://www.abbyy.cn/ 302
+^https?:\/\/(www.)?bartender\.cc\/ https://cn.seagullscientific.com 302
+^https?:\/\/(www.)?betterzip\.net\/ https://macitbetter.com/ 302
+^https?:\/\/(www.)?beyondcompare\.cc\/ https://www.scootersoftware.com/ 302
+^https?:\/\/(www.)?bingdianhuanyuan\.cn\/ http://www.faronics.com/zh-hans/ 302
+^https?:\/\/(www.)?chemdraw\.com\.cn\/ http://www.cambridgesoft.com/ 302
+^https?:\/\/(www.)?codesoftchina\.com\/ https://www.teklynx.com/ 302
+^https?:\/\/(www.)?coreldrawchina\.com\/ https://www.coreldraw.com/cn/ 302
+^https?:\/\/(www.)?crossoverchina\.com\/ https://www.codeweavers.com/ 302
+^https?:\/\/(www.)?easyrecoverychina\.com\/ https://www.ontrack.com/ 302
+^https?:\/\/(www.)?ediuschina\.com\/ https://www.grassvalley.com/ 302
+^https?:\/\/(www.)?flstudiochina\.com\/ https://www.image-line.com/flstudio/ 302
+^https?:\/\/(www.)?formysql\.com\/ https://www.navicat.com.cn 302
+^https?:\/\/(www.)?guitarpro\.cc\/ https://www.guitar-pro.com/ 302
+^https?:\/\/(www.)?huishenghuiying\.com\.cn\/ https://www.corel.com/cn/ 302
+^https?:\/\/(www.)?iconworkshop\.cn\/ https://www.axialis.com/iconworkshop/ 302
+^https?:\/\/(www.)?imindmap\.cc\/ https://imindmap.com/zh-cn/ 302
+^https?:\/\/(www.)?jihehuaban\.com\.cn\/ https://sketch.io/ 302
+^https?:\/\/(www.)?keyshot\.cc\/ https://www.keyshot.com/ 302
+^https?:\/\/(www.)?mathtype\.cn\/ http://www.dessci.com/en/products/mathtype/ 302
+^https?:\/\/(www.)?mindmanager\.cc\/ https://www.mindjet.com/ 302
+^https?:\/\/(www.)?mindmapper\.cc\/ https://mindmapper.com 302
+^https?:\/\/(www.)?mycleanmymac\.com\/ https://macpaw.com/cleanmymac 302
+^https?:\/\/(www.)?nicelabel\.cc\/ https://www.nicelabel.com/ 302
+^https?:\/\/(www.)?ntfsformac\.cc\/ https://www.tuxera.com/products/tuxera-ntfs-for-mac-cn/ 302
+^https?:\/\/(www.)?ntfsformac\.cn\/ https://www.paragon-software.com/ufsdhome/zh/ntfs-mac/ 302
+^https?:\/\/(www.)?overturechina\.com\/ https://sonicscores.com/overture/ 302
+^https?:\/\/(www.)?passwordrecovery\.cn\/ https://cn.elcomsoft.com/aopr.html 302
+^https?:\/\/(www.)?pdfexpert\.cc\/ https://pdfexpert.com/zh 302
+^https?:\/\/(www.)?ultraiso\.net\/ https://cn.ezbsystems.com/ultraiso/ 302
+^https?:\/\/(www.)?vegaschina\.cn\/ https://www.vegas.com/ 302
+^https?:\/\/(www.)?xmindchina\.net\/ https://www.xmind.cn/ 302
+^https?:\/\/(www.)?xshellcn\.com\/ https://www.netsarang.com/products/xsh_overview.html 302
+^https?:\/\/(www.)?yuanchengxiezuo\.com\/ https://www.teamviewer.com/zhcn/ 302
+^https?:\/\/(www.)?zbrushcn\.com\/ http://pixologic.com/ 302
+^https://aweme-eagle(.*)\.snssdk\.com/aweme/v2/ https://aweme-eagle$1.snssdk.com/aweme/v1/ 302
+
+# JD Protection
+^https?:\/\/coupon\.m\.jd\.com\/ https://coupon.m.jd.com/ 302
+^https?:\/\/h5\.m\.jd\.com\/ https://h5.m.jd.com/ 302
+^https?:\/\/item\.m\.jd\.com\/ https://item.m.jd.com/ 302
+^https?:\/\/m\.jd\.com\/ https://m.jd.com/ 302
+^https?:\/\/newcz\.m\.jd\.com\/ https://newcz.m.jd.com/ 302
+^https?:\/\/p\.m\.jd\.com\/ https://p.m.jd.com/ 302
+^https?:\/\/so\.m\.jd\.com\/ https://so.m.jd.com/ 302
+^https?:\/\/union\.click\.jd\.com\/jda? http://union.click.jd.com/jda?adblock= header
+^https?:\/\/union\.click\.jd\.com\/sem.php? http://union.click.jd.com/sem.php?adblock= header
+^https?:\/\/www.jd.com\/ https://www.jd.com/ 302
+
+# TikTok Internation
+(.*video_id=\w{32})(.*watermark=)(.*) $1 302
+(?<=(carrier|account|sys|sim)_region=)CN JP 307
+
+# Wiki
+^https://zh.(m.)?wikipedia.org/zh(-\w*)?(?=/) https://www.wikiwand.com/zh$2 302
+^https://(\w*).(m.)?wikipedia.org/wiki https://www.wikiwand.com/$1 302
+
+# Resso
+
+(?<=(carrier|account|sys|sim)_region=)cn in 307
+
+# Advertising Block
+
+# >> 2048Puzzle
+^https?:\/\/a\.applovin\.com\/3\.0\/ad - reject
+
+# >> 4gTV
+^https?:\/\/service\.4gtv\.tv\/4gtv\/Data\/GetAD - reject
+^https?:\/\/service\.4gtv\.tv\/4gtv\/Data\/ADLog - reject
+
+# >> 58
+^https?:\/\/.+\.58cdn\.com\.cn\/brandads\/ - reject
+^https?:\/\/app\.58\.com\/api\/home\/advertising\/ - reject
+^https?:\/\/app\.58\.com\/api\/home\/appadv\/ - reject
+^https?:\/\/app\.58\.com\/api\/home\/invite\/popupAdv - reject
+^https?:\/\/app\.58\.com\/api\/log\/ - reject
+
+# >> AcFun
+^https?:\/\/aes\.acfun\.cn\/s\?adzones - reject
+
+# >> Ai NanNing
+^https?:\/\/nnapp\.cloudbae\.cn\/mc\/api\/advert/ - reject
+
+# >> Aihuishou
+^https?:\/\/gw\.aihuishou\.com\/app-portal\/home\/getadvertisement - reject
+
+# >> AMap
+^https?:\/\/m\d{1}\.amap\.com\/ws\/valueadded\/alimama\/splash_screen\/ - reject
+
+# >> Baicizhan
+^https?:\/\/7n\.bczcdn\.com\/launchad\/ - reject
+
+# >> Baidu
+^https?:\/\/.+\/client\/phpui2\/ - reject
+^https?:\/\/cover.baidu.com\/cover\/page\/dspSwitchAds\/ - reject
+^https?:\/\/c\.tieba\.baidu\.com\/c\/s\/splashSchedule - reject
+^https?:\/\/issuecdn\.baidupcs\.com\/issue\/netdisk\/guanggao\/ - reject
+^https?:\/\/update\.pan\.baidu\.com\/statistics - reject
+
+# >> Baobao
+^https?:\/\/www\.myhug\.cn\/ad\/ - reject
+
+# >> Beike Zhaofang
+^https?:\/\/app\.api\.ke\.com\/config\/config\/bootpage - reject
+
+# >> Beitaicuhfang
+^https?:\/\/channel\.beitaichufang\.com\/channel\/api\/v\d\/promote\/ios\/start\/page - reject
+
+# >> Bi ShiJie
+^https?:\/\/iapi\.bishijie\.com\/actopen\/advertising\/ - reject
+
+# >> Bilibili
+^https?:\/\/app\.bilibili\.com\/x\/v\d\/splash\/ - reject
+
+# >> ByteDance
+^https?:\/\/.+\.(musical|snssdk)\.(com|ly)\/(api|motor)\/ad\/ - reject
+^https?:\/\/.+\.pstatp\.com\/img\/ad - reject
+^https?:\/\/.+\.snssdk\.com\/motor\/operation\/activity\/display\/config\/v\d\/ - reject
+^https?:\/\/dsp\.toutiao\.com\/api\/xunfei\/ads\/ - reject
+
+# >> CamScanner
+^https?:\/\/api\.intsig\.net\/user\/cs\/operating\/app\/get_startpic\/ - reject
+
+# >> Caocao Chuxin
+^https?:\/\/cap\.caocaokeji\.cn\/advert-bss\/ - reject
+
+# >> Chelaile
+^https?:\/\/(api|atrace)\.chelaile\.net\.cn\/adpub\/ - reject
+^https?:\/\/api\.chelaile\.net\.cn\/goocity\/advert\/ - reject
+^https?:\/\/atrace\.chelaile\.net\.cn\/exhibit\?&adv_image - reject
+^https?:\/\/pic1\.chelaile\.net\.cn\/adv\/ - reject
+
+# >> ChinaMobile
+^https?:\/\/app\.10086\.cn\/biz-orange\/DN\/(findSale|homeSale)\/getsaleAdver - reject
+
+# >> ChinaUnicom
+^https?:\/\/m\.client\.10010\.com\/mobileService\/customer\/accountListData\.htm - reject
+^https?:\/\/m\.client\.10010\.com\/uniAdmsInterface\/(getWelcomeAd|getHomePageAd) - reject
+
+# >> CNTV
+^https?:\/\/asp\.cntv\.myalicdn\.com\/.+\?maxbr=850 - reject
+^https?:\/\/cntv\.hls\.cdn\.myqcloud\.com\/.+\?maxbr=850 - reject
+^https?:\/\/v\.cctv\.com\/.+850 - reject
+^https?:\/\/www\.cntv\.cn\/nettv\/adp\/ - reject
+
+# >> DanDan Zan
+^https?:\/\/www\.dandanzan\.com\/res\/gdsefse\.js - reject
+
+# >> DangDang
+^https?:\/\/mapi\.dangdang\.com\/index\.php\?action=init - reject
+
+# >> DayDayCook
+^https?:\/\/api\.daydaycook\.com\.cn\/daydaycook\/server\/ad\/ - reject
+^https?:\/\/cms\.daydaycook\.com\.cn\/api\/cms\/advertisement\/ - reject
+
+# >> eLong
+^https?:\/\/mobile-api2011\.elong\.com\/(adgateway|adv)\/ - reject
+^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/(adgateway|adv)\/ - reject
+
+# >> Facebook
+^https?:\/\/www\.facebook\.com\/.+video_click_to_advertiser_site - reject
+
+# >> Fliggy
+^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.trip\.activity\.querytmsresources\/ - reject
+
+# >> Flyer Tea
+^https?:\/\/www\.flyertea\.com\/source\/plugin\/mobile\/mobile\.php\?module=advis - reject
+
+# >> Foodie
+^https?:\/\/foodie-api\.yiruikecorp\.com\/v\d\/(banner|notice)\/overview - reject
+
+# >> FOTOABLE
+^https?:\/\/cdn\.api\.fotoable\.com\/Advertise\/ - reject
+
+# >> Gofun
+^https?:\/\/gateway\.shouqiev\.com\/fsda\/app\/bootImage\.json - reject
+
+# >> Google
+^https?:\/\/.+\.youtube\.com\/api\/stats\/.+adformat - reject
+^https?:\/\/.+\.youtube\.com\/api\/stats\/ads - reject
+^https?:\/\/.+\.youtube\.com\/get_midroll - reject
+^https?:\/\/.+\.youtube\.com\/get_midroll_ - reject
+^https?:\/\/.+\.youtube\.com\/pagead\/ - reject
+^https?:\/\/.+\.youtube\.com\/ptracking - reject
+^https?:\/\/.+\.youtube\.com\/ptracking\? - reject
+^https?:\/\/pagead2.googlesyndication.com\/pagead\/js\/? - reject
+^https?:\/\/pagead2.googlesyndication.com\/pagead\/js\/? - reject
+^https?:\/\/premiumyva\.appspot\.com\/vmclickstoadvertisersite - reject
+^https?:\/\/www.google-analytics.com\/analytics.js - reject
+^https?:\/\/www.google-analytics.com\/analytics.js - reject
+^https?:\/\/youtubei\.googleapis\.com/.+ad_break - reject
+^https?:\/\/youtubei\.googleapis\.com\/youtubei\/.+ad_ - reject
+^https?:\/\/youtubei\.googleapis\.com\/youtubei\/.+log_ - reject
+
+# >> Hangzhou Bus
+^https?:\/\/m\.ibuscloud.com\/v\d\/app\/getStartPage - reject
+
+# >> Hangzhou Citizen Card
+^https?:\/\/smkmp\.96225.com\/smkcenter\/ad/ - reject
+
+# >> Hupu
+^https?:\/\/games\.mobileapi\.hupu\.com\/.+\/(interfaceAdMonitor|interfaceAd)\/ - reject
+^https?:\/\/games\.mobileapi\.hupu\.com\/.+\/status\/init - reject
+
+# >> IdleFish
+^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.taobao\.idle\.home\.welcome\/ - reject
+
+# >> iFlytek
+^https?:\/\/imeclient\.openspeech\.cn\/adservice\/ - reject
+
+# >> iQiyi
+^https?:\/\/act\.vip\.iqiyi\.com\/interact\/api\/show.do - reject
+^https?:\/\/act\.vip\.iqiyi\.com\/interact\/api\/v\d\/show - reject
+^https?:\/\/iface\.iqiyi\.com\/api\/getNewAdInfo - reject
+^https?:\/\/t7z\.cupid\.iqiyi\.com\/mixer\? - reject
+
+# >> JD
+^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/ - reject
+^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=start - reject
+^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/base\/na\/m\/adInfo - reject
+
+# >> Jiemian
+^https?:\/\/img\.jiemian\.com\/ads\/ - reject
+
+# >> JXEDT
+^https?:\/\/api\.jxedt\.com\/ad\/ - reject
+^https?:\/\/richmanapi\.jxedt\.com\/api\/ad\/ - reject
+
+# >> Keep
+^https?:\/\/static1\.keepcdn\.com\/.+\d{3}x\d{4} - reject
+^https?:\/\/api\.gotokeep\.com\/ads\/ - reject
+
+# >> KFC
+^https?:\/\/res\.kfc\.com\.cn\/advertisement\/ - reject
+
+# >> Kingsoft
+^https?:/\/\counter\.ksosoft.com\/ad\.php - reject
+^https?:\/\/.+\.kingsoft-office-service\.com\/ad - reject
+^https?:\/\/counter\.ksosoft\.com\/ad\.php - reject
+^https?:\/\/dict-mobile\.iciba\.com\/interface\/index\.php\?.+(c=ad|collectFeedsAdShowCount|KSFeedsAdCardViewController) - reject
+^https?:\/\/ios\.wps\.cn\/ad-statistics-service - reject
+^https?:\/\/mobile-pic\.cache\.iciba\.com\/feeds_ad\/ - reject
+^https?:\/\/service\.iciba\.com\/popo\/open\/screens\/v\d\?adjson - reject
+
+# >> KouBei
+^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.o2o\.ad\.gateway\.get\/ - reject
+^https?:\/\/render\.alipay\.com\/p\/s\/h5data\/prod\/spring-festival-2019-h5data\/popup-h5data\.json - reject
+
+# >> Kuaikan Comic
+^https?:\/\/api\.kkmh\.com\/.+(ad|advertisement)\/ - reject
+
+# >> Kuwo
+^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/EcomResourceServer/AdPlayPage/adinfo - reject
+^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/MobileAdServer\/ - reject
+
+# >> Le
+^https?:\/\/.+\/letv-gug\/ - reject
+
+# >> Luckin Coffee
+^https?:\/\/.+\/resource\/m\/promo\/adsense - reject
+^https?:\/\/.+\/resource\/m\/sys\/app\/adpos - reject
+
+# >> MaFengWo
+^https?:\/\/mapi\.mafengwo\.cn\/ad\/ - reject
+^https?:\/\/mapi\.mafengwo\.cn\/travelguide\/ad\/ - reject
+
+# >> Mahua Video
+^https?:\/\/.+\/api\/app\/member\/ver2\/user\/login\/ - reject
+
+
+# >> Maiduidui
+^https?:\/\/mob\.mddcloud\.com\.cn\/api\/(ad|advert)\/ - reject
+
+# >> Manhuaren
+^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/public\/getStartPageAds - reject
+
+
+# >> Meituan
+^https?:\/\/img\.meituan\.net\/midas\/ - reject
+^https?:\/\/p([0-9])\.meituan\.net\/(mmc|wmbanner)\/ - reject
+^https?:\/\/p\d{1}\.meituan\.net\/(adunion|display|linglong|mmc|wmbanner)\/ - reject
+^https?:\/\/s3plus\.meituan\.net\/.+\/linglong\/ - reject
+
+# >> Meiweibuyongdeng
+^https?:\/\/capi.mwee.cn/app-api/V12/app/getstartad - reject
+
+# >> MI
+^https?:\/\/api\.m\.mi\.com\/v\d\/app\/start - reject
+^https?:\/\/api\.jr\.mi\.com\/v\d\/adv\/ - reject
+^https?:\/\/api\.jr\.mi\.com\/jr\/api\/playScreen - reject
+
+# >> MI Fit
+^https?:\/\/api-mifit\.huami\.com\/discovery\/mi\/discovery\/homepage_ad\? - reject
+^https?:\/\/api-mifit\.huami\.com\/discovery\/mi\/discovery\/sleep_ad\? - reject
+^https?:\/\/api-mifit\.huami\.com\/discovery\/mi\/discovery\/sport_ad\? - reject
+^https?:\/\/api-mifit\.huami\.com\/discovery\/mi\/discovery\/sport_summary_ad\? - reject
+^https?:\/\/api-mifit\.huami\.com\/discovery\/mi\/discovery\/sport_training_ad\? - reject
+^https?:\/\/api-mifit\.huami\.com\/discovery\/mi\/discovery\/step_detail_ad\? - reject
+^https?:\/\/api-mifit\.huami\.com\/discovery\/mi\/discovery\/training_video_ad\? - reject
+
+# >> Miaopai
+^https?:\/\/b-api\.ins\.miaopai\.com\/1\/ad/ - reject
+
+# >> MIgu
+^https?:\/\/.+\/v\d\/iflyad\/ - reject
+^https?:\/\/.+\/cdn-adn\/ - reject
+^https?:\/\/ggic\.cmvideo\.cn\/ad\/ - reject
+^https?:\/\/ggic2\.cmvideo\.cn\/ad\/ - reject
+^https?:\/\/.+/img\/ad\.union\.api\/ - reject
+
+# >> MixC
+^https?:\/\/app\.mixcapp\.com\/mixc\/api\/v\d\/ad - reject
+
+# >> MogoRenter
+^https?:\/\/api\.mgzf\.com\/renter-operation\/home\/startHomePage - reject
+
+# >> MojiWeather
+^https?:\/\/cdn\.moji\.com\/(adoss|adlink)\/ - reject
+
+# >> Myhug
+^https?:\/\/www\.myhug\.cn\/ad\/ - reject
+
+# >> NationalGeographic
+^https?:\/\/dili\.bdatu\.com\/jiekou\/ad\/ - reject
+
+# >> NationalGeographicChina
+^https?:\/\/wap\.ngchina\.cn\/news\/adverts\/ - reject
+
+# >> NetEase
+^https?:\/\/.+\/eapi\/(ad|log)\/ - reject
+^https?:\/\/client\.mail\.163\.com\/apptrack\/confinfo\/searchMultiAds - reject
+^https?:\/\/c\.m\.163\.com\/nc\/gl\/ - reject
+^https?:\/\/dsp-impr2\.youdao\.com\/adload.s\? - reject
+^https?:\/\/oimage([a-z])([0-9])\.ydstatic\.com\/.+adpublish - reject
+^https?:\/\/sp\.kaola\.com\/api\/openad - reject
+^https?:\/\/support\.you\.163\.com\/xhr\/boot\/getBootMedia\.json - reject
+
+# >> ofo
+^https?:\/\/supportda\.ofo\.com\/adaction\? - reject
+^https?:\/\/ma\.ofo\.com\/ads\/ - reject
+^https?:\/\/activity2\.api\.ofo\.com\/ofo\/Api\/v\d\/ads - reject
+^https?:\/\/ma\.ofo\.com\/adImage\/ - reject
+
+# >> PConline
+^https?:\/\/agent-count\.pconline\.com\.cn\/counter\/adAnalyse\/ - reject
+^https?:\/\/mrobot\.pcauto\.com\.cn\/v\d\/ad2p - reject
+^https?:\/\/mrobot\.pcauto\.com\.cn\/xsp\/s\/auto\/info\/preload\.xsp - reject
+^https?:\/\/mrobot\.pconline\.com\.cn\/s\/onlineinfo\/ad\/ - reject
+^https?:\/\/mrobot\.pconline\.com\.cn\/v\d\/ad2p - reject
+
+# >> PeanutWiFiMpass
+^https?:\/\/cmsapi\.wifi8\.com\/v\d{1}\/(emptyAd|adNew)\/ - reject
+
+# >> Qdaily
+^https?:\/\/app3\.qdaily\.com\/app3\/boot_advertisements\.json - reject
+^https?:\/\/notch\.qdaily\.com\/api\/v\d\/boot_ad - reject
+
+# >> Qiongou
+^https?:\/\/media\.qyer\.com\/ad\/ - reject
+^https?:\/\/open\.qyer.com\/qyer\/config\/get - reject
+^https?:\/\/open\.qyer\.com\/qyer\/startpage\/ - reject
+
+# >> Qiuduoduo
+^https?:\/\/api\.qiuduoduo\.cn\/guideimage - reject
+
+# >> Renren Video
+^https?:\/\/api\.rr\.tv\/ad\/ - reject
+^https?:\/\/api\.videozhishi\.com\/api\/getAdvertising - reject
+^https?:\/\/msspjh\.emarbox\.com\/getAdConfig - reject
+
+# >> ShiHuo
+^https?:\/\/www\.shihuo\.cn\/app3\/saveAppInfo - reject
+
+# >> 首汽约车
+^https?:\/\/gw-passenger\.01zhuanche\.com\/gw-passenger\/car-rest\/webservice\/passenger\/recommendADs - reject
+^https?:\/\/gw-passenger\.01zhuanche\.com\/gw-passenger\/zhuanche-passenger-token\/leachtoken\/webservice\/homepage\/queryADs - reject
+
+# >> Sina
+^https?:\/\/edit\.sinaapp\.com\/ua\?t=adv - reject
+
+# >> Sina Weather
+^https?:\/\/tqt\.weibo\.cn\/.+advert\.index - reject
+^https?:\/\/tqt\.weibo\.cn\/api\/advert\/ - reject
+^https?:\/\/tqt\.weibo\.cn\/overall\/redirect\.php\?r=tqtad - reject
+^https?:\/\/tqt\.weibo\.cn\/overall\/redirect\.php\?r=tqt_sdkad - reject
+
+# >> Sina Weibo
+^https?:\/\/sdkapp\.uve\.weibo\.com\/interface\/sdk\/sdkad\.php - reject
+^https?:\/\/wbapp\.uve\.weibo\.com\/wbapplua\/wbpullad\.lua - reject
+^https?:\/\/sdkapp\.uve\.weibo\.com/\interface\/sdk\/actionad\.php - reject
+
+# >> SMZDM
+^https?:\/\/api\.smzdm\.com\/v\d\/util\/loading - reject
+
+# >> Snail Sleep
+^https?:\/\/snailsleep\.net\/snail\/v\d\/adTask\/ - reject
+^https?:\/\/snailsleep\.net\/snail\/v\d\/screen\/qn\/get\? - reject
+
+# >> Sohu
+^https?:\/\/api\.k\.sohu\.com\/api\/news\/adsense - reject
+^https?:\/\/api\.tv\.sohu\.com\/agg\/api\/app\/config\/bootstrap - reject
+^https?:\/\/hui\.sohu\.com\/predownload2/\? - reject
+^https?:\/\/pic\.k\.sohu\.com\/img8\/wb\/tj\/ - reject
+^https?:\/\/s1\.api\.tv\.itc\.cn\/v\d\/mobile\/control\/switch\.json - reject
+
+# >> StarFans
+^https?:\/\/a\.sfansclub\.com\/business\/t\/ad\/ - reject
+^https?:\/\/a\.sfansclub\.com\/business\/t\/boot\/screen\/index - reject
+
+# >> TaPiaoPiao
+^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.film\.mtopadvertiseapi\.queryadvertise\/ - reject
+
+# >> Tencent Futu Securities
+^https?:\/\/api5\.futunn\.com\/ad\/ - reject
+
+# >> Tencent Game
+^https?:\/\/qt\.qq\.com\/lua\/mengyou\/get_splash_screen_info - reject
+^https?:\/\/ssl\.kohsocialapp\.qq\.com:10001\/game\/buttons - reject
+
+# >> Tencent Maps
+^https?:\/\/3gimg\.qq\.com\/tencentMapTouch\/app\/activity\/ - reject
+^https?:\/\/newsso\.map\.qq\.com\/\?&attime= - reject
+
+# >> Tencent News
+^https?:\/\/r\.inews\.qq\.com\/adsBlacklist - reject
+^https?:\/\/r\.inews\.qq\.com\/getFullScreenPic - reject
+^https?:\/\/r\.inews\.qq\.com\/getQQNewsRemoteConfig - reject
+
+# >> Tencent QQLive
+^https?:\/\/.+\.mp4\?cdncode=.+&guid= - reject
+^https?:\/\/.+\.mp4\?cdncode=.+&sdtfrom=v3004 - reject
+^https?:\/\/btrace.qq.com - reject
+^https?:\/\/vv\.video\.qq\.com\/getvmind\? - reject
+
+# >> Tencent WeChat
+^https?:\/\/mp\.weixin\.qq.com\/mp\/advertisement_report - reject
+^https?:\/\/mp\.weixin\.qq.com\/mp\/ad_complaint - reject
+^https?:\/\/mp\.weixin\.qq.com\/mp\/ad_video - reject
+
+# >> The Paper
+^https?:\/\/adpai\.thepaper\.cn\/.+&ad= - reject
+
+# >> Thunder
+^https?:\/\/images\.client\.vip\.xunlei\.com\/.+\/advert\/ - reject
+
+# >> tskscn
+^https?:\/\/47\.97\.20\.12\/ad\/ - reject
+
+# >> TV_Home
+^https?:\/\/api\.gaoqingdianshi\.com\/api\/v\d\/ad\/ - reject
+
+# >> txffp
+^https?:\/\/pss\.txffp\.com\/piaogen\/images\/launchScreen/ - reject
+
+# >> UC
+^https?:\/\/huichuan\.sm\.cn\/jsad - reject
+^https?:\/\/iflow\.uczzd\.cn\/log\/ - reject
+
+# >> Variflight
+^https:\/\/app\.variflight\.com\/v4\/advert\/ - reject
+
+# >> VUE
+^https?:\/\/static\.vuevideo\.net\/styleAssets\/.+\/splash_ad - reject
+^https?:\/\/static\.vuevideo\.net\/styleAssets\/advertisement\/ - reject
+
+# >> WallStreetCN
+^https?:\/\/api\.wallstreetcn\.com\/apiv\d\/advertising\/ - reject
+
+# >> WeDoctor
+^https?:\/\/app\.wy\.guahao\.com\/json\/white\/dayquestion\/getpopad - reject
+
+# >> Weico
+^https?:\/\/overseas\.weico\.cc/portal\.php\?a=get_coopen_ads - reject
+
+# >> WeiDian
+^https?:\/\/thor\.weidian\.com\/ares\/home\.splash\/ - reject
+
+# >> WiFi Share Master
+^https?:\/\/nochange\.ggsafe\.com\/ad\/ - reject
+
+# >> WIFI8
+^https?:\/\/cmsapi\.wifi8\.com\/v\d\/emptyAd\/info - reject
+^https?:\/\/cmsapi\.wifi8\.com\/v\d\/adNew\/config - reject
+
+# >> Wuta Cam
+^https?:\/\/api-release\.wuta-cam\.com\/ad_tree - reject
+^https?:\/\/res-release\.wuta-cam\.com\/json\/ads_component_cache\.json - reject
+
+# >> Xiachufang
+^https?:\/\/api\.xiachufang\.com\/v\d\/ad/ - reject
+
+# >> Xiami music
+^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alimusic\.common\.mobileservice\.startinit\/ - reject
+
+# >> Xianyu
+^https?:\/\/gw\.alicdn\.com\/mt\/ - reject
+^https?:\/\/gw\.alicdn\.com\/tfs\/.+\d{3,4}-\d{4} - reject
+^https?:\/\/gw\.alicdn\.com\/tps\/.+\d{3,4}-\d{4} - reject
+
+# >> Xiao Shuimian
+^https?:\/\/api\.psy-1\.com\/cosleep\/startup - reject
+
+# >> Ximalaya
+^https?:\/\/adse.+\.com\/[a-z]{4}\/loading\?appid= - reject
+^https?:\/\/adse\.ximalaya\.com\/ting\/feed\?appid= - reject
+^https?:\/\/adse\.ximalaya\.com\/ting\/loading\?appid= - reject
+^https?:\/\/adse\.ximalaya\.com\/ting\?appid= - reject
+^https?:\/\/fdfs\.xmcdn\.com\/group21\/M03\/E7\/3F\/ - reject
+^https?:\/\/fdfs\.xmcdn\.com\/group21\/M0A\/95\/3B\/ - reject
+^https?:\/\/fdfs\.xmcdn\.com\/group22\/M00\/92\/FF\/ - reject
+^https?:\/\/fdfs\.xmcdn\.com\/group22\/M05\/66\/67\/ - reject
+^https?:\/\/fdfs\.xmcdn\.com\/group22\/M07\/76\/54\/ - reject
+^https?:\/\/fdfs\.xmcdn\.com\/group23\/M01\/63\/F1\/ - reject
+^https?:\/\/fdfs\.xmcdn\.com\/group23\/M04\/E5\/F6\/ - reject
+^https?:\/\/fdfs\.xmcdn\.com\/group23\/M07\/81\/F6\/ - reject
+^https?:\/\/fdfs\.xmcdn\.com\/group23\/M0A\/75\/AA\/ - reject
+^https?:\/\/fdfs\.xmcdn\.com\/group24\/M03\/E6\/09\/ - reject
+^https?:\/\/fdfs\.xmcdn\.com\/group24\/M07\/C4\/3D\/ - reject
+^https?:\/\/fdfs\.xmcdn\.com\/group25\/M05\/92\/D1\/ - reject
+
+# >> Xunyou Booster
+^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d\/ios\/configs\/(splash_ad|ad_urls) - reject
+^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d{1}\/ios\/ads\/ - reject
+
+# >> Yahoo!
+^https?:\/\/m\.yap\.yahoo\.com\/v18\/getAds\.do - reject
+
+# >> Yingshi Cloud Video
+^https?:\/\/i\.ys7\.com\/api\/ads - reject
+
+# >> YOUKU
+^https?:\/\/.+\.mp4\?ccode=0902 - reject
+^https?:\/\/.+\.mp4\?sid= - reject
+
+# >> Youtube++
+^https?:\/\/api\.catch\.gift\/api\/v\d\/pagead\/ - reject
+
+# >> Yundongshijie
+^https?:\/\/.+\.iydsj\.com\/api\/.+\/ad - reject
+
+# >> YYeTs
+^https?:\/\/ctrl\.(playcvn|zmzapi)\.(com|net)\/app\/(ads|init) - reject
+
+# >> Zhiboba
+^https?:\/\/a\.qiumibao\.com\/activities\/config\.php - reject
+^https?:\/\/.+\/allOne\.php\?ad_name - reject
+
+# >> Zhihu
+^https?:\/\/api\.zhihu\.com\/launch - reject
+^https?:\/\/api\.zhihu\.com\/real_time_launch - reject
+^https?:\/\/www\.zhihu\.com\/api\/v\d\/community-ad\/ - reject
+
+# >> Zhuishushenqi
+^https?:\/\/(api|b)\.zhuishushenqi\.com\/advert - reject
+^https?:\/\/api01pbmp\.zhuishushenqi\.com\/gameAdvert - reject
+^https?:\/\/api\.zhuishushenqi\.com\/notification\/shelfMessage - reject
+^https?:\/\/api\.zhuishushenqi\.com\/notification\/shelfMessage - reject
+^https?:\/\/api\.zhuishushenqi\.com\/recommend - reject
+^https?:\/\/api\.zhuishushenqi\.com\/splashes\/ios - reject
+^https?:\/\/api\.zhuishushenqi\.com\/user\/bookshelf-updated - reject
+^https?:\/\/b\.zhuishushenqi\.com\/advert - reject
+^https?:\/\/dspsdk\.abreader\.com\/v\d\/api\/ad\? - reject
+^https?:\/\/itunes\.apple\.com\/lookup\?id=575826903 - reject
+^https?:\/\/mi\.gdt\.qq\.com\/gdt_mview\.fcg - reject
+
+[Script]
+# 微博去广告
+http-response ^https?://(sdk|wb)app\.uve\.weibo\.com(/interface/sdk/sdkad.php|/wbapplua/wbpullad.lua) requires-body=1,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/wb_launch.js
+http-response ^https?://m?api\.weibo\.c(n|om)/2/(statuses/(unread|extend|positives/get|(friends|video)(/|_)(mix)?timeline)|stories/(video_stream|home_list)|(groups|fangle)/timeline|profile/statuses|comments/build_comments|photo/recommend_list|service/picfeed|searchall|cardlist|page|!/photos/pic_recommend_status) requires-body=1,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/wb_ad.js
+
+# Netflix评分
+http-request ^https?://ios\.prod\.ftl\.netflix\.com/iosui/user/.+path=%5B%22videos%22%2C%\d+%22%2C%22summary%22%5D script-path=https://raw.githubusercontent.com/yichahucha/surge/master/nf_rating.js
+http-response ^https?://ios\.prod\.ftl\.netflix\.com/iosui/user/.+path=%5B%22videos%22%2C%\d+%22%2C%22summary%22%5D requires-body=1,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/nf_rating.js
+
+# JD历史价格
+http-response ^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig) requires-body=1,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/jd_price.js
+
+# 淘宝历史价格
+http-request ^http://.+/amdc/mobileDispatch requires-body=1,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/tb_price.js
+http-response ^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail requires-body=1,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/tb_price.js
+
+[MITM]
+enable = false
+tcp-connection = false
+skip-server-cert-verify = true
+hostname = *.abema.tv, *.amemv.com, *.chelaile.net.cn, *.didistatic.com, *.google-analytics.com, *.googlevideo.com, *.iydsj.com, *.k.sohu.com, *.kfc.com, *.kingsoft-office-service.com, *.meituan.net, *.ofo.com, *.pixiv.net, *.pstatp.com, *.rixcloudservice.com, *.snssdk.com, *.uve.weibo.com, *.wikipedia.org, *.wikiwand.com, *.ydstatic.com, *.youdao.com, *.youtube.com, *.zhuishushenqi.com, 119.18.193.135, 123.59.31.1, 153.3.236.81, 180.101.212.22, 218.11.3.70, 59.151.53.6, a.apicloud.com, a.applovin.com, a.qiumibao.com, a.sfansclub.com, a.wkanx.com, abema.tv, acs.m.taobao.com, act.vip.iqiyi.com, adse.ximalaya.com, api*.amemv.com, api*.musical.ly, api*.tiktokv.com, api-release.wuta-cam.com, api.abema.io, api.bilibili.com, api.daydaycook.com.cn, api.gotokeep.com, api.intsig.net, api.jr.mi.com, api.jxedt.com, api.kkmh.com, api.m.jd.com, api.mgzf.com, api.psy-1.com, api.rr.tv, api.smzdm.com, api.tv.sohu.com, api.wallstreetcn.com, api.weibo.cn, api.xiachufang.com, api.zhihu.com, api.zhuishushenqi.com, api5.futunn.com, app.10086.cn, app.58.com, app.api.ke.com, app.bilibili.com, app.mixcapp.com, app.variflight.com, app.wy.guahao.com, b.zhuishushenqi.com, c.m.163.com, cap.caocaokeji.cn, capi.mwee.cn, cdn.moji.com, channel.beitaichufang.com, client.mail.163.com, cms.daydaycook.com.cn, dspsdk.abreader.com, fdfs.xmcdn.com, gateway.shouqiev.com, gw-passenger.01zhuanche.com, gw.alicdn.com, huichuan.sm.cn, i.weread.qq.com, i.ys7.com, iapi.bishijie.com, iface.iqiyi.com, img*.doubanio.com, img.jiemian.com, interface.music.163.com, ios.wps.cn, m*.amap.com, m.client.10010.com, m.creditcard.ecitic.com, m.ibuscloud.com, m.yap.yahoo.com, mapi.mafengwo.cn, mapi.weibo.com, media.qyer.com, mi.gdt.qq.com, mob.mddcloud.com.cn, mobile-api2011.elong.com, mp.weixin.qq.com, mrobot.pcauto.com.cn, mrobot.pconline.com.cn, ms.jr.jd.com, msspjh.emarbox.com, newsso.map.qq.com, nnapp.cloudbae.cn, open.qyer.com, portal-xunyou.qingcdn.com, pss.txffp.com, r.inews.qq.com, render.alipay.com, res-release.wuta-cam.com, richmanapi.jxedt.com, service.4gtv.tv, smkmp.96225.com, snailsleep.net, sp.kaola.com, ssl.kohsocialapp.qq.com, static.vuevideo.net, static1.keepcdn.com, support.you.163.com, thor.weidian.com, www.dandanzan.com, www.flyertea.com, www.zhihu.com, youtubei.googleapis.com, zhidao.baidu.com, *.music.163.com, *.music.126.net, music.163.com, music.126.net, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, ios.prod.ftl.netflix.com, api.m.jd.com, trade-acs.m.taobao.com, api.gotokeep.com
+ca-passphrase = rixCloudPKI
+ca-p12 = MIIEWgIBAzCCBCAGCSqGSIb3DQEHAaCCBBEEggQNMIIECTCCAv8GCSqGSIb3DQEHBqCCAvAwggLsAgEAMIIC5QYJKoZIhvcNAQcBMBwGCiqGSIb3DQEMAQYwDgQIEbxT6Tq17dsCAggAgIICuCzGa3ovYwnv6OIzJLkSKyAFypSmJ8KTBPyai2s1heOTIf3PoC0aSml1Q0blJ2R9tAEJMS3SoM4PjNK6q6nGycAgx1dIUFEQG7DEQebVP0XHHK6uNyRPqgXPrhCXjqZSOLhpcsg4BfLRjf0S0fquZySAi7kn5IXUo1fUey2r/36UkT8imBHPsUSsllryK5dXBQAwJtPYGl7nV50F/LA58ckv5pT+gDS4vVvUAytPfoqTDPCUEMzrZkXu7ZP/6YP+DeUgLXFvEubSkmrEeztJoC2GozClPNtRHfbMzA/jTH1/lOZ1zDdvrNheDLgP8CBv/mawNy4dxrJozfOcdEiWdLAMp8PmcXvaY9sNVlYYP+ztIMA/oaIHEycsOvx1PxMU2i8s/SIZBDszdHgRqKC6fVJxcrv0qtYdUlmfGKWt85LeB7JPXlmfs6ovGrZuc9y2WNnq2cbPmZuKbdxB5j/oM8jA6fLO9Z1MZDEXo42CgU7ZONjK8/bLG5J3wlI4DnC6HYwk3hSUWRBFpjNkRlUhZZWwMsfjBmYG9/hvDF7aGCeBDwm/euWLz9lGuUqRs5F11YhRL2dhOHC2mB4fhsSGbsgOps15fsuUydheYbU12hkGfYQSNsVi0d1GiGIsdiEtrYhXAWnY6DfGPERbhYvwlPSUAvdgWltC/BYgVMM//y3PwCVhcjEfYOK6k3ZNLuIc4Nebk2FPI7u0eXCk0Pi/RiSlOiBO79B2jpEdpyQbEDYAvetEsmaU6M8SZMMHnupNET/Sy+LlpFhRDSRcQndHpBkw166rM+6H3IHewJyYZBNvesltVBuSGtmJx57QI63CgCTUiu/UmWlHKmGuK5pHbMJlkREWJnVYqT3WIoB7MCX19bhLWxfbcLO+pipr8jrrjUF0skOLwg7HxnqHDk6oLyN4eLgn3Kr70zCCAQIGCSqGSIb3DQEHAaCB9ASB8TCB7jCB6wYLKoZIhvcNAQwKAQKggbQwgbEwHAYKKoZIhvcNAQwBAzAOBAgCgEDjD1kMngICCAAEgZCwn6xW0rtwHctlMsJw20caSgWcFTLcNBTgISSri2XLMeJfvygcgFbO7/zT64stk1tVZRktjAX/fELsFp4Xw/UspdVG6CgsRE7QcY+CT8wn6dvusvU2mv3KpI7NwrXmUMsKNbW5N8Qh37WYTCg5mvA7jFAazC+RnKgoMvMVnQbuT1CMJ3in7lPIsPTW3ub0188xJTAjBgkqhkiG9w0BCRUxFgQU8ZGlcfqIeitY4nkiNU7TX5gEi6MwMTAhMAkGBSsOAwIaBQAEFCBiCE2z1g+P8yPQTFy79/Pahq/lBAixZy/UGOLmVQICCAA=
+
+[Proxy]
+DIRECT = direct
+🇺🇸 美国SANYIMOE节点(ipv6)_1 = vmess, 2001:470:1f04:89d:398a:9200:15dc:efd8, 20003, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:398a:9200:15dc:efd8, ws-headers=Host:2001:470:1f04:89d:398a:9200:15dc:efd8, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_2 = vmess, 2001:470:1f04:89d:498:63dd:95db:18a1, 20004, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:498:63dd:95db:18a1, ws-headers=Host:2001:470:1f04:89d:498:63dd:95db:18a1, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_3 = vmess, 2001:470:1f04:89d:c1ef:8781:2941:a7fd, 20005, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:c1ef:8781:2941:a7fd, ws-headers=Host:2001:470:1f04:89d:c1ef:8781:2941:a7fd, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_4 = vmess, 2001:470:1f04:89d:7046:7471:1819:afda, 20006, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:7046:7471:1819:afda, ws-headers=Host:2001:470:1f04:89d:7046:7471:1819:afda, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_5 = vmess, 2001:470:1f04:89d:6e5c:361d:83a9:b46c, 20007, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:6e5c:361d:83a9:b46c, ws-headers=Host:2001:470:1f04:89d:6e5c:361d:83a9:b46c, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_6 = vmess, 2001:470:1f04:89d:53de:4b4f:838d:c638, 20008, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:53de:4b4f:838d:c638, ws-headers=Host:2001:470:1f04:89d:53de:4b4f:838d:c638, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_7 = vmess, 2001:470:1f04:89d:10bc:9539:b1a1:5a7f, 20009, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:10bc:9539:b1a1:5a7f, ws-headers=Host:2001:470:1f04:89d:10bc:9539:b1a1:5a7f, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_8 = vmess, 2001:470:1f04:89d:95cc:d403:7a57:fd9d, 20010, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:95cc:d403:7a57:fd9d, ws-headers=Host:2001:470:1f04:89d:95cc:d403:7a57:fd9d, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_9 = vmess, 2001:470:1f04:89d:60c5:ea69:b3f8:29f9, 20011, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:60c5:ea69:b3f8:29f9, ws-headers=Host:2001:470:1f04:89d:60c5:ea69:b3f8:29f9, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_10 = vmess, 2001:470:1f04:89d:2a1:d949:4aa5:eeed, 20012, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:2a1:d949:4aa5:eeed, ws-headers=Host:2001:470:1f04:89d:2a1:d949:4aa5:eeed, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_11 = vmess, 2001:470:1f04:89d:1579:c8c2:e6f0:d54f, 20013, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:1579:c8c2:e6f0:d54f, ws-headers=Host:2001:470:1f04:89d:1579:c8c2:e6f0:d54f, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_12 = vmess, 2001:470:1f04:89d:4e0b:4db5:d82e:fc04, 20014, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:4e0b:4db5:d82e:fc04, ws-headers=Host:2001:470:1f04:89d:4e0b:4db5:d82e:fc04, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_13 = vmess, 2001:470:1f04:89d:d435:d206:f179:fd1b, 20015, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:d435:d206:f179:fd1b, ws-headers=Host:2001:470:1f04:89d:d435:d206:f179:fd1b, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_14 = vmess, 2001:470:1f04:89d:2f43:df4c:1d3d:4440, 20016, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:2f43:df4c:1d3d:4440, ws-headers=Host:2001:470:1f04:89d:2f43:df4c:1d3d:4440, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_15 = vmess, 2001:470:1f04:89d:eadc:9f1f:66d2:7394, 20017, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:eadc:9f1f:66d2:7394, ws-headers=Host:2001:470:1f04:89d:eadc:9f1f:66d2:7394, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_16 = vmess, 2001:470:1f04:89d:d4fe:7fd6:9dd3:a689, 20018, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:d4fe:7fd6:9dd3:a689, ws-headers=Host:2001:470:1f04:89d:d4fe:7fd6:9dd3:a689, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_17 = vmess, 2001:470:1f04:89d:f868:de40:b001:e320, 20019, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:f868:de40:b001:e320, ws-headers=Host:2001:470:1f04:89d:f868:de40:b001:e320, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_18 = vmess, 2001:470:1f04:89d:7cbc:b809:779b:690e, 20020, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:7cbc:b809:779b:690e, ws-headers=Host:2001:470:1f04:89d:7cbc:b809:779b:690e, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_19 = vmess, 2001:470:1f04:89d:5061:8e22:fdc3:95c5, 20021, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:5061:8e22:fdc3:95c5, ws-headers=Host:2001:470:1f04:89d:5061:8e22:fdc3:95c5, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_20 = vmess, 2001:470:1f04:89d:daac:5505:60ba:8d72, 20022, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:daac:5505:60ba:8d72, ws-headers=Host:2001:470:1f04:89d:daac:5505:60ba:8d72, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_21 = vmess, 2001:470:1f04:89d:6bfd:c837:9ede:4748, 20023, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:6bfd:c837:9ede:4748, ws-headers=Host:2001:470:1f04:89d:6bfd:c837:9ede:4748, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_22 = vmess, 2001:470:1f04:89d:e9be:b10f:ead8:bab8, 20024, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:e9be:b10f:ead8:bab8, ws-headers=Host:2001:470:1f04:89d:e9be:b10f:ead8:bab8, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_23 = vmess, 2001:470:1f04:89d:5e91:bbab:bebf:4bb7, 20025, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:5e91:bbab:bebf:4bb7, ws-headers=Host:2001:470:1f04:89d:5e91:bbab:bebf:4bb7, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_24 = vmess, 2001:470:1f04:89d:9463:705f:2614:8f5e, 20026, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:9463:705f:2614:8f5e, ws-headers=Host:2001:470:1f04:89d:9463:705f:2614:8f5e, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_25 = vmess, 2001:470:1f04:89d:c611:8d4c:5baf:f1d2, 20027, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:c611:8d4c:5baf:f1d2, ws-headers=Host:2001:470:1f04:89d:c611:8d4c:5baf:f1d2, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_26 = vmess, 2001:470:1f04:89d:e182:4b2f:246d:2df9, 20028, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:e182:4b2f:246d:2df9, ws-headers=Host:2001:470:1f04:89d:e182:4b2f:246d:2df9, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_27 = vmess, 2001:470:1f04:89d:2a96:fee:3bd1:8374, 20029, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:2a96:fee:3bd1:8374, ws-headers=Host:2001:470:1f04:89d:2a96:fee:3bd1:8374, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_28 = vmess, 2001:470:1f04:89d:9363:1df4:9d0:9723, 20030, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:9363:1df4:9d0:9723, ws-headers=Host:2001:470:1f04:89d:9363:1df4:9d0:9723, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_29 = vmess, 2001:470:1f04:89d:ee33:8a87:9d18:9125, 20031, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:ee33:8a87:9d18:9125, ws-headers=Host:2001:470:1f04:89d:ee33:8a87:9d18:9125, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_30 = vmess, 2001:470:1f04:89d:b278:8973:55f1:412b, 20032, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:b278:8973:55f1:412b, ws-headers=Host:2001:470:1f04:89d:b278:8973:55f1:412b, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_31 = vmess, 2001:470:1f04:89d:e48b:4c89:d63b:1562, 20033, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:e48b:4c89:d63b:1562, ws-headers=Host:2001:470:1f04:89d:e48b:4c89:d63b:1562, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_32 = vmess, 2001:470:1f04:89d:4185:5efa:ff03:af3, 20034, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:4185:5efa:ff03:af3, ws-headers=Host:2001:470:1f04:89d:4185:5efa:ff03:af3, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_33 = vmess, 2001:470:1f04:89d:ec84:dabf:2724:c8ed, 20035, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:ec84:dabf:2724:c8ed, ws-headers=Host:2001:470:1f04:89d:ec84:dabf:2724:c8ed, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_34 = vmess, 2001:470:1f04:89d:3644:9a4e:376f:1936, 20036, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:3644:9a4e:376f:1936, ws-headers=Host:2001:470:1f04:89d:3644:9a4e:376f:1936, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_35 = vmess, 2001:470:1f04:89d:cb4b:c8c4:704e:e9c0, 20037, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:cb4b:c8c4:704e:e9c0, ws-headers=Host:2001:470:1f04:89d:cb4b:c8c4:704e:e9c0, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_36 = vmess, 2001:470:1f04:89d:f833:6eb0:a0dc:d83a, 20038, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:f833:6eb0:a0dc:d83a, ws-headers=Host:2001:470:1f04:89d:f833:6eb0:a0dc:d83a, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_37 = vmess, 2001:470:1f04:89d:3d1b:8395:ecea:3d01, 20039, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:3d1b:8395:ecea:3d01, ws-headers=Host:2001:470:1f04:89d:3d1b:8395:ecea:3d01, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_38 = vmess, 2001:470:1f04:89d:6f3f:8fcd:da00:7833, 20040, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:6f3f:8fcd:da00:7833, ws-headers=Host:2001:470:1f04:89d:6f3f:8fcd:da00:7833, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_39 = vmess, 2001:470:1f04:89d:3271:c35a:8373:71b3, 20041, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:3271:c35a:8373:71b3, ws-headers=Host:2001:470:1f04:89d:3271:c35a:8373:71b3, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_40 = vmess, 2001:470:1f04:89d:548d:7b2f:5d9f:2a6b, 20042, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:548d:7b2f:5d9f:2a6b, ws-headers=Host:2001:470:1f04:89d:548d:7b2f:5d9f:2a6b, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_41 = vmess, 2001:470:1f04:89d:33b9:1538:afed:a0b0, 20043, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:33b9:1538:afed:a0b0, ws-headers=Host:2001:470:1f04:89d:33b9:1538:afed:a0b0, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_42 = vmess, 2001:470:1f04:89d:9102:da23:10c3:a87a, 20044, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:9102:da23:10c3:a87a, ws-headers=Host:2001:470:1f04:89d:9102:da23:10c3:a87a, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_43 = vmess, 2001:470:1f04:89d:b9e6:8b6:293f:c1db, 20045, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:b9e6:8b6:293f:c1db, ws-headers=Host:2001:470:1f04:89d:b9e6:8b6:293f:c1db, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_44 = vmess, 2001:470:1f04:89d:3711:5db:4d73:b8af, 20046, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:3711:5db:4d73:b8af, ws-headers=Host:2001:470:1f04:89d:3711:5db:4d73:b8af, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_45 = vmess, 2001:470:1f04:89d:7084:4042:c6d2:c97b, 20047, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:7084:4042:c6d2:c97b, ws-headers=Host:2001:470:1f04:89d:7084:4042:c6d2:c97b, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_46 = vmess, 2001:470:1f04:89d:c565:6ff5:dc08:226c, 20048, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:c565:6ff5:dc08:226c, ws-headers=Host:2001:470:1f04:89d:c565:6ff5:dc08:226c, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_47 = vmess, 2001:470:1f04:89d:6af8:1639:71f0:7001, 20049, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:6af8:1639:71f0:7001, ws-headers=Host:2001:470:1f04:89d:6af8:1639:71f0:7001, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_48 = vmess, 2001:470:1f04:89d:6579:84d6:4dcf:a11d, 20050, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:6579:84d6:4dcf:a11d, ws-headers=Host:2001:470:1f04:89d:6579:84d6:4dcf:a11d, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_49 = vmess, 2001:470:1f04:89d:ecd2:d19c:1ed3:93ce, 20051, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:ecd2:d19c:1ed3:93ce, ws-headers=Host:2001:470:1f04:89d:ecd2:d19c:1ed3:93ce, skip-cert-verify=false, tfo=false
+🇺🇸 美国SANYIMOE节点(ipv6)_50 = vmess, 2001:470:1f04:89d:7664:5be4:a30c:5aff, 20052, username=a27183f4-20d4-4ed5-ab6e-27f4a8937dab, tls=false, vmess-aead=true, ws=true, ws-path=/ws, sni=2001:470:1f04:89d:7664:5be4:a30c:5aff, ws-headers=Host:2001:470:1f04:89d:7664:5be4:a30c:5aff, skip-cert-verify=false, tfo=false
+
+[Proxy Group]
+🚀 节点选择 = select,♻️ 自动选择,DIRECT,🇺🇸 美国SANYIMOE节点(ipv6)_1,🇺🇸 美国SANYIMOE节点(ipv6)_2,🇺🇸 美国SANYIMOE节点(ipv6)_3,🇺🇸 美国SANYIMOE节点(ipv6)_4,🇺🇸 美国SANYIMOE节点(ipv6)_5,🇺🇸 美国SANYIMOE节点(ipv6)_6,🇺🇸 美国SANYIMOE节点(ipv6)_7,🇺🇸 美国SANYIMOE节点(ipv6)_8,🇺🇸 美国SANYIMOE节点(ipv6)_9,🇺🇸 美国SANYIMOE节点(ipv6)_10,🇺🇸 美国SANYIMOE节点(ipv6)_11,🇺🇸 美国SANYIMOE节点(ipv6)_12,🇺🇸 美国SANYIMOE节点(ipv6)_13,🇺🇸 美国SANYIMOE节点(ipv6)_14,🇺🇸 美国SANYIMOE节点(ipv6)_15,🇺🇸 美国SANYIMOE节点(ipv6)_16,🇺🇸 美国SANYIMOE节点(ipv6)_17,🇺🇸 美国SANYIMOE节点(ipv6)_18,🇺🇸 美国SANYIMOE节点(ipv6)_19,🇺🇸 美国SANYIMOE节点(ipv6)_20,🇺🇸 美国SANYIMOE节点(ipv6)_21,🇺🇸 美国SANYIMOE节点(ipv6)_22,🇺🇸 美国SANYIMOE节点(ipv6)_23,🇺🇸 美国SANYIMOE节点(ipv6)_24,🇺🇸 美国SANYIMOE节点(ipv6)_25,🇺🇸 美国SANYIMOE节点(ipv6)_26,🇺🇸 美国SANYIMOE节点(ipv6)_27,🇺🇸 美国SANYIMOE节点(ipv6)_28,🇺🇸 美国SANYIMOE节点(ipv6)_29,🇺🇸 美国SANYIMOE节点(ipv6)_30,🇺🇸 美国SANYIMOE节点(ipv6)_31,🇺🇸 美国SANYIMOE节点(ipv6)_32,🇺🇸 美国SANYIMOE节点(ipv6)_33,🇺🇸 美国SANYIMOE节点(ipv6)_34,🇺🇸 美国SANYIMOE节点(ipv6)_35,🇺🇸 美国SANYIMOE节点(ipv6)_36,🇺🇸 美国SANYIMOE节点(ipv6)_37,🇺🇸 美国SANYIMOE节点(ipv6)_38,🇺🇸 美国SANYIMOE节点(ipv6)_39,🇺🇸 美国SANYIMOE节点(ipv6)_40,🇺🇸 美国SANYIMOE节点(ipv6)_41,🇺🇸 美国SANYIMOE节点(ipv6)_42,🇺🇸 美国SANYIMOE节点(ipv6)_43,🇺🇸 美国SANYIMOE节点(ipv6)_44,🇺🇸 美国SANYIMOE节点(ipv6)_45,🇺🇸 美国SANYIMOE节点(ipv6)_46,🇺🇸 美国SANYIMOE节点(ipv6)_47,🇺🇸 美国SANYIMOE节点(ipv6)_48,🇺🇸 美国SANYIMOE节点(ipv6)_49,🇺🇸 美国SANYIMOE节点(ipv6)_50
+♻️ 自动选择 = url-test,🇺🇸 美国SANYIMOE节点(ipv6)_1,🇺🇸 美国SANYIMOE节点(ipv6)_2,🇺🇸 美国SANYIMOE节点(ipv6)_3,🇺🇸 美国SANYIMOE节点(ipv6)_4,🇺🇸 美国SANYIMOE节点(ipv6)_5,🇺🇸 美国SANYIMOE节点(ipv6)_6,🇺🇸 美国SANYIMOE节点(ipv6)_7,🇺🇸 美国SANYIMOE节点(ipv6)_8,🇺🇸 美国SANYIMOE节点(ipv6)_9,🇺🇸 美国SANYIMOE节点(ipv6)_10,🇺🇸 美国SANYIMOE节点(ipv6)_11,🇺🇸 美国SANYIMOE节点(ipv6)_12,🇺🇸 美国SANYIMOE节点(ipv6)_13,🇺🇸 美国SANYIMOE节点(ipv6)_14,🇺🇸 美国SANYIMOE节点(ipv6)_15,🇺🇸 美国SANYIMOE节点(ipv6)_16,🇺🇸 美国SANYIMOE节点(ipv6)_17,🇺🇸 美国SANYIMOE节点(ipv6)_18,🇺🇸 美国SANYIMOE节点(ipv6)_19,🇺🇸 美国SANYIMOE节点(ipv6)_20,🇺🇸 美国SANYIMOE节点(ipv6)_21,🇺🇸 美国SANYIMOE节点(ipv6)_22,🇺🇸 美国SANYIMOE节点(ipv6)_23,🇺🇸 美国SANYIMOE节点(ipv6)_24,🇺🇸 美国SANYIMOE节点(ipv6)_25,🇺🇸 美国SANYIMOE节点(ipv6)_26,🇺🇸 美国SANYIMOE节点(ipv6)_27,🇺🇸 美国SANYIMOE节点(ipv6)_28,🇺🇸 美国SANYIMOE节点(ipv6)_29,🇺🇸 美国SANYIMOE节点(ipv6)_30,🇺🇸 美国SANYIMOE节点(ipv6)_31,🇺🇸 美国SANYIMOE节点(ipv6)_32,🇺🇸 美国SANYIMOE节点(ipv6)_33,🇺🇸 美国SANYIMOE节点(ipv6)_34,🇺🇸 美国SANYIMOE节点(ipv6)_35,🇺🇸 美国SANYIMOE节点(ipv6)_36,🇺🇸 美国SANYIMOE节点(ipv6)_37,🇺🇸 美国SANYIMOE节点(ipv6)_38,🇺🇸 美国SANYIMOE节点(ipv6)_39,🇺🇸 美国SANYIMOE节点(ipv6)_40,🇺🇸 美国SANYIMOE节点(ipv6)_41,🇺🇸 美国SANYIMOE节点(ipv6)_42,🇺🇸 美国SANYIMOE节点(ipv6)_43,🇺🇸 美国SANYIMOE节点(ipv6)_44,🇺🇸 美国SANYIMOE节点(ipv6)_45,🇺🇸 美国SANYIMOE节点(ipv6)_46,🇺🇸 美国SANYIMOE节点(ipv6)_47,🇺🇸 美国SANYIMOE节点(ipv6)_48,🇺🇸 美国SANYIMOE节点(ipv6)_49,🇺🇸 美国SANYIMOE节点(ipv6)_50,url=http://www.gstatic.com/generate_204,interval=300,tolerance=50
+🌍 国外媒体 = select,🚀 节点选择,♻️ 自动选择,🎯 全球直连,🇺🇸 美国SANYIMOE节点(ipv6)_1,🇺🇸 美国SANYIMOE节点(ipv6)_2,🇺🇸 美国SANYIMOE节点(ipv6)_3,🇺🇸 美国SANYIMOE节点(ipv6)_4,🇺🇸 美国SANYIMOE节点(ipv6)_5,🇺🇸 美国SANYIMOE节点(ipv6)_6,🇺🇸 美国SANYIMOE节点(ipv6)_7,🇺🇸 美国SANYIMOE节点(ipv6)_8,🇺🇸 美国SANYIMOE节点(ipv6)_9,🇺🇸 美国SANYIMOE节点(ipv6)_10,🇺🇸 美国SANYIMOE节点(ipv6)_11,🇺🇸 美国SANYIMOE节点(ipv6)_12,🇺🇸 美国SANYIMOE节点(ipv6)_13,🇺🇸 美国SANYIMOE节点(ipv6)_14,🇺🇸 美国SANYIMOE节点(ipv6)_15,🇺🇸 美国SANYIMOE节点(ipv6)_16,🇺🇸 美国SANYIMOE节点(ipv6)_17,🇺🇸 美国SANYIMOE节点(ipv6)_18,🇺🇸 美国SANYIMOE节点(ipv6)_19,🇺🇸 美国SANYIMOE节点(ipv6)_20,🇺🇸 美国SANYIMOE节点(ipv6)_21,🇺🇸 美国SANYIMOE节点(ipv6)_22,🇺🇸 美国SANYIMOE节点(ipv6)_23,🇺🇸 美国SANYIMOE节点(ipv6)_24,🇺🇸 美国SANYIMOE节点(ipv6)_25,🇺🇸 美国SANYIMOE节点(ipv6)_26,🇺🇸 美国SANYIMOE节点(ipv6)_27,🇺🇸 美国SANYIMOE节点(ipv6)_28,🇺🇸 美国SANYIMOE节点(ipv6)_29,🇺🇸 美国SANYIMOE节点(ipv6)_30,🇺🇸 美国SANYIMOE节点(ipv6)_31,🇺🇸 美国SANYIMOE节点(ipv6)_32,🇺🇸 美国SANYIMOE节点(ipv6)_33,🇺🇸 美国SANYIMOE节点(ipv6)_34,🇺🇸 美国SANYIMOE节点(ipv6)_35,🇺🇸 美国SANYIMOE节点(ipv6)_36,🇺🇸 美国SANYIMOE节点(ipv6)_37,🇺🇸 美国SANYIMOE节点(ipv6)_38,🇺🇸 美国SANYIMOE节点(ipv6)_39,🇺🇸 美国SANYIMOE节点(ipv6)_40,🇺🇸 美国SANYIMOE节点(ipv6)_41,🇺🇸 美国SANYIMOE节点(ipv6)_42,🇺🇸 美国SANYIMOE节点(ipv6)_43,🇺🇸 美国SANYIMOE节点(ipv6)_44,🇺🇸 美国SANYIMOE节点(ipv6)_45,🇺🇸 美国SANYIMOE节点(ipv6)_46,🇺🇸 美国SANYIMOE节点(ipv6)_47,🇺🇸 美国SANYIMOE节点(ipv6)_48,🇺🇸 美国SANYIMOE节点(ipv6)_49,🇺🇸 美国SANYIMOE节点(ipv6)_50
+📲 电报信息 = select,🚀 节点选择,🎯 全球直连,🇺🇸 美国SANYIMOE节点(ipv6)_1,🇺🇸 美国SANYIMOE节点(ipv6)_2,🇺🇸 美国SANYIMOE节点(ipv6)_3,🇺🇸 美国SANYIMOE节点(ipv6)_4,🇺🇸 美国SANYIMOE节点(ipv6)_5,🇺🇸 美国SANYIMOE节点(ipv6)_6,🇺🇸 美国SANYIMOE节点(ipv6)_7,🇺🇸 美国SANYIMOE节点(ipv6)_8,🇺🇸 美国SANYIMOE节点(ipv6)_9,🇺🇸 美国SANYIMOE节点(ipv6)_10,🇺🇸 美国SANYIMOE节点(ipv6)_11,🇺🇸 美国SANYIMOE节点(ipv6)_12,🇺🇸 美国SANYIMOE节点(ipv6)_13,🇺🇸 美国SANYIMOE节点(ipv6)_14,🇺🇸 美国SANYIMOE节点(ipv6)_15,🇺🇸 美国SANYIMOE节点(ipv6)_16,🇺🇸 美国SANYIMOE节点(ipv6)_17,🇺🇸 美国SANYIMOE节点(ipv6)_18,🇺🇸 美国SANYIMOE节点(ipv6)_19,🇺🇸 美国SANYIMOE节点(ipv6)_20,🇺🇸 美国SANYIMOE节点(ipv6)_21,🇺🇸 美国SANYIMOE节点(ipv6)_22,🇺🇸 美国SANYIMOE节点(ipv6)_23,🇺🇸 美国SANYIMOE节点(ipv6)_24,🇺🇸 美国SANYIMOE节点(ipv6)_25,🇺🇸 美国SANYIMOE节点(ipv6)_26,🇺🇸 美国SANYIMOE节点(ipv6)_27,🇺🇸 美国SANYIMOE节点(ipv6)_28,🇺🇸 美国SANYIMOE节点(ipv6)_29,🇺🇸 美国SANYIMOE节点(ipv6)_30,🇺🇸 美国SANYIMOE节点(ipv6)_31,🇺🇸 美国SANYIMOE节点(ipv6)_32,🇺🇸 美国SANYIMOE节点(ipv6)_33,🇺🇸 美国SANYIMOE节点(ipv6)_34,🇺🇸 美国SANYIMOE节点(ipv6)_35,🇺🇸 美国SANYIMOE节点(ipv6)_36,🇺🇸 美国SANYIMOE节点(ipv6)_37,🇺🇸 美国SANYIMOE节点(ipv6)_38,🇺🇸 美国SANYIMOE节点(ipv6)_39,🇺🇸 美国SANYIMOE节点(ipv6)_40,🇺🇸 美国SANYIMOE节点(ipv6)_41,🇺🇸 美国SANYIMOE节点(ipv6)_42,🇺🇸 美国SANYIMOE节点(ipv6)_43,🇺🇸 美国SANYIMOE节点(ipv6)_44,🇺🇸 美国SANYIMOE节点(ipv6)_45,🇺🇸 美国SANYIMOE节点(ipv6)_46,🇺🇸 美国SANYIMOE节点(ipv6)_47,🇺🇸 美国SANYIMOE节点(ipv6)_48,🇺🇸 美国SANYIMOE节点(ipv6)_49,🇺🇸 美国SANYIMOE节点(ipv6)_50
+Ⓜ️ 微软服务 = select,🎯 全球直连,🚀 节点选择,🇺🇸 美国SANYIMOE节点(ipv6)_1,🇺🇸 美国SANYIMOE节点(ipv6)_2,🇺🇸 美国SANYIMOE节点(ipv6)_3,🇺🇸 美国SANYIMOE节点(ipv6)_4,🇺🇸 美国SANYIMOE节点(ipv6)_5,🇺🇸 美国SANYIMOE节点(ipv6)_6,🇺🇸 美国SANYIMOE节点(ipv6)_7,🇺🇸 美国SANYIMOE节点(ipv6)_8,🇺🇸 美国SANYIMOE节点(ipv6)_9,🇺🇸 美国SANYIMOE节点(ipv6)_10,🇺🇸 美国SANYIMOE节点(ipv6)_11,🇺🇸 美国SANYIMOE节点(ipv6)_12,🇺🇸 美国SANYIMOE节点(ipv6)_13,🇺🇸 美国SANYIMOE节点(ipv6)_14,🇺🇸 美国SANYIMOE节点(ipv6)_15,🇺🇸 美国SANYIMOE节点(ipv6)_16,🇺🇸 美国SANYIMOE节点(ipv6)_17,🇺🇸 美国SANYIMOE节点(ipv6)_18,🇺🇸 美国SANYIMOE节点(ipv6)_19,🇺🇸 美国SANYIMOE节点(ipv6)_20,🇺🇸 美国SANYIMOE节点(ipv6)_21,🇺🇸 美国SANYIMOE节点(ipv6)_22,🇺🇸 美国SANYIMOE节点(ipv6)_23,🇺🇸 美国SANYIMOE节点(ipv6)_24,🇺🇸 美国SANYIMOE节点(ipv6)_25,🇺🇸 美国SANYIMOE节点(ipv6)_26,🇺🇸 美国SANYIMOE节点(ipv6)_27,🇺🇸 美国SANYIMOE节点(ipv6)_28,🇺🇸 美国SANYIMOE节点(ipv6)_29,🇺🇸 美国SANYIMOE节点(ipv6)_30,🇺🇸 美国SANYIMOE节点(ipv6)_31,🇺🇸 美国SANYIMOE节点(ipv6)_32,🇺🇸 美国SANYIMOE节点(ipv6)_33,🇺🇸 美国SANYIMOE节点(ipv6)_34,🇺🇸 美国SANYIMOE节点(ipv6)_35,🇺🇸 美国SANYIMOE节点(ipv6)_36,🇺🇸 美国SANYIMOE节点(ipv6)_37,🇺🇸 美国SANYIMOE节点(ipv6)_38,🇺🇸 美国SANYIMOE节点(ipv6)_39,🇺🇸 美国SANYIMOE节点(ipv6)_40,🇺🇸 美国SANYIMOE节点(ipv6)_41,🇺🇸 美国SANYIMOE节点(ipv6)_42,🇺🇸 美国SANYIMOE节点(ipv6)_43,🇺🇸 美国SANYIMOE节点(ipv6)_44,🇺🇸 美国SANYIMOE节点(ipv6)_45,🇺🇸 美国SANYIMOE节点(ipv6)_46,🇺🇸 美国SANYIMOE节点(ipv6)_47,🇺🇸 美国SANYIMOE节点(ipv6)_48,🇺🇸 美国SANYIMOE节点(ipv6)_49,🇺🇸 美国SANYIMOE节点(ipv6)_50
+🍎 苹果服务 = select,🚀 节点选择,🎯 全球直连,🇺🇸 美国SANYIMOE节点(ipv6)_1,🇺🇸 美国SANYIMOE节点(ipv6)_2,🇺🇸 美国SANYIMOE节点(ipv6)_3,🇺🇸 美国SANYIMOE节点(ipv6)_4,🇺🇸 美国SANYIMOE节点(ipv6)_5,🇺🇸 美国SANYIMOE节点(ipv6)_6,🇺🇸 美国SANYIMOE节点(ipv6)_7,🇺🇸 美国SANYIMOE节点(ipv6)_8,🇺🇸 美国SANYIMOE节点(ipv6)_9,🇺🇸 美国SANYIMOE节点(ipv6)_10,🇺🇸 美国SANYIMOE节点(ipv6)_11,🇺🇸 美国SANYIMOE节点(ipv6)_12,🇺🇸 美国SANYIMOE节点(ipv6)_13,🇺🇸 美国SANYIMOE节点(ipv6)_14,🇺🇸 美国SANYIMOE节点(ipv6)_15,🇺🇸 美国SANYIMOE节点(ipv6)_16,🇺🇸 美国SANYIMOE节点(ipv6)_17,🇺🇸 美国SANYIMOE节点(ipv6)_18,🇺🇸 美国SANYIMOE节点(ipv6)_19,🇺🇸 美国SANYIMOE节点(ipv6)_20,🇺🇸 美国SANYIMOE节点(ipv6)_21,🇺🇸 美国SANYIMOE节点(ipv6)_22,🇺🇸 美国SANYIMOE节点(ipv6)_23,🇺🇸 美国SANYIMOE节点(ipv6)_24,🇺🇸 美国SANYIMOE节点(ipv6)_25,🇺🇸 美国SANYIMOE节点(ipv6)_26,🇺🇸 美国SANYIMOE节点(ipv6)_27,🇺🇸 美国SANYIMOE节点(ipv6)_28,🇺🇸 美国SANYIMOE节点(ipv6)_29,🇺🇸 美国SANYIMOE节点(ipv6)_30,🇺🇸 美国SANYIMOE节点(ipv6)_31,🇺🇸 美国SANYIMOE节点(ipv6)_32,🇺🇸 美国SANYIMOE节点(ipv6)_33,🇺🇸 美国SANYIMOE节点(ipv6)_34,🇺🇸 美国SANYIMOE节点(ipv6)_35,🇺🇸 美国SANYIMOE节点(ipv6)_36,🇺🇸 美国SANYIMOE节点(ipv6)_37,🇺🇸 美国SANYIMOE节点(ipv6)_38,🇺🇸 美国SANYIMOE节点(ipv6)_39,🇺🇸 美国SANYIMOE节点(ipv6)_40,🇺🇸 美国SANYIMOE节点(ipv6)_41,🇺🇸 美国SANYIMOE节点(ipv6)_42,🇺🇸 美国SANYIMOE节点(ipv6)_43,🇺🇸 美国SANYIMOE节点(ipv6)_44,🇺🇸 美国SANYIMOE节点(ipv6)_45,🇺🇸 美国SANYIMOE节点(ipv6)_46,🇺🇸 美国SANYIMOE节点(ipv6)_47,🇺🇸 美国SANYIMOE节点(ipv6)_48,🇺🇸 美国SANYIMOE节点(ipv6)_49,🇺🇸 美国SANYIMOE节点(ipv6)_50
+📢 谷歌FCM = select,🚀 节点选择,🎯 全球直连,♻️ 自动选择,🇺🇸 美国SANYIMOE节点(ipv6)_1,🇺🇸 美国SANYIMOE节点(ipv6)_2,🇺🇸 美国SANYIMOE节点(ipv6)_3,🇺🇸 美国SANYIMOE节点(ipv6)_4,🇺🇸 美国SANYIMOE节点(ipv6)_5,🇺🇸 美国SANYIMOE节点(ipv6)_6,🇺🇸 美国SANYIMOE节点(ipv6)_7,🇺🇸 美国SANYIMOE节点(ipv6)_8,🇺🇸 美国SANYIMOE节点(ipv6)_9,🇺🇸 美国SANYIMOE节点(ipv6)_10,🇺🇸 美国SANYIMOE节点(ipv6)_11,🇺🇸 美国SANYIMOE节点(ipv6)_12,🇺🇸 美国SANYIMOE节点(ipv6)_13,🇺🇸 美国SANYIMOE节点(ipv6)_14,🇺🇸 美国SANYIMOE节点(ipv6)_15,🇺🇸 美国SANYIMOE节点(ipv6)_16,🇺🇸 美国SANYIMOE节点(ipv6)_17,🇺🇸 美国SANYIMOE节点(ipv6)_18,🇺🇸 美国SANYIMOE节点(ipv6)_19,🇺🇸 美国SANYIMOE节点(ipv6)_20,🇺🇸 美国SANYIMOE节点(ipv6)_21,🇺🇸 美国SANYIMOE节点(ipv6)_22,🇺🇸 美国SANYIMOE节点(ipv6)_23,🇺🇸 美国SANYIMOE节点(ipv6)_24,🇺🇸 美国SANYIMOE节点(ipv6)_25,🇺🇸 美国SANYIMOE节点(ipv6)_26,🇺🇸 美国SANYIMOE节点(ipv6)_27,🇺🇸 美国SANYIMOE节点(ipv6)_28,🇺🇸 美国SANYIMOE节点(ipv6)_29,🇺🇸 美国SANYIMOE节点(ipv6)_30,🇺🇸 美国SANYIMOE节点(ipv6)_31,🇺🇸 美国SANYIMOE节点(ipv6)_32,🇺🇸 美国SANYIMOE节点(ipv6)_33,🇺🇸 美国SANYIMOE节点(ipv6)_34,🇺🇸 美国SANYIMOE节点(ipv6)_35,🇺🇸 美国SANYIMOE节点(ipv6)_36,🇺🇸 美国SANYIMOE节点(ipv6)_37,🇺🇸 美国SANYIMOE节点(ipv6)_38,🇺🇸 美国SANYIMOE节点(ipv6)_39,🇺🇸 美国SANYIMOE节点(ipv6)_40,🇺🇸 美国SANYIMOE节点(ipv6)_41,🇺🇸 美国SANYIMOE节点(ipv6)_42,🇺🇸 美国SANYIMOE节点(ipv6)_43,🇺🇸 美国SANYIMOE节点(ipv6)_44,🇺🇸 美国SANYIMOE节点(ipv6)_45,🇺🇸 美国SANYIMOE节点(ipv6)_46,🇺🇸 美国SANYIMOE节点(ipv6)_47,🇺🇸 美国SANYIMOE节点(ipv6)_48,🇺🇸 美国SANYIMOE节点(ipv6)_49,🇺🇸 美国SANYIMOE节点(ipv6)_50
+🎯 全球直连 = select,DIRECT,🚀 节点选择,♻️ 自动选择
+🛑 全球拦截 = select,REJECT,DIRECT
+🍃 应用净化 = select,REJECT,DIRECT
+🐟 漏网之鱼 = select,🚀 节点选择,🎯 全球直连,♻️ 自动选择,🇺🇸 美国SANYIMOE节点(ipv6)_1,🇺🇸 美国SANYIMOE节点(ipv6)_2,🇺🇸 美国SANYIMOE节点(ipv6)_3,🇺🇸 美国SANYIMOE节点(ipv6)_4,🇺🇸 美国SANYIMOE节点(ipv6)_5,🇺🇸 美国SANYIMOE节点(ipv6)_6,🇺🇸 美国SANYIMOE节点(ipv6)_7,🇺🇸 美国SANYIMOE节点(ipv6)_8,🇺🇸 美国SANYIMOE节点(ipv6)_9,🇺🇸 美国SANYIMOE节点(ipv6)_10,🇺🇸 美国SANYIMOE节点(ipv6)_11,🇺🇸 美国SANYIMOE节点(ipv6)_12,🇺🇸 美国SANYIMOE节点(ipv6)_13,🇺🇸 美国SANYIMOE节点(ipv6)_14,🇺🇸 美国SANYIMOE节点(ipv6)_15,🇺🇸 美国SANYIMOE节点(ipv6)_16,🇺🇸 美国SANYIMOE节点(ipv6)_17,🇺🇸 美国SANYIMOE节点(ipv6)_18,🇺🇸 美国SANYIMOE节点(ipv6)_19,🇺🇸 美国SANYIMOE节点(ipv6)_20,🇺🇸 美国SANYIMOE节点(ipv6)_21,🇺🇸 美国SANYIMOE节点(ipv6)_22,🇺🇸 美国SANYIMOE节点(ipv6)_23,🇺🇸 美国SANYIMOE节点(ipv6)_24,🇺🇸 美国SANYIMOE节点(ipv6)_25,🇺🇸 美国SANYIMOE节点(ipv6)_26,🇺🇸 美国SANYIMOE节点(ipv6)_27,🇺🇸 美国SANYIMOE节点(ipv6)_28,🇺🇸 美国SANYIMOE节点(ipv6)_29,🇺🇸 美国SANYIMOE节点(ipv6)_30,🇺🇸 美国SANYIMOE节点(ipv6)_31,🇺🇸 美国SANYIMOE节点(ipv6)_32,🇺🇸 美国SANYIMOE节点(ipv6)_33,🇺🇸 美国SANYIMOE节点(ipv6)_34,🇺🇸 美国SANYIMOE节点(ipv6)_35,🇺🇸 美国SANYIMOE节点(ipv6)_36,🇺🇸 美国SANYIMOE节点(ipv6)_37,🇺🇸 美国SANYIMOE节点(ipv6)_38,🇺🇸 美国SANYIMOE节点(ipv6)_39,🇺🇸 美国SANYIMOE节点(ipv6)_40,🇺🇸 美国SANYIMOE节点(ipv6)_41,🇺🇸 美国SANYIMOE节点(ipv6)_42,🇺🇸 美国SANYIMOE节点(ipv6)_43,🇺🇸 美国SANYIMOE节点(ipv6)_44,🇺🇸 美国SANYIMOE节点(ipv6)_45,🇺🇸 美国SANYIMOE节点(ipv6)_46,🇺🇸 美国SANYIMOE节点(ipv6)_47,🇺🇸 美国SANYIMOE节点(ipv6)_48,🇺🇸 美国SANYIMOE节点(ipv6)_49,🇺🇸 美国SANYIMOE节点(ipv6)_50
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list,🎯 全球直连,update-interval=86400
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list,🎯 全球直连,update-interval=86400
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list,🛑 全球拦截,update-interval=86400
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list,🍃 应用净化,update-interval=86400
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list,📢 谷歌FCM,update-interval=86400
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list,🎯 全球直连,update-interval=86400
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list,🎯 全球直连,update-interval=86400
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Microsoft.list,Ⓜ️ 微软服务,update-interval=86400
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list,🍎 苹果服务,update-interval=86400
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list,📲 电报信息,update-interval=86400
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list,🌍 国外媒体,update-interval=86400
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list,🚀 节点选择,update-interval=86400
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list,🎯 全球直连,update-interval=86400
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list,🎯 全球直连,update-interval=86400
+GEOIP,CN,🎯 全球直连
+FINAL,🐟 漏网之鱼
