@@ -4,6 +4,7 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6to4), server: "2001:470:1f04:89d:eeea:4ca5:e056:5e08", port: 20000, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:eeea:4ca5:e056:5e08"}}}
   - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_1, server: "2001:470:1f04:89d:398a:9200:15dc:efd8", port: 20003, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:398a:9200:15dc:efd8"}}}
   - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_2, server: "2001:470:1f04:89d:498:63dd:95db:18a1", port: 20004, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:498:63dd:95db:18a1"}}}
   - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_3, server: "2001:470:1f04:89d:c1ef:8781:2941:a7fd", port: 20005, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:c1ef:8781:2941:a7fd"}}}
@@ -54,12 +55,43 @@ proxies:
   - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_48, server: "2001:470:1f04:89d:6579:84d6:4dcf:a11d", port: 20050, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:6579:84d6:4dcf:a11d"}}}
   - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_49, server: "2001:470:1f04:89d:ecd2:d19c:1ed3:93ce", port: 20051, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:ecd2:d19c:1ed3:93ce"}}}
   - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_50, server: "2001:470:1f04:89d:7664:5be4:a30c:5aff", port: 20052, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:7664:5be4:a30c:5aff"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_51, server: "2001:470:1f04:89d:a45:c754:8312:c7a6", port: 20053, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:a45:c754:8312:c7a6"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_52, server: "2001:470:1f04:89d:ea6b:3368:13ec:bf7d", port: 20054, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:ea6b:3368:13ec:bf7d"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_53, server: "2001:470:1f04:89d:6f09:a53a:54ff:792d", port: 20055, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:6f09:a53a:54ff:792d"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_54, server: "2001:470:1f04:89d:48a:7f41:a6b4:1306", port: 20056, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:48a:7f41:a6b4:1306"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_55, server: "2001:470:1f04:89d:a09d:c991:6d2:560e", port: 20057, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:a09d:c991:6d2:560e"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_56, server: "2408:8210:482b:6670:9cdb:3fe4:3911:2e15", port: 20058, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2408:8210:482b:6670:9cdb:3fe4:3911:2e15"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_57, server: "2001:470:1f04:89d:247e:42ed:894e:789", port: 20059, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:247e:42ed:894e:789"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_58, server: "2001:470:1f04:89d:7c05:f8c0:343c:9009", port: 20060, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:7c05:f8c0:343c:9009"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_59, server: "2001:470:1f04:89d:d863:7b7d:461e:debe", port: 20061, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:d863:7b7d:461e:debe"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_60, server: "2001:470:1f04:89d:2be1:baef:ccae:593d", port: 20062, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:2be1:baef:ccae:593d"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_61, server: "2001:470:1f04:89d:8908:b9a9:7dae:569", port: 20063, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:8908:b9a9:7dae:569"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_62, server: "2001:470:1f04:89d:a9:340:30d3:be14", port: 20064, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:a9:340:30d3:be14"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_63, server: "2001:470:1f04:89d:d581:99a4:1f3d:e103", port: 20065, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:d581:99a4:1f3d:e103"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_64, server: "2001:470:1f04:89d:5d53:db61:58a:fd47", port: 20066, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:5d53:db61:58a:fd47"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_65, server: "2001:470:1f04:89d:3cfb:d8fc:2036:7d57", port: 20067, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:3cfb:d8fc:2036:7d57"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_66, server: "2001:470:1f04:89d:3d3c:5490:377c:7b3b", port: 20068, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:3d3c:5490:377c:7b3b"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_67, server: "2001:470:1f04:89d:7521:529d:1710:e0b5", port: 20069, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:7521:529d:1710:e0b5"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_68, server: "2001:470:1f04:89d:410a:fc10:e5f0:f236", port: 20070, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:410a:fc10:e5f0:f236"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_69, server: "2001:470:1f04:89d:38c1:5075:823c:fe01", port: 20071, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:38c1:5075:823c:fe01"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_70, server: "2001:470:1f04:89d:a06d:96e9:8c5f:9b3", port: 20072, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:a06d:96e9:8c5f:9b3"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_71, server: "2001:470:1f04:89d:b5ce:ff77:f009:5b3", port: 20073, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:b5ce:ff77:f009:5b3"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_72, server: "2001:470:1f04:89d:6ed5:8f8:c93:8b19", port: 20074, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:6ed5:8f8:c93:8b19"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_73, server: "2001:470:1f04:89d:12c2:681c:205a:20f8", port: 20075, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:12c2:681c:205a:20f8"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_74, server: "2001:470:1f04:89d:1cd:29ce:c54e:98f3", port: 20076, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:1cd:29ce:c54e:98f3"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_75, server: "2001:470:1f04:89d:428c:6ab8:ce67:8064", port: 20077, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:428c:6ab8:ce67:8064"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_76, server: "2001:470:1f04:89d:417b:8388:4a53:850c", port: 20078, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:417b:8388:4a53:850c"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_77, server: "2001:470:1f04:89d:2a6f:3044:a69d:85cf", port: 20079, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:2a6f:3044:a69d:85cf"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_78, server: "2001:470:1f04:89d:e817:dae1:dcd4:949b", port: 20080, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:e817:dae1:dcd4:949b"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_79, server: "2001:470:1f04:89d:68ba:3204:b785:f455", port: 20081, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:68ba:3204:b785:f455"}}}
+  - {name: 🇺🇸 美国SANYIMOE节点(ipv6)_80, server: "2001:470:1f04:89d:378f:31d3:a31a:e807", port: 20082, type: vmess, uuid: a27183f4-20d4-4ed5-ab6e-27f4a8937dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: "2001:470:1f04:89d:378f:31d3:a31a:e807"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - 🇺🇸 美国SANYIMOE节点(ipv6to4)
       - 🇺🇸 美国SANYIMOE节点(ipv6)_1
       - 🇺🇸 美国SANYIMOE节点(ipv6)_2
       - 🇺🇸 美国SANYIMOE节点(ipv6)_3
@@ -110,12 +142,43 @@ proxy-groups:
       - 🇺🇸 美国SANYIMOE节点(ipv6)_48
       - 🇺🇸 美国SANYIMOE节点(ipv6)_49
       - 🇺🇸 美国SANYIMOE节点(ipv6)_50
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_51
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_52
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_53
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_54
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_55
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_56
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_57
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_58
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_59
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_60
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_61
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_62
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_63
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_64
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_65
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_66
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_67
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_68
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_69
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_70
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_71
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_72
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_73
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_74
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_75
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_76
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_77
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_78
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_79
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_80
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
+      - 🇺🇸 美国SANYIMOE节点(ipv6to4)
       - 🇺🇸 美国SANYIMOE节点(ipv6)_1
       - 🇺🇸 美国SANYIMOE节点(ipv6)_2
       - 🇺🇸 美国SANYIMOE节点(ipv6)_3
@@ -166,12 +229,43 @@ proxy-groups:
       - 🇺🇸 美国SANYIMOE节点(ipv6)_48
       - 🇺🇸 美国SANYIMOE节点(ipv6)_49
       - 🇺🇸 美国SANYIMOE节点(ipv6)_50
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_51
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_52
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_53
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_54
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_55
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_56
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_57
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_58
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_59
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_60
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_61
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_62
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_63
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_64
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_65
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_66
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_67
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_68
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_69
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_70
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_71
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_72
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_73
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_74
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_75
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_76
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_77
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_78
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_79
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_80
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - 🇺🇸 美国SANYIMOE节点(ipv6to4)
       - 🇺🇸 美国SANYIMOE节点(ipv6)_1
       - 🇺🇸 美国SANYIMOE节点(ipv6)_2
       - 🇺🇸 美国SANYIMOE节点(ipv6)_3
@@ -222,11 +316,42 @@ proxy-groups:
       - 🇺🇸 美国SANYIMOE节点(ipv6)_48
       - 🇺🇸 美国SANYIMOE节点(ipv6)_49
       - 🇺🇸 美国SANYIMOE节点(ipv6)_50
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_51
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_52
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_53
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_54
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_55
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_56
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_57
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_58
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_59
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_60
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_61
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_62
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_63
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_64
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_65
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_66
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_67
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_68
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_69
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_70
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_71
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_72
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_73
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_74
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_75
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_76
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_77
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_78
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_79
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_80
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - 🇺🇸 美国SANYIMOE节点(ipv6to4)
       - 🇺🇸 美国SANYIMOE节点(ipv6)_1
       - 🇺🇸 美国SANYIMOE节点(ipv6)_2
       - 🇺🇸 美国SANYIMOE节点(ipv6)_3
@@ -277,11 +402,42 @@ proxy-groups:
       - 🇺🇸 美国SANYIMOE节点(ipv6)_48
       - 🇺🇸 美国SANYIMOE节点(ipv6)_49
       - 🇺🇸 美国SANYIMOE节点(ipv6)_50
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_51
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_52
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_53
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_54
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_55
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_56
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_57
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_58
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_59
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_60
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_61
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_62
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_63
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_64
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_65
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_66
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_67
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_68
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_69
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_70
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_71
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_72
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_73
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_74
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_75
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_76
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_77
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_78
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_79
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_80
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - 🇺🇸 美国SANYIMOE节点(ipv6to4)
       - 🇺🇸 美国SANYIMOE节点(ipv6)_1
       - 🇺🇸 美国SANYIMOE节点(ipv6)_2
       - 🇺🇸 美国SANYIMOE节点(ipv6)_3
@@ -332,11 +488,42 @@ proxy-groups:
       - 🇺🇸 美国SANYIMOE节点(ipv6)_48
       - 🇺🇸 美国SANYIMOE节点(ipv6)_49
       - 🇺🇸 美国SANYIMOE节点(ipv6)_50
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_51
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_52
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_53
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_54
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_55
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_56
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_57
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_58
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_59
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_60
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_61
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_62
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_63
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_64
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_65
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_66
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_67
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_68
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_69
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_70
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_71
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_72
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_73
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_74
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_75
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_76
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_77
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_78
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_79
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_80
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - 🇺🇸 美国SANYIMOE节点(ipv6to4)
       - 🇺🇸 美国SANYIMOE节点(ipv6)_1
       - 🇺🇸 美国SANYIMOE节点(ipv6)_2
       - 🇺🇸 美国SANYIMOE节点(ipv6)_3
@@ -387,12 +574,43 @@ proxy-groups:
       - 🇺🇸 美国SANYIMOE节点(ipv6)_48
       - 🇺🇸 美国SANYIMOE节点(ipv6)_49
       - 🇺🇸 美国SANYIMOE节点(ipv6)_50
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_51
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_52
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_53
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_54
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_55
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_56
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_57
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_58
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_59
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_60
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_61
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_62
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_63
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_64
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_65
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_66
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_67
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_68
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_69
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_70
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_71
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_72
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_73
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_74
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_75
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_76
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_77
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_78
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_79
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_80
   - name: 📢 谷歌FCM
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - 🇺🇸 美国SANYIMOE节点(ipv6to4)
       - 🇺🇸 美国SANYIMOE节点(ipv6)_1
       - 🇺🇸 美国SANYIMOE节点(ipv6)_2
       - 🇺🇸 美国SANYIMOE节点(ipv6)_3
@@ -443,6 +661,36 @@ proxy-groups:
       - 🇺🇸 美国SANYIMOE节点(ipv6)_48
       - 🇺🇸 美国SANYIMOE节点(ipv6)_49
       - 🇺🇸 美国SANYIMOE节点(ipv6)_50
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_51
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_52
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_53
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_54
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_55
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_56
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_57
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_58
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_59
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_60
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_61
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_62
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_63
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_64
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_65
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_66
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_67
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_68
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_69
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_70
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_71
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_72
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_73
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_74
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_75
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_76
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_77
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_78
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_79
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_80
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -465,6 +713,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - 🇺🇸 美国SANYIMOE节点(ipv6to4)
       - 🇺🇸 美国SANYIMOE节点(ipv6)_1
       - 🇺🇸 美国SANYIMOE节点(ipv6)_2
       - 🇺🇸 美国SANYIMOE节点(ipv6)_3
@@ -515,6 +764,36 @@ proxy-groups:
       - 🇺🇸 美国SANYIMOE节点(ipv6)_48
       - 🇺🇸 美国SANYIMOE节点(ipv6)_49
       - 🇺🇸 美国SANYIMOE节点(ipv6)_50
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_51
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_52
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_53
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_54
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_55
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_56
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_57
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_58
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_59
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_60
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_61
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_62
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_63
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_64
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_65
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_66
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_67
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_68
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_69
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_70
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_71
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_72
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_73
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_74
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_75
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_76
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_77
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_78
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_79
+      - 🇺🇸 美国SANYIMOE节点(ipv6)_80
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
